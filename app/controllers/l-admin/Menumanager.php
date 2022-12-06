@@ -21,7 +21,7 @@ class Menumanager extends Backend_Controller
             $this->role->i('write') ||
             $this->role->i('modify') ||
             $this->role->i('delete')
-            ) {
+        ) {
             $grids = xss_filter($this->input->get('group_id'), 'sql');
 
             if (!empty($grids)) {

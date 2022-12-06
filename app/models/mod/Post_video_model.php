@@ -346,7 +346,7 @@ class Post_video_model extends CI_Model
             $cek->num_rows() == 1 &&
             $cek->row_array()['id'] == $id ||
             $cek->num_rows() != 1
-           ) {
+        ) {
             return true;
         } else {
             return false;

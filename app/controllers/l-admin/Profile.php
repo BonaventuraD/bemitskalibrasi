@@ -105,10 +105,10 @@ class Profile extends Backend_Controller
                         ->row_array();
 
                     if (
-                          $countMail == 1 &&
-                          $currentMail == $editMail['email'] ||
-                          $countMail != 1
-                        ) {
+                        $countMail == 1 &&
+                        $currentMail == $editMail['email'] ||
+                        $countMail != 1
+                    ) {
                         $in_pass = $this->input->post('input_password');
                         $data = array(
                             'password' => (!empty($in_pass) ? encrypt($in_pass) : $this->data['user_password']),

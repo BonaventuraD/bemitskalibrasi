@@ -221,7 +221,7 @@ class Permissions extends Backend_Controller
                 $query->num_rows() == 1 &&
                 $query->row_array()['pk'] == $pk ||
                 $query->num_rows() == 0
-               ) {
+            ) {
                 return true;
             } else {
                 $this->form_validation->set_message('_cek_edit_group', lang_line('form_validation_already_exists'));

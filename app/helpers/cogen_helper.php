@@ -258,8 +258,7 @@ EOS;
 
                 //-----------> Start. FIELD TYPE VARCHAR.
                 if ($field_type == "VARCHAR") {
-
-//-----------> Input browse filemanager (VARCHAR).
+                    //-----------> Input browse filemanager (VARCHAR).
                     if (!empty($data_config['field_browse']) && $data_config['field_browse'] == $field_name) {
                         $write_input_filemanager_varchar = write_input_filemanager($input_label, $field_name);
                         $write .= <<< EOS
@@ -327,8 +326,7 @@ EOS;
 
                 //-----------> Start. FIELD TYPE TEXT.
                 elseif ($field_type == "TEXT") {
-
-//-----------> Start. Input TinyMCE (TEXT).
+                    //-----------> Start. Input TinyMCE (TEXT).
                     if (!empty($data_config['field_tinymce']) && $data_config['field_tinymce'] == $field_name) {
                         $write_input_tinymce = write_input_tinymce($input_label, $field_name);
                         $write .= <<<EOS
@@ -482,8 +480,7 @@ EOS;
 
                 //-----------> Start. FIELD TYPE VARCHAR.
                 if ($field_type == "VARCHAR") {
-
-//-----------> Input browse filemanager (VARCHAR).
+                    //-----------> Input browse filemanager (VARCHAR).
                     if (!empty($data_config['field_browse']) && $data_config['field_browse'] == $field_name) {
                         $write_input_filemanager_varchar = write_input_filemanager($input_label, $field_name, true);
                         $write .= <<< EOS
@@ -547,8 +544,7 @@ EOS;
 
                 //-----------> Start. FIELD TYPE TEXT.
                 elseif ($field_type == "TEXT") {
-
-//-----------> Start. Input TinyMCE (TEXT).
+                    //-----------> Start. Input TinyMCE (TEXT).
                     if (!empty($data_config['field_tinymce']) && $data_config['field_tinymce'] == $field_name) {
                         $write_input_tinymce = write_input_tinymce($input_label, $field_name, true);
                         $write .= <<<EOS

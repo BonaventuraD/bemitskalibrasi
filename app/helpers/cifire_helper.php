@@ -111,7 +111,7 @@ if (! function_exists('mail_config')) {
                     'charset'   => 'iso-8859-1', // iso-8859-1 or utf-8
                     'wordwrap'  => true
                 );
-            break;
+                break;
             
             case 'sendmail':
                 $config = array(
@@ -124,7 +124,7 @@ if (! function_exists('mail_config')) {
                     'charset'   => 'iso-8859-1', // iso-8859-1 or utf-8
                     'wordwrap'  => true
                 );
-            break;
+                break;
 
             case 'mail':
             default:
@@ -137,7 +137,7 @@ if (! function_exists('mail_config')) {
                     'charset'   => 'iso-8859-1', // iso-8859-1 or utf-8
                     'wordwrap'  => true
                 );
-            break;
+                break;
         }
 
         return $config;
@@ -256,29 +256,29 @@ if (! function_exists('post_url')) {
         switch ($slug_url) {
             default:
                 $url = '';
-            break;
+                break;
 
             case 'seotitle':
                 $url = site_url($seotitle);
-            break;
+                break;
 
             case 'slug/seotitle':
                 $slug_title = get_setting('slug_title');
                 $url = site_url("$slug_title/$seotitle");
-            break;
+                break;
             
             case 'yyyy/seotitle':
                 $post = $CI->db->select('datepost')->where('seotitle', $seotitle)->get('t_post')->row_array();
                 $year = date('Y', strtotime($post['datepost']));
                 $url = site_url("$year/$seotitle");
-            break;
+                break;
             
             case 'yyyy/mm/seotitle':
                 $post = $CI->db->select('datepost')->where('seotitle', $seotitle)->get('t_post')->row_array();
                 $moon = date('m', strtotime($post['datepost']));
                 $year = date('Y', strtotime($post['datepost']));
                 $url = site_url("$year/$moon/$seotitle");
-            break;
+                break;
             
             case 'yyyy/mm/dd/seotitle':
                 $post = $CI->db->select('datepost')->where('seotitle', $seotitle)->get('t_post')->row_array();
@@ -286,7 +286,7 @@ if (! function_exists('post_url')) {
                 $moon = date('m', strtotime($post['datepost']));
                 $year = date('Y', strtotime($post['datepost']));
                 $url = site_url("$year/$moon/$day/$seotitle");
-            break;
+                break;
         }
 
         return $url;
@@ -367,7 +367,7 @@ if (! function_exists('post_images')) {
                         $image_url = content_url("images/noimage.jpg").$dt;
                     }
                 }
-            break;
+                break;
             
             default:
             case false:
@@ -380,7 +380,7 @@ if (! function_exists('post_images')) {
                 } else {
                     $image_url = '';
                 }
-            break;
+                break;
         }
 
         return $image_url;
@@ -608,7 +608,7 @@ if (! function_exists('xss_filter')) {
             default:
                 $str = stripcslashes(htmlspecialchars($str, ENT_QUOTES));
                 return $str;
-            break;
+                break;
 
             case 'sql':
                 $x = array('-','/','\\',',','#',':',';','\'','"','[',']','{','}',')','(','|','`','~','!','%','$','^','&','*','=','?','+');
@@ -617,7 +617,7 @@ if (! function_exists('xss_filter')) {
                 $str = htmlspecialchars($str);
                 $str = preg_replace('/[^A-Za-z0-9]/', '', $str);
                 return intval($str);
-            break;
+                break;
 
             case 'xss':
                 $x = array('\\','#',';','\'','"','[',']','{','}',')','(','|','`','~','!','%','$','^','*','=','?','+');
@@ -625,7 +625,7 @@ if (! function_exists('xss_filter')) {
                 $str = stripcslashes($str);
                 $str = htmlspecialchars($str);
                 return $str;
-            break;
+                break;
         }
     }
 }
@@ -703,11 +703,11 @@ if (! function_exists('pecah_kata')) {
             switch ($link) {
                 default:
                     $_rez .= $pecah[$i].$separator;
-                break;
+                    break;
                 case true:
                     $lstrlink = $href.$pecah[$i];
                     $_rez .= '<a href="'.$lstrlink.'">'.$pecah[$i].'</a>'.$separator;
-                break;
+                    break;
             }
         }
 

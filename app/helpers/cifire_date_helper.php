@@ -15,7 +15,7 @@
  | $lang['day_name'] = array('Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu');
  |
 */
- 
+
 if (! function_exists('ci_date')) {
     function ci_date($date, $new_format)
     {

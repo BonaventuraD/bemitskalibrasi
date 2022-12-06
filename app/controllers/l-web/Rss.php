@@ -19,19 +19,19 @@ class Rss extends Web_controller
         switch ($param) {
             case 'list':
                 $this->rss_lists();
-            break;
+                break;
 
             case 'category':
                 $this->rss_category($param2);
-            break;
+                break;
 
             case 'all-posts':
                 $this->rss_allposts($param2);
-            break;
+                break;
             
             default:
                 $this->render_404();
-            break;
+                break;
         }
     }
 
