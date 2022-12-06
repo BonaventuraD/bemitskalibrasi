@@ -1,9 +1,9 @@
 <footer class="text-center text-white slide4Homebg">
-    <div class="position-relative d-none d-lg-block">
+    <!-- <div class="position-relative d-none d-lg-block">
         <div class="position-absolute top-0 start-0">
             <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenfooterataskiri.png" class="img-fluid " alt="...">
         </div>
-    </div>
+    </div> -->
 
 
     <div class="container py-5">
@@ -51,10 +51,11 @@
     <!-- Copyright -->
     <div class="col alignt-self-center text-center text-dark p-3 warnabgnav">
         <div class="col">
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/footerMerkITS.png" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/footerMerkITS.png" alt="" height="10">
         </div>
         <div class="col fontnavbar">
-            ©2021-From Medsi for KM ITS
+            <br>
+            ©2022-From Medsi for KM ITS
         </div>
     </div>
     <!-- Copyright -->
@@ -64,11 +65,11 @@
         <span>Aspirasi KM ITS<span>
     </a>
 
-    <div class="position-relative d-none d-lg-block" style="margin-right: -15px;">
+    <!-- <div class="position-relative d-none d-lg-block" style="margin-right: -15px;">
         <div class="position-absolute bottom-0 end-0">
             <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenbawahkananfooter.png" class="img-fluid " alt="...">
         </div>
-    </div>
+    </div> -->
 </footer>
 </body>
 

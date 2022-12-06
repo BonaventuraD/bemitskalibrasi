@@ -38,9 +38,13 @@ a:hover {
 
   
 .backgroundAll {
-    background-color: #fcfae6;
+    background-color: #28183D;
 }
 
+.bglogokalibrasi {
+    background: rgba(252, 249, 245, 0.9);
+border-radius: 1500px 1500px 0px 0px;
+}
 .bgpkagendaunjukasa {
     background-color: #f4515e;
 }
@@ -97,8 +101,7 @@ a:hover {
 }
 
 .h1homewarnapaletungu {
-    color: #393999;
-    background: #fcfae6;
+    color: #FFFFFF;
     opacity: 0.9;
 }
 
@@ -115,7 +118,9 @@ a:hover {
 
 
 .slide4Homebg {
-    background-color: #393999;
+    
+    background-image: url("../img/slide4Homebg.png");
+    
 }
 
 .card {
@@ -150,7 +155,7 @@ a:hover {
 }
 
 .warnapaletungu {
-    color: #393999;
+    color: #FFFFFF;
 }
 
 .fontnavbar {
@@ -221,7 +226,7 @@ a:hover {
     font-weight: 500;
     border: none;
     background: #EFF2F9;
-    color: #051441;
+    color: #FFFFFF;
     border-radius: 50px;
     margin-right: 30px;
     margin-bottom: 10px;

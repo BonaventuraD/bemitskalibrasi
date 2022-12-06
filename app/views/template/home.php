@@ -3,10 +3,10 @@
   <div class="container py-5">
     <div class="row align-items-center">
       <div class="col d-none d-sm-block">
-        <img class="img-fluid backgroundAll" style="border-radius:80px;" src="<?= base_url(); ?>assets/img/logokabinet.png" alt="">
+        <img class="img-fluid bglogokalibrasi" src="<?= base_url(); ?>assets/img/logokabinet.png" alt="">
       </div>
       <div class="row col text-center">
-        <h1 class="h1homewarnapaletungu fw-bolder py-2" style="border-radius: 20px;">Selamat Datang<br>di Official Website<br>BEM ITS 2022</h1>
+        <h1 class="h1homewarnapaletungu fw-bolder py-2">Selamat Datang<br>di Official Website<br>BEM ITS 2022</h1>
       </div>
     </div>
   </div>
@@ -33,11 +33,11 @@
       </div>
     </div>
   </div>
-  <div class="position-relative" style="margin-right: -15px;">
+  <!-- <div class="position-relative" style="margin-right: -15px;">
     <div class="position-absolute bottom-0 end-0">
       <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide2home.png" class="img-fluid " alt="...">
     </div>
-  </div>
+  </div> -->
 </div>
 <!-- Slide 2 lilabout -->
 
@@ -428,7 +428,7 @@
 <div class="container-fluid py-5 slideHome5bg">
   <div class="container py-5 col-9">
     <div class=" card border-light card-border-radius" style="border-radius: 50px 50px 50px 50px;">
-      <div class="py-2 slide5Homebg">
+      <div class="py-2">
         <svg class="ms-3" xmlns="http://www.w3.org/2000/svg" width="54" height="14" viewBox="0 0 54 14">
           <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
             <circle cx="6" cy="6" r="6" fill="#FF5F56" stroke="#E0443E" stroke-width=".5"></circle>
