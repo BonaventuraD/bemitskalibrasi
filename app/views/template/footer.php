@@ -50,12 +50,12 @@
     </div>
     </div>
     <!-- Copyright -->
-    <div class="col alignt-self-center text-center text-dark p-3 warnabgnav">
+    <div class="col alignt-self-center text-center text-dark p-3 warnabgfoot">
         <div class="col">
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/footerMerkITS.png" alt="" height="10">
+            <img class="img-fluid pt-3 pb-3" src="<?= base_url(); ?>assets/img/footerMerkITS.png" alt="" height="10">
         </div>
         <div class="col fontnavbar">
-            <br>
+            
             ©2022-From Medsi for KM ITS
         </div>
     </div>

@@ -7,17 +7,17 @@
       </div>
       <div class="row col text-center">
         <h1 class="h1homewarnapaletungu fw-bolder py-2">Selamat Datang<br>di Official Website<br>BEM ITS 2022</h1>
-        <img class="img-fluid w-120" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1bawahlogo" alt="">
+        <img class="img-fluid" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1bawahlogo" alt="">
       </div>
-      <img class="img-fluid w-120" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1bawahkananlogo" alt="">
+      <img class="img-fluid" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1bawahkananlogo" alt="">
     </div>
   </div>
 </div>
 <!-- Slide 1 Welcome -->
 
 <!-- Slide 2 lilabout -->
-<div class="container-fluid pt-2 backgroundAll">
-  <div class="container pb-5">
+<div class="container-fluid pt-5 slide2Homebg">
+  <div class="container pb-2 pt-5">
     <div class="row justify-content-center align-items-center">
       <div class="col mx-auto pb-5">
         <h2 class="warnapaletungu fw-bold text-start d-none d-sm-block">Tentang Kami</h2>
@@ -34,6 +34,7 @@
         </div>
       </div>
     </div>
+    <div class="row pb-5 pt-5"> </div>
   </div>
   <!-- <div class="position-relative" style="margin-right: -15px;">
     <div class="position-absolute bottom-0 end-0">
@@ -44,7 +45,7 @@
 <!-- Slide 2 lilabout -->
 
 <!-- Slide 3 quicklink  -->
-<div class="container-fluid py-5 slide3Homebg d-none d-sm-block">
+<div class="container-fluid py-5 slide6Homebg d-none d-sm-block">
   <div id="portfolio" class="clearfix">
 
     <div class="container" data-aos="fade-up">
@@ -285,6 +286,44 @@
   </section>
 </div>
 <!-- Slide 3 quicklink  -->
+
+<!-- Slide 4 kabardaribemits -->
+<div class="container-fluid pt-5 slide7Homebg">
+
+  <header class="section-header">
+    <h3 class="fw-bolder">Kabar dari BEM ITS</h3>
+  </header>
+  
+    <div class="container justify-content-center align-items-center text-center">
+      <div class="row pb-5 pt-5">
+        <div class="col-sm">tes</div>
+        <div class="col-sm">tes</div>
+        <div class="col-sm">tes</div>
+        <div class="col-sm">tes</div>
+      </div>
+      <div class="row pb-5 pt-5">
+        <div class="col-sm">tes</div>
+        <div class="col-sm">tes</div>
+        <div class="col-sm">tes</div>
+        <div class="col-sm">tes</div>
+      </div>
+      <div class="row pb-5 pt-5">
+        <div class="col-sm">tes</div>
+        <div class="col-sm">tes</div>
+        <div class="col-sm">tes</div>
+        <div class="col-sm">tes</div>
+      </div>
+    </div>
+    
+    
+  <!-- <div class="position-relative" style="margin-right: -15px;">
+    <div class="position-absolute bottom-0 end-0">
+      <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide2home.png" class="img-fluid " alt="...">
+    </div>
+  </div> -->
+</div>
+<!-- Slide 4 kabardaribemits -->
+
 
 <!-- Slide 4 kabardariBemITS -->
 <!-- <div class="container-fluid py-5 slide4Homebg">
