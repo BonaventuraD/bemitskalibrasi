@@ -1,0 +1,374 @@
+.body {
+    overflow-x: hidden;
+    background-color: #fcfae6;
+}
+
+a:hover {
+  color: #ff7b17 !important;
+}
+
+.kepala {
+    position: absolute;
+    width: 103%;
+    height: 40%;
+    left: -3%;
+    background: #ffeb78;
+    /* background-image: linear-gradient(#fcfae6, #393999); */
+    opacity: 0.65;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 50% 20%;
+    border-bottom-right-radius: 100% 100%;
+    z-index: -1;
+}
+
+.tombolunjukasa {
+    background-color: #F4515E;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50px;
+  }
+
+  
+.backgroundAll {
+    background-color: #fcfae6;
+}
+
+.bgpkagendaunjukasa {
+    background-color: #f4515e;
+}
+
+.slidekmhs {
+    background-color:#ffeb78;
+}
+
+.slideprogress{
+    background-color: #FF7B17;
+}
+
+.slide3Homebg {
+    /* background-color: #FFD400; */
+    padding: auto;
+    margin: auto;
+    background-image: url("../img/slide3Homebg.png");
+    /* box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slideHome5bg {
+    /* background-color: #FFD400; */
+    padding: auto;
+    margin: auto;
+    background-image: url("../img/slide5Homebg.png");
+    /* box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.homeslide1 {
+    padding: auto;
+    margin: auto;
+    background-image: url("../img/homeslide1.png");
+    /* box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gambarcarouselhome {
+    filter: brightness(0.30);
+}
+
+.instaimg img {
+    margin-bottom: 30px;
+}
+
+.instaimg img:hover {
+    opacity: 0.8;
+    -moz-opacity: 0.8;
+    -webkit-opacity: 0.8;
+}
+
+.h1homewarnapaletungu {
+    color: #393999;
+    background: #fcfae6;
+    opacity: 0.9;
+}
+
+
+.slidekemenbg {
+    background-color: #FFD400;
+}
+
+.slidekemeninpusbg {
+    background-color: #42eaea;
+}
+
+
+
+
+.slide4Homebg {
+    background-color: #393999;
+}
+
+.card {
+    border: none;
+    border-radius: 20%;
+}
+
+.slide5Homebg {
+    background-color: #013c51;
+    border-radius: 50px 50px 0px 0px;
+}
+
+.fq{
+    background-color: #013c51;
+}
+
+.warnapaletijotua{
+    background-color: #addb1b;
+}
+
+.warnapaletoren{
+    background-color: #ff7b17;
+}
+
+
+.slide5Card {
+    border-radius: 50px;
+}
+
+.warnapaletputih {
+    color: #fcfae6;
+}
+
+.warnapaletungu {
+    color: #393999;
+}
+
+.fontnavbar {
+    font-family: 'Maven Pro', sans-serif;
+    color: #FFFFFF;
+}
+
+
+.a, a:hover, a:focus, a:active, a:link {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+}
+
+.responsiveteksbesar {
+    font-size: 10vw;
+}
+
+.responsivetekskecil {
+    font-size: 5vw;
+}
+
+.warnabgkominrel{
+    background-color: #393999;
+}
+
+.warnabgnav {
+    background-color: #28183D;
+}
+.warnabgpost {
+    background-color: #FFEB78;
+}
+
+
+.warnabgfooter {
+    background: #393999;
+}
+
+.sosmedicon {
+    color: #fcfae6;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(1,60,81)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-toggler {
+    border-color: #FFFFFF;
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+
+@media screen and (max-width: 600px) {
+    .p {
+        font-size: 10px;
+    }
+}
+
+
+
+.portfolio-section .portfolio-btn-wrapper {
+    margin-bottom: 50px;
+}
+
+.portfolio-section .portfolio-btn-wrapper button {
+    padding: 10px 24px;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    background: #EFF2F9;
+    color: #051441;
+    border-radius: 50px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    transition: all 0.3s ease-out 0s;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.portfolio-section .portfolio-btn-wrapper button.active {
+    background-image: linear-gradient(to right, #3763eb 0%, #6f58e8 100%);
+    color: #fff;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .portfolio-section .portfolio-btn-wrapper button {
+        margin-right: 10px;
+        padding: 7px 18px;
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .portfolio-section .portfolio-btn-wrapper button {
+        margin-right: 10px;
+        padding: 7px 18px;
+    }
+    h1 {
+        font-size: 5vw;
+    }
+    p {
+        font-size: 2vh;
+    }
+}
+
+.carousel-caption {
+    background-color: rgb(0 0 0 / 46%);
+    text-align: left;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+ol.carousel-indicators {
+    display: block;
+    left: auto;
+    bottom: 50px;
+    right: 15px;
+}
+
+.carousel-indicators li {
+    height: 5px;
+    background-color: #ffeb3b;
+    opacity: .6;
+}
+
+.card {
+    background: #fff;
+    transition: .5s;
+    border: 0;
+    margin-bottom: 30px;
+    border-radius: .55rem;
+    position: relative;
+    width: 100%;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 10%);
+}
+.card .body {
+    color: #444;
+    padding: 20px;
+    font-weight: 400;
+}
+.card .header {
+    color: #444;
+    padding: 20px;
+    position: relative;
+    box-shadow: none;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  
+  /*Ini aspirasi km its cssnya*/
+  .float-button {
+    text-decoration: none;
+    position: fixed;
+    padding: 8px;
+    padding-right: 15px;
+    bottom: 30px;
+    right: 35px;
+    background-color: #addb1b;
+    color: #fcfae6;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 4px 6px 0px rgba(173, 173, 173, 1);
+    z-index: 100;
+    font-family: arial;
+    font-size: 18px;
+    animation: whatsapp-animation 0.5s ease-in-out;
+    transition: background-color 0.3s ease;
+}
+
+.float-button:hover {
+    background-color: #d2f440;
+}
+
+.fa-whatsapp {
+    font-size: 20px !important;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+
+
+
+@keyframes whatsapp-animation {
+    from {opacity: 0%;}
+    to {opacity: 100%}
+}
+
+@media screen and (max-width: 545px) {
+    span {
+        display: none;
+    }
+    .float-button {
+        width: 35px;
+        border-radius: 10px;
+        height: 38px;
+    }
+    .fa-whatsapp {
+        font-size: 40px !important;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
