@@ -12,7 +12,6 @@
 
 class Sitemap
 {
-
     /**
      * @var XMLWriter
     */

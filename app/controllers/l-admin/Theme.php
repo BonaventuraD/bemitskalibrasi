@@ -54,11 +54,11 @@ class Theme extends Backend_Controller
     private function _create_blank_theme()
     {
         if (
-             $this->role->i('read') &&
-             $this->role->i('write') &&
-             $this->role->i('modify') &&
-             $this->role->i('delete')
-            ) {
+            $this->role->i('read') &&
+            $this->role->i('write') &&
+            $this->role->i('modify') &&
+            $this->role->i('delete')
+        ) {
             $this->form_validation->set_rules(array(
                 array(
                     'field' => 'title',
@@ -285,7 +285,7 @@ class Theme extends Backend_Controller
             $this->role->i('write') &&
             $this->role->i('modify') &&
             $this->role->i('delete')
-            ) {
+        ) {
             $id = $this->input->get('id', true);
             $idTheme = xss_filter(decrypt($id), 'sql');
             $query = $this->db->where('id', $idTheme)->get('t_theme');
@@ -344,7 +344,7 @@ class Theme extends Backend_Controller
             $this->role->i('write') &&
             $this->role->i('modify') &&
             $this->role->i('delete')
-            ) {
+        ) {
             $getFilez = $this->input->get('filez', true);
             $file = xss_filter(urldecode(decrypt($getFilez)), 'xss');
             if (!empty($file) && $file == $this->CI->session->flashdata('filez')) {

@@ -32,7 +32,7 @@ class Cogen extends Backend_Controller
             $this->role->i('write') &&
             $this->role->i('modify') &&
             $this->role->i('delete')
-            ) {
+        ) {
             if ($this->input->is_ajax_request()) {
                 $this->_submit();
             } else {
@@ -100,13 +100,13 @@ class Cogen extends Backend_Controller
 
         // component not exists (OK)
         elseif (
-                 $cek_mod_db == 0 &&
-                 $cek_controller_file == false &&
-                 $cek_model_file == false &&
-                 $cek_views_dir == false &&
-                 $cek_modjs_file == false &&
-                 $cek_db_table == false
-               ) {
+            $cek_mod_db == 0 &&
+            $cek_controller_file == false &&
+            $cek_model_file == false &&
+            $cek_views_dir == false &&
+            $cek_modjs_file == false &&
+            $cek_db_table == false
+        ) {
             // Load dbforge.
             $this->load->dbforge();
 
@@ -154,10 +154,10 @@ class Cogen extends Backend_Controller
 
                     // DATETIME, DATE, TIME
                     elseif (
-                             $value['com_filed_type'] == "DATETIME" ||
-                             $value['com_filed_type'] == "DATE" ||
-                             $value['com_filed_type'] == "TIME"
-                            ) {
+                        $value['com_filed_type'] == "DATETIME" ||
+                        $value['com_filed_type'] == "DATE" ||
+                        $value['com_filed_type'] == "TIME"
+                    ) {
                         $this->dbforge->add_field(array(
                             $value['com_filed_name'] => array(
                                 'type' => $value['com_filed_type']
@@ -305,7 +305,7 @@ class Cogen extends Backend_Controller
             $this->role->i('write') &&
             $this->role->i('modify') &&
             $this->role->i('delete')
-            ) {
+        ) {
             if ($this->session->flashdata('citem') == $val) {
                 $this->vars['fitur'] = (!empty($_SESSION['_frontend']) ? $_SESSION['_frontend'] : null);
                 $this->vars['c_link'] = $val;
@@ -388,7 +388,7 @@ class Cogen extends Backend_Controller
                 $this->role->i('write') &&
                 $this->role->i('modify') &&
                 $this->role->i('delete')
-                ) {
+            ) {
                 $id = $_POST['id'];
                 echo '<div id="def-option'. $id .'">
 						<div class="input-group mb-2">
@@ -416,7 +416,7 @@ class Cogen extends Backend_Controller
                 $this->role->i('write') &&
                 $this->role->i('modify') &&
                 $this->role->i('delete')
-                ) {
+            ) {
                 $id = $_POST['id'];
                 echo '<div id="def-column-'. $id .'">
 						<span id="'. $id .'" class="text-danger cursor-hand pull-right btn btn-xs rmcol"><i class="fa fa-times"></i> '. lang_line('button_delete') .'</span>

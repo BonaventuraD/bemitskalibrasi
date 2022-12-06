@@ -321,7 +321,7 @@ class User_model extends CI_Model
             $query->num_rows() == 1 &&
             $query->row_array()['id'] == $id ||
             $query->num_rows() != 1
-           ) {
+        ) {
             return true;
         } else {
             return false;
@@ -353,7 +353,7 @@ class User_model extends CI_Model
             $query->num_rows() == 1 &&
             $query->row_array()['id'] == $id ||
             $query->num_rows() == 0
-           ) {
+        ) {
             return true;
         } else {
             return false;

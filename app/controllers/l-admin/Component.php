@@ -133,7 +133,7 @@ class Component extends Backend_Controller
             $this->role->i('write') &&
             $this->role->i('modify') &&
             $this->role->i('delete')
-            ) {
+        ) {
             if ($this->input->method() == 'post') {
                 return $this->_install();
             } else {
@@ -152,7 +152,7 @@ class Component extends Backend_Controller
             $this->role->i('write') &&
             $this->role->i('modify') &&
             $this->role->i('delete')
-            ) {
+        ) {
             $sp = DIRECTORY_SEPARATOR;
             $rand = md5(date('YmdHis'));
             $package_zip = $rand.'.zip';
@@ -181,9 +181,9 @@ class Component extends Backend_Controller
 
                 // cek folder hasil unzip dan file config.php
                 if (
-                     file_exists($destinationdir_unzip) &&
-                     file_exists($destinationdir_unzip.$sp.'config.php')
-                    ) {
+                    file_exists($destinationdir_unzip) &&
+                    file_exists($destinationdir_unzip.$sp.'config.php')
+                ) {
                     $src_dir = $destinationdir_unzip;
 
                     // include-kan file konfigurasi (config.php)
@@ -255,21 +255,21 @@ class Component extends Backend_Controller
 
                     // jalankan cek.
                     if (
-                         // cek apakah komponen sudah ada di sistem.
-                         $cek_controllers == false &&
-                         $cek_models      == false &&
-                         $cek_views       == false &&
-                         $cek_modjs       == false &&
-                         $cek_table       == false &&
-                         $cek_mod_db      == 0 &&
+                        // cek apakah komponen sudah ada di sistem.
+                        $cek_controllers == false &&
+                        $cek_models      == false &&
+                        $cek_views       == false &&
+                        $cek_modjs       == false &&
+                        $cek_table       == false &&
+                        $cek_mod_db      == 0 &&
 
-                         // cek apakah ada file komponen di folder temp.
-                         $cek_src_controllers == true &&
-                         $cek_src_models      == true  &&
-                         $cek_src_views       == true &&
-                         $cek_src_modjs       == true &&
-                         $cek_src_sql         == true
-                        ) {
+                        // cek apakah ada file komponen di folder temp.
+                        $cek_src_controllers == true &&
+                        $cek_src_models      == true  &&
+                        $cek_src_views       == true &&
+                        $cek_src_modjs       == true &&
+                        $cek_src_sql         == true
+                    ) {
                         // Copy controllers dari folder temp ke sistem.
                         @copy_folder($src_dir.$sp.'controllers', $this->_path['controllers']);
 
@@ -371,7 +371,7 @@ class Component extends Backend_Controller
             $this->role->i('write') &&
             $this->role->i('modify') &&
             $this->role->i('delete')
-            ) {
+        ) {
             $id_component = xss_filter($id, 'sql');
             $query = $this->db->where('id', $id_component)->get('t_component');
             

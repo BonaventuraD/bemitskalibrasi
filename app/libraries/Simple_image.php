@@ -133,32 +133,32 @@ class Simple_image
 
         // Create image object from file
         switch ($this->mimeType) {
-    case 'image/gif':
-      // Load the gif
-      $gif = imagecreatefromgif($file);
-      if ($gif) {
-          // Copy the gif over to a true color image to preserve its transparency. This is a
-          // workaround to prevent imagepalettetruecolor() from borking transparency.
-          $width = imagesx($gif);
-          $height = imagesy($gif);
-          $this->image = imagecreatetruecolor($width, $height);
-          $transparentColor = imagecolorallocatealpha($this->image, 0, 0, 0, 127);
-          imagecolortransparent($this->image, $transparentColor);
-          imagefill($this->image, 0, 0, $transparentColor);
-          imagecopy($this->image, $gif, 0, 0, 0, 0, $width, $height);
-          imagedestroy($gif);
-      }
-      break;
-    case 'image/jpeg':
-      $this->image = imagecreatefromjpeg($file);
-      break;
-    case 'image/png':
-      $this->image = imagecreatefrompng($file);
-      break;
-    case 'image/webp':
-      $this->image = imagecreatefromwebp($file);
-      break;
-    }
+            case 'image/gif':
+                // Load the gif
+                $gif = imagecreatefromgif($file);
+                if ($gif) {
+                    // Copy the gif over to a true color image to preserve its transparency. This is a
+                    // workaround to prevent imagepalettetruecolor() from borking transparency.
+                    $width = imagesx($gif);
+                    $height = imagesy($gif);
+                    $this->image = imagecreatetruecolor($width, $height);
+                    $transparentColor = imagecolorallocatealpha($this->image, 0, 0, 0, 127);
+                    imagecolortransparent($this->image, $transparentColor);
+                    imagefill($this->image, 0, 0, $transparentColor);
+                    imagecopy($this->image, $gif, 0, 0, 0, 0, $width, $height);
+                    imagedestroy($gif);
+                }
+                break;
+            case 'image/jpeg':
+                $this->image = imagecreatefromjpeg($file);
+                break;
+            case 'image/png':
+                $this->image = imagecreatefrompng($file);
+                break;
+            case 'image/webp':
+                $this->image = imagecreatefromwebp($file);
+                break;
+        }
         if (!$this->image) {
             throw new \Exception("Unsupported image: $file", self::ERR_UNSUPPORTED_FORMAT);
         }
@@ -239,32 +239,32 @@ class Simple_image
 
         // Generate the image
         switch ($mimeType) {
-    case 'image/gif':
-      imagesavealpha($this->image, true);
-      imagegif($this->image, null);
-      break;
-    case 'image/jpeg':
-      imageinterlace($this->image, true);
-      imagejpeg($this->image, null, $quality);
-      break;
-    case 'image/png':
-      imagesavealpha($this->image, true);
-      imagepng($this->image, null, round(9 * $quality / 100));
-      break;
-    case 'image/webp':
-      // Not all versions of PHP will have webp support enabled
-      if (!function_exists('imagewebp')) {
-          throw new \Exception(
-              'WEBP support is not enabled in your version of PHP.',
-              self::ERR_WEBP_NOT_ENABLED
-          );
-      }
-      imagesavealpha($this->image, true);
-      imagewebp($this->image, null, $quality);
-      break;
-    default:
-      throw new \Exception('Unsupported format: ' . $mimeType, self::ERR_UNSUPPORTED_FORMAT);
-    }
+            case 'image/gif':
+                imagesavealpha($this->image, true);
+                imagegif($this->image, null);
+                break;
+            case 'image/jpeg':
+                imageinterlace($this->image, true);
+                imagejpeg($this->image, null, $quality);
+                break;
+            case 'image/png':
+                imagesavealpha($this->image, true);
+                imagepng($this->image, null, round(9 * $quality / 100));
+                break;
+            case 'image/webp':
+                // Not all versions of PHP will have webp support enabled
+                if (!function_exists('imagewebp')) {
+                    throw new \Exception(
+                        'WEBP support is not enabled in your version of PHP.',
+                        self::ERR_WEBP_NOT_ENABLED
+                    );
+                }
+                imagesavealpha($this->image, true);
+                imagewebp($this->image, null, $quality);
+                break;
+            default:
+                throw new \Exception('Unsupported format: ' . $mimeType, self::ERR_UNSUPPORTED_FORMAT);
+        }
 
         // Stop capturing
         $data = ob_get_contents();
@@ -502,30 +502,30 @@ class Simple_image
         }
 
         switch ($exif['Orientation']) {
-    case 1: // Do nothing!
-      break;
-    case 2: // Flip horizontally
-      $this->flip('x');
-      break;
-    case 3: // Rotate 180 degrees
-      $this->rotate(180);
-      break;
-    case 4: // Flip vertically
-      $this->flip('y');
-      break;
-    case 5: // Rotate 90 degrees clockwise and flip vertically
-      $this->flip('y')->rotate(90);
-      break;
-    case 6: // Rotate 90 clockwise
-      $this->rotate(90);
-      break;
-    case 7: // Rotate 90 clockwise and flip horizontally
-      $this->flip('x')->rotate(90);
-      break;
-    case 8: // Rotate 90 counterclockwise
-      $this->rotate(-90);
-      break;
-    }
+            case 1: // Do nothing!
+                break;
+            case 2: // Flip horizontally
+                $this->flip('x');
+                break;
+            case 3: // Rotate 180 degrees
+                $this->rotate(180);
+                break;
+            case 4: // Flip vertically
+                $this->flip('y');
+                break;
+            case 5: // Rotate 90 degrees clockwise and flip vertically
+                $this->flip('y')->rotate(90);
+                break;
+            case 6: // Rotate 90 clockwise
+                $this->rotate(90);
+                break;
+            case 7: // Rotate 90 clockwise and flip horizontally
+                $this->flip('x')->rotate(90);
+                break;
+            case 8: // Rotate 90 counterclockwise
+                $this->rotate(-90);
+                break;
+        }
 
         return $this;
     }
@@ -681,16 +681,16 @@ class Simple_image
     public function flip($direction)
     {
         switch ($direction) {
-    case 'x':
-      imageflip($this->image, IMG_FLIP_HORIZONTAL);
-      break;
-    case 'y':
-      imageflip($this->image, IMG_FLIP_VERTICAL);
-      break;
-    case 'both':
-      imageflip($this->image, IMG_FLIP_BOTH);
-      break;
-    }
+            case 'x':
+                imageflip($this->image, IMG_FLIP_HORIZONTAL);
+                break;
+            case 'y':
+                imageflip($this->image, IMG_FLIP_VERTICAL);
+                break;
+            case 'both':
+                imageflip($this->image, IMG_FLIP_BOTH);
+                break;
+        }
 
         return $this;
     }
@@ -735,43 +735,43 @@ class Simple_image
 
         // Determine placement
         switch ($anchor) {
-      case 'top left':
-        $x = $xOffset;
-        $y = $yOffset;
-        break;
-      case 'top right':
-        $x = $this->getWidth() - $overlay->getWidth() + $xOffset;
-        $y = $yOffset;
-        break;
-      case 'top':
-        $x = ($this->getWidth() / 2) - ($overlay->getWidth() / 2) + $xOffset;
-        $y = $yOffset;
-        break;
-      case 'bottom left':
-        $x = $xOffset;
-        $y = $this->getHeight() - $overlay->getHeight() + $yOffset;
-        break;
-      case 'bottom right':
-        $x = $this->getWidth() - $overlay->getWidth() + $xOffset;
-        $y = $this->getHeight() - $overlay->getHeight() + $yOffset;
-        break;
-      case 'bottom':
-        $x = ($this->getWidth() / 2) - ($overlay->getWidth() / 2) + $xOffset;
-        $y = $this->getHeight() - $overlay->getHeight() + $yOffset;
-        break;
-      case 'left':
-        $x = $xOffset;
-        $y = ($this->getHeight() / 2) - ($overlay->getHeight() / 2) + $yOffset;
-        break;
-      case 'right':
-        $x = $this->getWidth() - $overlay->getWidth() + $xOffset;
-        $y = ($this->getHeight() / 2) - ($overlay->getHeight() / 2) + $yOffset;
-        break;
-      default:
-        $x = ($this->getWidth() / 2) - ($overlay->getWidth() / 2) + $xOffset;
-        $y = ($this->getHeight() / 2) - ($overlay->getHeight() / 2) + $yOffset;
-        break;
-    }
+            case 'top left':
+                $x = $xOffset;
+                $y = $yOffset;
+                break;
+            case 'top right':
+                $x = $this->getWidth() - $overlay->getWidth() + $xOffset;
+                $y = $yOffset;
+                break;
+            case 'top':
+                $x = ($this->getWidth() / 2) - ($overlay->getWidth() / 2) + $xOffset;
+                $y = $yOffset;
+                break;
+            case 'bottom left':
+                $x = $xOffset;
+                $y = $this->getHeight() - $overlay->getHeight() + $yOffset;
+                break;
+            case 'bottom right':
+                $x = $this->getWidth() - $overlay->getWidth() + $xOffset;
+                $y = $this->getHeight() - $overlay->getHeight() + $yOffset;
+                break;
+            case 'bottom':
+                $x = ($this->getWidth() / 2) - ($overlay->getWidth() / 2) + $xOffset;
+                $y = $this->getHeight() - $overlay->getHeight() + $yOffset;
+                break;
+            case 'left':
+                $x = $xOffset;
+                $y = ($this->getHeight() / 2) - ($overlay->getHeight() / 2) + $yOffset;
+                break;
+            case 'right':
+                $x = $this->getWidth() - $overlay->getWidth() + $xOffset;
+                $y = ($this->getHeight() / 2) - ($overlay->getHeight() / 2) + $yOffset;
+                break;
+            default:
+                $x = ($this->getWidth() / 2) - ($overlay->getWidth() / 2) + $xOffset;
+                $y = ($this->getHeight() / 2) - ($overlay->getHeight() / 2) + $yOffset;
+                break;
+        }
 
         // Perform the overlay
         self::imageCopyMergeAlpha(
@@ -952,43 +952,43 @@ class Simple_image
 
         // Determine position
         switch ($anchor) {
-    case 'top left':
-      $x = $xOffset;
-      $y = $yOffset + $boxHeight;
-      break;
-    case 'top right':
-      $x = $this->getWidth() - $boxWidth + $xOffset;
-      $y = $yOffset + $boxHeight;
-      break;
-    case 'top':
-      $x = ($this->getWidth() / 2) - ($boxWidth / 2) + $xOffset;
-      $y = $yOffset + $boxHeight;
-      break;
-    case 'bottom left':
-      $x = $xOffset;
-      $y = $this->getHeight() - $boxHeight + $yOffset + $boxHeight;
-      break;
-    case 'bottom right':
-      $x = $this->getWidth() - $boxWidth + $xOffset;
-      $y = $this->getHeight() - $boxHeight + $yOffset + $boxHeight;
-      break;
-    case 'bottom':
-      $x = ($this->getWidth() / 2) - ($boxWidth / 2) + $xOffset;
-      $y = $this->getHeight() - $boxHeight + $yOffset + $boxHeight;
-      break;
-    case 'left':
-      $x = $xOffset;
-      $y = ($this->getHeight() / 2) - (($boxHeight / 2) - $boxHeight) + $yOffset;
-      break;
-    case 'right':
-      $x = $this->getWidth() - $boxWidth + $xOffset;
-      $y = ($this->getHeight() / 2) - (($boxHeight / 2) - $boxHeight) + $yOffset;
-      break;
-    default: // center
-      $x = ($this->getWidth() / 2) - ($boxWidth / 2) + $xOffset;
-      $y = ($this->getHeight() / 2) - (($boxHeight / 2) - $boxHeight) + $yOffset;
-      break;
-    }
+            case 'top left':
+                $x = $xOffset;
+                $y = $yOffset + $boxHeight;
+                break;
+            case 'top right':
+                $x = $this->getWidth() - $boxWidth + $xOffset;
+                $y = $yOffset + $boxHeight;
+                break;
+            case 'top':
+                $x = ($this->getWidth() / 2) - ($boxWidth / 2) + $xOffset;
+                $y = $yOffset + $boxHeight;
+                break;
+            case 'bottom left':
+                $x = $xOffset;
+                $y = $this->getHeight() - $boxHeight + $yOffset + $boxHeight;
+                break;
+            case 'bottom right':
+                $x = $this->getWidth() - $boxWidth + $xOffset;
+                $y = $this->getHeight() - $boxHeight + $yOffset + $boxHeight;
+                break;
+            case 'bottom':
+                $x = ($this->getWidth() / 2) - ($boxWidth / 2) + $xOffset;
+                $y = $this->getHeight() - $boxHeight + $yOffset + $boxHeight;
+                break;
+            case 'left':
+                $x = $xOffset;
+                $y = ($this->getHeight() / 2) - (($boxHeight / 2) - $boxHeight) + $yOffset;
+                break;
+            case 'right':
+                $x = $this->getWidth() - $boxWidth + $xOffset;
+                $y = ($this->getHeight() / 2) - (($boxHeight / 2) - $boxHeight) + $yOffset;
+                break;
+            default: // center
+                $x = ($this->getWidth() / 2) - ($boxWidth / 2) + $xOffset;
+                $y = ($this->getHeight() / 2) - (($boxHeight / 2) - $boxHeight) + $yOffset;
+                break;
+        }
 
         $x = (int) round($x);
         $y = (int) round($y);
@@ -1049,61 +1049,61 @@ class Simple_image
         }
 
         switch ($anchor) {
-    case 'top':
-      $x1 = floor(($this->getWidth() / 2) - ($width / 2));
-      $x2 = $width + $x1;
-      $y1 = 0;
-      $y2 = $height;
-      break;
-    case 'bottom':
-      $x1 = floor(($this->getWidth() / 2) - ($width / 2));
-      $x2 = $width + $x1;
-      $y1 = $this->getHeight() - $height;
-      $y2 = $this->getHeight();
-      break;
-    case 'left':
-      $x1 = 0;
-      $x2 = $width;
-      $y1 = floor(($this->getHeight() / 2) - ($height / 2));
-      $y2 = $height + $y1;
-      break;
-    case 'right':
-      $x1 = $this->getWidth() - $width;
-      $x2 = $this->getWidth();
-      $y1 = floor(($this->getHeight() / 2) - ($height / 2));
-      $y2 = $height + $y1;
-      break;
-    case 'top left':
-      $x1 = 0;
-      $x2 = $width;
-      $y1 = 0;
-      $y2 = $height;
-      break;
-    case 'top right':
-      $x1 = $this->getWidth() - $width;
-      $x2 = $this->getWidth();
-      $y1 = 0;
-      $y2 = $height;
-      break;
-    case 'bottom left':
-      $x1 = 0;
-      $x2 = $width;
-      $y1 = $this->getHeight() - $height;
-      $y2 = $this->getHeight();
-      break;
-    case 'bottom right':
-      $x1 = $this->getWidth() - $width;
-      $x2 = $this->getWidth();
-      $y1 = $this->getHeight() - $height;
-      $y2 = $this->getHeight();
-      break;
-    default:
-      $x1 = floor(($this->getWidth() / 2) - ($width / 2));
-      $x2 = $width + $x1;
-      $y1 = floor(($this->getHeight() / 2) - ($height / 2));
-      $y2 = $height + $y1;
-      break;
-    }
+            case 'top':
+                $x1 = floor(($this->getWidth() / 2) - ($width / 2));
+                $x2 = $width + $x1;
+                $y1 = 0;
+                $y2 = $height;
+                break;
+            case 'bottom':
+                $x1 = floor(($this->getWidth() / 2) - ($width / 2));
+                $x2 = $width + $x1;
+                $y1 = $this->getHeight() - $height;
+                $y2 = $this->getHeight();
+                break;
+            case 'left':
+                $x1 = 0;
+                $x2 = $width;
+                $y1 = floor(($this->getHeight() / 2) - ($height / 2));
+                $y2 = $height + $y1;
+                break;
+            case 'right':
+                $x1 = $this->getWidth() - $width;
+                $x2 = $this->getWidth();
+                $y1 = floor(($this->getHeight() / 2) - ($height / 2));
+                $y2 = $height + $y1;
+                break;
+            case 'top left':
+                $x1 = 0;
+                $x2 = $width;
+                $y1 = 0;
+                $y2 = $height;
+                break;
+            case 'top right':
+                $x1 = $this->getWidth() - $width;
+                $x2 = $this->getWidth();
+                $y1 = 0;
+                $y2 = $height;
+                break;
+            case 'bottom left':
+                $x1 = 0;
+                $x2 = $width;
+                $y1 = $this->getHeight() - $height;
+                $y2 = $this->getHeight();
+                break;
+            case 'bottom right':
+                $x1 = $this->getWidth() - $width;
+                $x2 = $this->getWidth();
+                $y1 = $this->getHeight() - $height;
+                $y2 = $this->getHeight();
+                break;
+            default:
+                $x1 = floor(($this->getWidth() / 2) - ($width / 2));
+                $x2 = $width + $x1;
+                $y1 = floor(($this->getHeight() / 2) - ($height / 2));
+                $y2 = $height + $y1;
+                break;
+        }
 
         // Return the cropped thumbnail image
         return $this->crop($x1, $y1, $x2, $y2);

@@ -76,7 +76,7 @@ class Auth extends MY_Controller
         if (
             decrypt($input_name[0]) == decrypt($this->vars['input_uname']) &&
             decrypt($input_name[1]) == decrypt($this->vars['input_pwd'])
-            ) {
+        ) {
             $this->form_validation->set_rules(array(
                 array(
                     'field' => $input_name[0],

@@ -75,8 +75,6 @@
 error_reporting(0);
 class Myzip
 {
-    
-    
     // for creating or adding files
     protected $lib;				// which library to use
     protected $org_files;       // an array of the files or strings to be zipped
@@ -120,7 +118,6 @@ class Myzip
     
     public function zip_start($file_path)
     {
-        
         // save the new file path
         $this->new_file_path = $file_path;
         
@@ -167,7 +164,6 @@ class Myzip
     
     public function zip_add($in)
     {
-        
         // just to make sure.. if the user haven't called the earlier method
         if ($this->lib === 0 || $this->new_file_path === 0) {
             throw new Exception("PHP-ZIP: must call zip_start before zip_add");
@@ -222,7 +218,6 @@ class Myzip
     
     public function zip_end($force_lib = false)
     {
-
         // force usage of specific lib (for testing purposes)
         if ($force_lib === 2) {
             $this->lib = 2;
@@ -341,7 +336,6 @@ class Myzip
     
     public function unzip_file($file_path, $target_dir=null)
     {
-        
         // if it doesn't exist
         if (!file_exists($file_path)) {
             throw new Exception("PHP-ZIP: File doesn't Exist");
@@ -398,7 +392,6 @@ class Myzip
     
     public function unzip_to($target_dir)
     {
-        
         // validations -- start //
         if ($this->lib === 0 && $this->extr_file === 0) {
             throw new Exception("PHP-ZIP: unzip_file hasn't been called");

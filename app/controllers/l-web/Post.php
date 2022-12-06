@@ -79,11 +79,11 @@ class Post extends Web_controller
                 if ($_countPage > 1) {
                     $result = $this->cifire_pagination->create_links();
                 }
-            break;
+                break;
             
             default:
                 $result = html_entity_decode($pagebreak[$_index]);
-            break;
+                break;
         }
 
         return $result;
