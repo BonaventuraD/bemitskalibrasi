@@ -4,7 +4,7 @@
 }
 
 a:hover {
-  color: #ff7b17 !important;
+  color: #12DBB9 !important;
 }
 
 .kepala {
@@ -12,7 +12,7 @@ a:hover {
     width: 103%;
     height: 40%;
     left: -3%;
-    background: #ffeb78;
+    background: #628660;
     /* background-image: linear-gradient(#fcfae6, #393999); */
     opacity: 0.65;
     border-top-left-radius: 10px;
@@ -43,7 +43,7 @@ a:hover {
 
 .bglogokalibrasi {
     background: rgba(252, 249, 245, 0.9);
-border-radius: 1500px 1500px 0px 0px;
+    border-radius: 1500px 1500px 0px 0px;
 }
 .bgpkagendaunjukasa {
     background-color: #f4515e;
@@ -159,7 +159,7 @@ border-radius: 1500px 1500px 0px 0px;
 }
 
 .fontnavbar {
-    font-family: 'Maven Pro', sans-serif;
+    /* font-family: 'Maven Pro', sans-serif; */
     color: #FFFFFF;
 }
 

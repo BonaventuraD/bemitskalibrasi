@@ -7,7 +7,9 @@
       </div>
       <div class="row col text-center">
         <h1 class="h1homewarnapaletungu fw-bolder py-2">Selamat Datang<br>di Official Website<br>BEM ITS 2022</h1>
+        <img class="img-fluid w-120" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1bawahlogo" alt="">
       </div>
+      <img class="img-fluid w-120" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1bawahkananlogo" alt="">
     </div>
   </div>
 </div>
@@ -425,7 +427,7 @@
 <!-- Slide 4 kabardariBemITS -->
 
 <!-- Slide 5 Instagram BEMITS -->
-<div class="container-fluid py-5 slideHome5bg">
+<!-- <div class="container-fluid py-5 slideHome5bg">
   <div class="container py-5 col-9">
     <div class=" card border-light card-border-radius" style="border-radius: 50px 50px 50px 50px;">
       <div class="py-2">
@@ -446,7 +448,7 @@
             <a href="https://www.instagram.com/bem_its/" target="_blank" class="fs-5 text-start fw-bold warnapaletungu card-title" style="color: #013c51;">
               @bem_its
             </a>
-            <!-- <h5 class="text-start fw-bold warnapaletungu card-title">@bem_its</h5> -->
+             <h5 class="text-start fw-bold warnapaletungu card-title">@bem_its</h5> 
           </div>
         </div>
         <div class="row" id="instafeed">
@@ -458,7 +460,7 @@
   </div>
 
 
-</div>
+</div> -->
 
 
 <!-- Slide 5 Instagram BEMITS -->
