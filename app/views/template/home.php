@@ -1,40 +1,54 @@
 <!-- Slide 1 Welcome -->
-<div class="container-fluid homeslide1 backgroundAll py-5">
-  <div class="container py-5">
-    <div class="row align-items-center">
-      <div class="col d-none d-sm-block">
-        <img class="img-fluid bglogokalibrasi" src="<?= base_url(); ?>assets/img/logokabinet.png" alt="">
+<div class="container-fluid homeslide1 backgroundAll pt-5">
+  <div class="container pt-5">
+    <div class="row align-items-center pt-5">
+      <div class="col-6 d-none d-sm-block pt-5">
+        <img class="img-fluid bglogokalibrasi p-5" src="<?= base_url(); ?>assets/img/logokabinet.png" alt="">
       </div>
       <div class="row col text-center">
         <h1 class="h1homewarnapaletungu fw-bolder py-2">Selamat Datang<br>di Official Website<br>BEM ITS 2022</h1>
-        <img class="img-fluid" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1bawahlogo" alt="">
+        <div class="col-2 align-items-center d-flex">
+        </div>
+        <div class="col-8 align-items-center d-flex">
+        <img class="img-fluid" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1bawahtitle.png" alt="">
+        
+        </div>
+        <div class="col-2 align-items-center d-flex">
+        </div>
+        <div class="col-4 align-items-center d-flex">
+        </div>
+        <div class="col-4 align-items-center d-flex">
+        </div>
+        <div class="col-4 align-items-center d-flex">
+        <img class="img-fluid" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1.png" alt="">  
+        </div>
       </div>
-      <img class="img-fluid" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1bawahkananlogo" alt="">
     </div>
   </div>
 </div>
 <!-- Slide 1 Welcome -->
 
 <!-- Slide 2 lilabout -->
-<div class="container-fluid pt-5 slide2Homebg">
-  <div class="container pb-2 pt-5">
-    <div class="row justify-content-center align-items-center">
-      <div class="col mx-auto pb-5">
-        <h2 class="warnapaletungu fw-bold text-start d-none d-sm-block">Tentang Kami</h2>
-        <p class="warnapaletungu text-start d-none d-sm-block">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
-        <h2 class="warnapaletungu fw-bold text-center d-block d-sm-none">Tentang Kami</h2>
-        <p class="warnapaletungu text-center d-block d-sm-none">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
-        </p>
-        <p class="warnapaletungu d-none d-sm-block">Adapun BEM ITS bertugas untuk mengoordinasikan seluruh kegiatan organisasi kemahasiswaan di lingkup KM ITS dan juga kegiatan kemahasiswaan di bidang sosial politik. Selain itu, BEM ITS berwenang dalam melakukan koordinasi dan instruksi terhadap HMD dan BEM Fakultas serta mewakili KM ITS keluar atas persetujuan BLM ITS dalam bidang sosial politik.</p>
-      </div>
-      <div class="col text-center d-none d-sm-block ms-5 pb-5">
-        <div class="ratio ratio-16x9">
-          <iframe src="https://www.youtube.com/embed/MyuFr_KZLs0">
-          </iframe>
+<div class="container-fluid slide2Homebg">
+  <div class="container pb-2">
+    <div class="row justify-content-center align-items-center content-tentang-kami">
+      <!-- <div class="container"> -->
+        <div class="col-6 p-5 bgtentangkami content-tentang-kami">
+          <h2 class="warnapaletungu fw-bold text-center d-none d-sm-block">Tentang Kami</h2>
+          <p class="warnapaletungu text-start d-none d-sm-block">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
+          <h2 class="warnapaletungu fw-bold text-center d-block d-sm-none">Tentang Kami</h2>
+          <p class="warnapaletungu text-center d-block d-sm-none">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
+          </p>
+          <p class="warnapaletungu d-none d-sm-block">Adapun BEM ITS bertugas untuk mengoordinasikan seluruh kegiatan organisasi kemahasiswaan di lingkup KM ITS dan juga kegiatan kemahasiswaan di bidang sosial politik. Selain itu, BEM ITS berwenang dalam melakukan koordinasi dan instruksi terhadap HMD dan BEM Fakultas serta mewakili KM ITS keluar atas persetujuan BLM ITS dalam bidang sosial politik.</p>
         </div>
-      </div>
+        <div class="col text-center d-none d-sm-block ms-5 pb-5 content-tentang-kami">
+          <div class="ratio ratio-16x9">
+            <iframe src="https://www.youtube.com/embed/MyuFr_KZLs0">
+            </iframe>
+          </div>
+        </div>
+      <!-- </div> -->
     </div>
-    <div class="row pb-5 pt-5"> </div>
   </div>
   <!-- <div class="position-relative" style="margin-right: -15px;">
     <div class="position-absolute bottom-0 end-0">
