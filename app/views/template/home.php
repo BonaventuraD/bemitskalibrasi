@@ -33,13 +33,15 @@
   <div class="container pb-2">
     <div class="row justify-content-center align-items-center content-tentang-kami">
       <!-- <div class="container"> -->
-        <div class="col-6 p-5 bgtentangkami content-tentang-kami">
+        <div class="col-6">
+          <div class="bgtentangkami p-5">
           <h2 class="warnapaletungu fw-bold text-center d-none d-sm-block">Tentang Kami</h2>
           <p class="warnapaletungu text-start d-none d-sm-block">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
           <h2 class="warnapaletungu fw-bold text-center d-block d-sm-none">Tentang Kami</h2>
           <p class="warnapaletungu text-center d-block d-sm-none">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
           </p>
           <p class="warnapaletungu d-none d-sm-block">Adapun BEM ITS bertugas untuk mengoordinasikan seluruh kegiatan organisasi kemahasiswaan di lingkup KM ITS dan juga kegiatan kemahasiswaan di bidang sosial politik. Selain itu, BEM ITS berwenang dalam melakukan koordinasi dan instruksi terhadap HMD dan BEM Fakultas serta mewakili KM ITS keluar atas persetujuan BLM ITS dalam bidang sosial politik.</p>
+          </div>
         </div>
         <div class="col text-center d-none d-sm-block ms-5 pb-5 content-tentang-kami">
           <div class="ratio ratio-16x9">
