@@ -64,7 +64,7 @@
 
 <body style="overflow-x: hidden;">
     <header class="sticky-top shadow">
-        <nav class="warnabgnav navbar navbar-expand-lg navbar-custom ">
+        <nav class="warnabgnav navbar navbar-expand-lg navbar-custom">
             <div class="container-fluid">
                 <a class="navbar-brand" href="<?php echo site_url('') ?>">
                     <img src="<?= base_url(); ?>assets/img/logokalibrasi.png" alt="Kabinet Kalibrasi" height="55" class="d-inline-block align-text-top">

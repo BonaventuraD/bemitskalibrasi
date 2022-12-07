@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #fff;
+  background: #12dbb9;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -270,7 +270,7 @@ section {
 --------------------------------*/
 .section-header h3 {
   font-size: 36px;
-  color: #283d50;
+  color: #ffffff;
   text-align: center;
   font-weight: 500;
   position: relative;
@@ -280,7 +280,7 @@ section {
   margin: auto;
   font-size: 15px;
   padding-bottom: 60px;
-  color: #556877;
+  color: #ffffff;
   width: 50%;
 }
 @media (max-width: 767px) {
