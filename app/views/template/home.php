@@ -2,8 +2,8 @@
 <div class="container-fluid homeslide1 backgroundAll pt-5">
   <div class="container pt-5">
     <div class="row align-items-center pt-5">
-      <div class="col-6 d-none d-sm-block pt-5">
-        <img class="img-fluid bglogokalibrasi p-5" src="<?= base_url(); ?>assets/img/logokabinet.png" alt="">
+      <div class="col-6 d-none d-sm-block pt-5 bglogokalibrasi">
+        <img class="img-fluid p-5" src="<?= base_url(); ?>assets/img/logokabinet.png" alt="">
       </div>
       <div class="row col text-center">
         <h1 class="h1homewarnapaletungu fw-bolder py-2">Selamat Datang<br>di Official Website<br>BEM ITS 2022</h1>
@@ -20,7 +20,7 @@
         <div class="col-4 align-items-center d-flex">
         </div>
         <div class="col-4 align-items-center d-flex">
-        <img class="img-fluid" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1.png" alt="">  
+        <img class="img-fluid pb-2" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1.png" alt="">  
         </div>
       </div>
     </div>
@@ -33,20 +33,29 @@
   <div class="container pb-2">
     <div class="row justify-content-center align-items-center content-tentang-kami">
       <!-- <div class="container"> -->
-        <div class="col-6">
-          <div class="bgtentangkami p-5">
-          <h2 class="warnapaletungu fw-bold text-center d-none d-sm-block">Tentang Kami</h2>
-          <p class="warnapaletungu text-start d-none d-sm-block">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
-          <h2 class="warnapaletungu fw-bold text-center d-block d-sm-none">Tentang Kami</h2>
-          <p class="warnapaletungu text-center d-block d-sm-none">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
+        <div class="col-6 d-none d-sm-block bgtentangkami p-5">
+          <h2 class="warnapaletungu fw-bold text-center d-none d-sm-block py-3">Tentang Kami</h2>
+          <p class="warnapaletungu text-start d-none d-sm-block py-3">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
+          <h2 class="warnapaletungu fw-bold text-center d-block d-sm-none py-2">Tentang Kami</h2>
+          <p class="warnapaletungu text-center d-block d-sm-none py-2">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
           </p>
-          <p class="warnapaletungu d-none d-sm-block">Adapun BEM ITS bertugas untuk mengoordinasikan seluruh kegiatan organisasi kemahasiswaan di lingkup KM ITS dan juga kegiatan kemahasiswaan di bidang sosial politik. Selain itu, BEM ITS berwenang dalam melakukan koordinasi dan instruksi terhadap HMD dan BEM Fakultas serta mewakili KM ITS keluar atas persetujuan BLM ITS dalam bidang sosial politik.</p>
-          </div>
+          <p class="warnapaletungu d-none d-sm-block pb-5">Adapun BEM ITS bertugas untuk mengoordinasikan seluruh kegiatan organisasi kemahasiswaan di lingkup KM ITS dan juga kegiatan kemahasiswaan di bidang sosial politik. Selain itu, BEM ITS berwenang dalam melakukan koordinasi dan instruksi terhadap HMD dan BEM Fakultas serta mewakili KM ITS keluar atas persetujuan BLM ITS dalam bidang sosial politik.</p>
+          <p class="pt-5 pb-5"></p>
+          <p class="pt-1 pb-1"></p>
+          
+          
         </div>
-        <div class="col text-center d-none d-sm-block ms-5 pb-5 content-tentang-kami">
+        <div class="col text-center d-none d-sm-block pl-5 pt-3 pb-5 content-tentang-kami">
           <div class="ratio ratio-16x9">
             <iframe src="https://www.youtube.com/embed/MyuFr_KZLs0">
             </iframe>
+          </div>
+          <div class="col align-items-end d-flex pt-3">
+              <div class="col-6"></div>
+              <div class="col-6">
+                <img class="img-fluid pl-5 pb-5" src="<?= base_url(); ?>assets/img/ornament/img/bawahyoutubeslide2.png" alt=""> 
+              </div>
+           
           </div>
         </div>
       <!-- </div> -->
