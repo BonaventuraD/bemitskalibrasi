@@ -62,6 +62,10 @@ a:hover {
     background-color: #F9D873;
 }
 
+.bgmaskot{
+    background-color: #f4fffd5c ;
+}
+
 .content-tentang-kami{
     padding-bottom: 200px;
 }
@@ -376,7 +380,7 @@ ol.carousel-indicators {
     padding-right: 15px;
     bottom: 30px;
     right: 35px;
-    background-color: #addb1b;
+    background-color: #F9D873;
     color: #fcfae6;
     border-radius: 10px;
     text-align: center;
@@ -390,7 +394,8 @@ ol.carousel-indicators {
 }
 
 .float-button:hover {
-    background-color: #d2f440;
+    background-color: #096E5D;
+    color: white;
 }
 
 .fa-whatsapp {
