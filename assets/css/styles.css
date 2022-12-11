@@ -1,0 +1,242 @@
+#kalibrasi-svg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 70%;
+}
+
+.visi-text {
+  max-width: 100%;
+  color: var(--bs-white);
+  font-family: Gilroy;
+  padding: 24px;
+  padding-left: 32px;
+  background: #7a66fd;
+  border-radius: 17px;
+  border: 0.4px solid var(--bs-purple);
+  border-top-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.misi-text {
+  margin-left: auto;
+  text-align: start;
+  max-width: 100%;
+  font-family: Gilroy;
+  color: var(--bs-white);
+  border: 1px solid var(--bs-purple);
+  border-radius: 13px;
+  background: #7a66fd;
+  padding: 32px;
+  padding-right: 8px;
+}
+
+.kalibrasi-paragraph {
+  font-family: Gilroy;
+  font-size: 24px;
+  max-width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  color: white;
+}
+
+.visi-head {
+  max-width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  /*text-align: center;*/
+  font-size: 24px;
+  font-family: Gantari, sans-serif;
+  background: rgb(111,66,193);
+  color: white;
+}
+
+.misi-head {
+  max-width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Gantari, sans-serif;
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+  background: var(--bs-purple);
+}
+
+.col-block-style {
+  border-radius: 6px;
+  height: 80px;
+  background: var(--bs-white);
+}
+
+@media (min-width: 413px) {
+  .visi-text {
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 412px) {
+  .misi-text {
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 412px) {
+  .misi-head {
+    max-width: 20%;
+    margin-left: auto;
+    margin-right: 15%;
+    color: white;
+  }
+}
+
+@media (min-width: 412px) {
+  .visi-head {
+    max-width: 30%;
+    margin-left: 15%;
+    margin-right: auto;
+    font-size: 24px;
+    font-family: Gantari, sans-serif;
+    background: rgb(111,66,193);
+    color: white;
+  }
+}
+
+.btn-primary:hover {
+  background-color: #7a66fd;
+}
+
+.cabinet-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+}
+
+.name-title {
+  font-size: 24px;
+  text-align: center;
+  font-family: Gilroy;
+  font-weight: bold;
+  color: var(--bs-white);
+  margin-bottom: 0px;
+}
+
+.job-title {
+  font-size: 18px;
+  text-align: center;
+  font-family: Gilroy;
+  font-weight: bold;
+  color: var(--bs-white);
+  margin-bottom: 0px;
+}
+
+.insta-logo {
+  font-size: 32px;
+  color: white;
+  text-align: center;
+}
+
+.progress-h1 {
+  font-family: Gilroy;
+  font-size: 42.332px;
+  font-weight: bold;
+}
+
+@media (min-width:350px) {
+  .justify-content-sm-center {
+    justify-content: center!important;
+  }
+}
+
+.div-hero-head {
+  background: #7a66fd;
+}
+
+.position-container {
+  max-width: 50%;
+}
+
+.cabinet-box {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  width: 350px;
+  /*height: 350px;*/
+  /*object-fit: cover;*/
+}
+
+.btn:hover {
+  color: var(--bs-btn-hover-color);
+  background-color: #7a66fd;
+  border-color: #7a66fd;
+}
+
+a:hover {
+  color: #7a66fd;
+}
+
+.bph-anggota {
+  display: block;
+  width: 350px;
+  max-width: 50%;
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+  background: var(--bs-border-color-translucent);
+  border-top-left-radius: 195px;
+  border-top-right-radius: 195px;
+}
+
+@media (min-width: 400px) {
+  .bph-anggota {
+    display: block;
+    width: 350px;
+    max-width: 50%;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+    background: var(--bs-border-color-translucent);
+    border-top-left-radius: 195px;
+    border-top-right-radius: 195px;
+  }
+}
+
+.bph-anggota1 {
+  display: block;
+  width: 350px;
+  max-width: 50%;
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: contain;
+  background: var(--bs-border-color-translucent);
+  border-top-left-radius: 195px;
+  border-top-right-radius: 195px;
+}
+
+@media (min-width: 400px) {
+  .bph-anggota1 {
+    display: block;
+    width: 350px;
+    max-width: 50%;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: contain;
+    background: var(--bs-border-color-translucent);
+    border-top-left-radius: 195px;
+    border-top-right-radius: 195px;
+  }
+}
+
+.tanda-kutip {
+  margin-right: 0px;
+  margin-left: auto;
+}
+

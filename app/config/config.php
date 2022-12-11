@@ -1,6 +1,6 @@
-<?php defined('BASEPATH') or exit('No direct script access allowed');
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
 /*
-| Install date  : 06-Dec-2022 09:25:55
+| Install date  : 11-Dec-2022 04:46:21
 */
 
 /*
@@ -25,9 +25,12 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-if (empty($_SERVER['BASE_URL'])) {
+if (empty($_SERVER['BASE_URL']))
+{
     $config['base_url'] = ($_SERVER['SERVER_PORT'] == 443 ? 'https' : 'http') . "://{$_SERVER['HTTP_HOST']}" . str_replace(basename($_SERVER['SCRIPT_NAME']), "", $_SERVER['SCRIPT_NAME']);
-} else {
+} 
+else
+{
     $config['base_url'] = $_SERVER['BASE_URL'];
 }
 
@@ -108,7 +111,7 @@ $config['charset'] = 'UTF-8';
 | setting this variable to TRUE (boolean).  See the user guide for details.
 |
 */
-$config['enable_hooks'] = false;
+$config['enable_hooks'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------
@@ -190,7 +193,7 @@ $config['permitted_uri_chars'] = 'a-z 0-9~%.:_-';
 | use segment based URLs.
 |
 */
-$config['enable_query_strings'] = false;
+$config['enable_query_strings'] = FALSE;
 $config['controller_trigger']   = 'c';
 $config['function_trigger']     = 'm';
 $config['directory_trigger']    = 'd';
@@ -207,7 +210,7 @@ $config['directory_trigger']    = 'd';
 |          for backwards compatibility purposes!
 |
 */
-$config['allow_get_array'] = true;
+$config['allow_get_array'] = TRUE;
 
 /*
 |--------------------------------------------------------------------------
@@ -319,7 +322,7 @@ $config['cache_path'] = '';
 |              of query parameters.
 |
 */
-$config['cache_query_string'] = false;
+$config['cache_query_string'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------
@@ -332,7 +335,7 @@ $config['cache_query_string'] = false;
 | https://codeigniter.com/user_guide/libraries/encryption.html
 |
 */
-$config['encryption_key'] = hex2bin('19c8cab16f1e2ccfdebf425dc06f1c97');
+$config['encryption_key'] = hex2bin('53fed7a67ee9a94a4a98960f581e49b0');
 
 /*
 |--------------------------------------------------------------------------
@@ -386,12 +389,12 @@ $config['encryption_key'] = hex2bin('19c8cab16f1e2ccfdebf425dc06f1c97');
 |
 */
 $config['sess_driver']             = '';
-$config['sess_cookie_name']        = md5('19c8cab16f1e2ccfdebf425dc06f1c97');
+$config['sess_cookie_name']        = md5('53fed7a67ee9a94a4a98960f581e49b0');
 $config['sess_expiration']         = 7200;
-$config['sess_save_path']          = null;
-$config['sess_match_ip']           = false;
+$config['sess_save_path']          = NULL;
+$config['sess_match_ip']           = FALSE;
 $config['sess_time_to_update']     = 300;
-$config['sess_regenerate_destroy'] = false;
+$config['sess_regenerate_destroy'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------
@@ -411,8 +414,8 @@ $config['sess_regenerate_destroy'] = false;
 $config['cookie_prefix']   = '';
 $config['cookie_domain']   = '';
 $config['cookie_path']     = '/';
-$config['cookie_secure']   = false;
-$config['cookie_httponly'] = false;
+$config['cookie_secure']   = FALSE;
+$config['cookie_httponly'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------
@@ -426,7 +429,7 @@ $config['cookie_httponly'] = false;
 |          for backwards compatibility purposes!
 |
 */
-$config['standardize_newlines'] = false;
+$config['standardize_newlines'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------
@@ -440,7 +443,7 @@ $config['standardize_newlines'] = false;
 |          for backwards compatibility purposes!
 |
 */
-$config['global_xss_filtering'] = false;
+$config['global_xss_filtering'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------
@@ -456,11 +459,11 @@ $config['global_xss_filtering'] = false;
 | 'csrf_regenerate' = Regenerate token on every submission
 | 'csrf_exclude_uris' = Array of URIs which ignore CSRF checks
 */
-$config['csrf_protection']   = true;
+$config['csrf_protection']   = TRUE;
 $config['csrf_token_name']   = 'csrf_name';
 $config['csrf_cookie_name']  = 'csrf_cookie_name';
 $config['csrf_expire']       = 7200;
-$config['csrf_regenerate']   = false;
+$config['csrf_regenerate']   = FALSE;
 $config['csrf_exclude_uris'] = array();
 
 /*
@@ -483,7 +486,7 @@ $config['csrf_exclude_uris'] = array();
 | by the output class.  Do not 'echo' any values with compression enabled.
 |
 */
-$config['compress_output'] = false;
+$config['compress_output'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------
@@ -510,7 +513,7 @@ $config['time_reference'] = 'local';
 | Note: You need to have eval() enabled for this to work.
 |
 */
-$config['rewrite_short_tags'] = false;
+$config['rewrite_short_tags'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------
