@@ -1,7 +1,7 @@
 <!--Deskripsi Kemenkoan-->
 <div class="container-fluid backgroundKemenkoan pt-5">
-  <div class="container pt-5">
-    <div class="row align-items-center pt-5">
+  <div class="container py-5">
+    <div class="row align-items-center py-5">
       <div class="row col text-center">
         <h1 class="h1homewarnapaletungu fw-bolder">Kementerian Koordinasi<br>Komunikasi, Informasi, dan Relasi</h1>
         <div class="col-2 align-items-center d-flex">
@@ -21,11 +21,11 @@
         </div>
       </div>
       <div class="col-6 d-none d-sm-block pb-5">
-        <div class="col-12">
-        <img class="img-fluid p-5" src="<?= base_url(); ?>assets/img/kominrel/MaskotGersospol.png" alt="">
+        <div class="col-12 p-5 pt-0">
+        <img class="img-fluid p-5  bgmaskot" style="border-radius:80px;" src="<?= base_url(); ?>assets/img/kominrel/MaskotKominrel.png" alt="">
         </div>
         <div class="col-12">
-          <h5 class="py-5 warnapaletungu text-end text-justify">
+          <h5 class="warnapaletungu text-end text-justify pr-5">
           Kemenkoan yang bertanggung jawab dalam membangun citra baik BEM ITS lewat komunikasi secara visual, penyebaran informasi, dan manajemen relasi kepada stakeholder BEM ITS.
           </h5>
         </div>
