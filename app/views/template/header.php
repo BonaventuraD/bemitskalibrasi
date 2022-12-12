@@ -18,22 +18,22 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/bootstrap/css/bootstrap.min.css">
-    <link href="<?= base_url(); ?>assets/css/styles.css" rel="stylesheet">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Gantari&amp;display=swap">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/css/Gilroy.css">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/css/Montserrat.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium+Web:300,400,400i,600,700">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/css/animate.min.css">
-    <link href="<?= base_url(); ?>assets/css/base.css" rel="stylesheet">
+
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium+Web:300,400,400i,600,700">
     <link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="icon" href="<?= base_url(); ?>assets/img/icon.png">
     <link href='https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Gantari&amp;display=swap">
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/css/Gilroy.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/css/Montserrat.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/css/styles.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/css/animate.min.css">
+    <link href="<?= base_url(); ?>assets/css/base.css" rel="stylesheet">
 
 
     <!-- NewBiz Template -->
@@ -58,6 +58,8 @@
 	<!-- script -->
     <script type='text/javascript' src='https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js'></script>
     <script type='text/javascript' src='https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js'></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+
 	<!-- google analytics -->
 	<?=google_analytics();?>
 
@@ -89,7 +91,7 @@
                                 Profil
                             </a>
                             <ul class="dropdown-menu warnabgnav fontnavbar" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="<?php echo site_url('profil/kabinet') ?>">Kalibrasi </a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/kabinet') ?>">Unjuk Asa </a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/kominrel') ?>">Kominrel</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/inpus') ?>">Intra Kampus</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/akarinovasi') ?>">Akar Inovasi</a></li>

@@ -3,8 +3,9 @@
     background-color: #fcfae6;
 }
 
+
 a:hover {
-  color: #12DBB9 !important;
+  color: #57ce77 !important;
 }
 
 /* .kepala {
@@ -219,7 +220,6 @@ a:hover {
 
 .a, a:hover, a:focus, a:active, a:link {
     text-decoration: none;
-    color: inherit;
     font-weight: bold;
 }
 
@@ -332,6 +332,7 @@ a:hover {
     border-radius: 10px;
 }
 
+/*
 ol.carousel-indicators {
     display: block;
     left: auto;
@@ -344,6 +345,7 @@ ol.carousel-indicators {
     background-color: #ffeb3b;
     opacity: .6;
 }
+*/
 
 .card {
     background: #fff;
@@ -428,6 +430,9 @@ ol.carousel-indicators {
     }
 }
 
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: white !important;
+}
 
 
 

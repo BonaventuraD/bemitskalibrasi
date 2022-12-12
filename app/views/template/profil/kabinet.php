@@ -44,7 +44,7 @@
 <!-- Slide Visi misi -->
 
 <!-- Slide Progres dan kabinet -->
-<div style="background: url(&quot;assets/img/kalibrasi-hiasan.svg&quot;) center / cover no-repeat, #12DBB9;">
+<div style="background: url(&quot;<?= base_url(); ?>assets/img/kalibrasi-hiasan.svg&quot;) center / cover no-repeat, #12DBB9;">
         <div class="container">
             <div style="height: 32px;"></div>
             <h1 style="text-align: center;font-family: Gilroy;height: 45.225px;font-weight: bold;color: var(--bs-white);">KABINET KALIBRASI</h1><img class="cabinet-image" src="<?= base_url(); ?>assets/img/Agil_Wahyu_R._-_Presbem-removebg-preview.png" style="border-top-left-radius: 240px;border-top-right-radius: 240px;background: var(--bs-border-color-translucent);">
@@ -265,11 +265,6 @@
         <div style="height: 45px;"></div>
         <div style="height: 45px;"></div>
     </div>
-    <div>
-        <div class="col">
-            <div style="height: 40px;color: var(--bs-purple);background: #28183D;"></div>
-        </div>
-    </div>
 <!-- Highlight Proker -->
 <div>
         <div class="col">
@@ -288,4 +283,5 @@
             </div>
         </div>
     </div>
+    
     
