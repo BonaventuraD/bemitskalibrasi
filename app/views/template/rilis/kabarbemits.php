@@ -1,4 +1,34 @@
-<main class="warnapaletungu">
+<div class="container-fluid py-2 slideaspirasibg">
+    <div class="row p-5">
+        <div class="container col-1 pl-5 pr-5 pt-5">
+        </div>
+        <div class="container col-5 pl-5 pr-5 pt-5">
+            <h2 class="fw-bold text-start">KABAR DARI BEM ITS</h2>
+            <p class="text-justify">
+                Kabar terkini serta artikel menarik dari BEM ITS
+            </p>
+            <p class="py-5"></p>
+            <p class="py-5"></p>
+            <p class="py-5"></p>
+            
+        </div>
+        <div class="container col-5 pr-5 pt-5">
+        </div>
+        <div class="container col-1 pl-5 pr-5 pt-5">
+        </div>
+    </div>
+    <div class="row p-5">
+        <div class="container col-1pr-5">
+        </div>
+        <div class="container col-7 pl-5 ">
+        </div>
+        <div class="container col-3 pr-5">
+        </div>
+        <div class="container col-1 pl-5">
+        </div>
+    </div>
+</div>
+<!-- <main class="warnapaletungu">
         <div class="container-fluid py-5 warnabgpost">
             <div class="container">
                 <div class="row">
@@ -218,6 +248,6 @@
                 </div>
             </div>
         </div>
- </main>
+ </main> -->
 
  

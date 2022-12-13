@@ -1,13 +1,13 @@
 <!--Deskripsi Kemenkoan-->
-<div class="container-fluid backgroundKemenkoan pt-5">
+<div class="container-fluid backgroundKemenkoan">
   <div class="container py-5">
     <div class="row align-items-center py-5">
       <div class="row col text-center">
-        <h1 class="h1homewarnapaletungu fw-bolder">Kementerian Koordinasi<br>Komunikasi, Informasi, dan Relasi</h1>
+        <h1 class="h1homewarnapaletungu fw-bolder">Kementerian Koordinasi Komunikasi, Informasi, dan Relasi</h1>
         <div class="col-2 align-items-center d-flex">
         </div>
         <div class="col-8 align-items-center d-flex pb-3">
-        <img class="img-fluid" src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide1bawahtitle.png" alt="">
+        <img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/ornamentkominrel.png" alt="">
         
         </div>
         <div class="col-2 align-items-center d-flex">

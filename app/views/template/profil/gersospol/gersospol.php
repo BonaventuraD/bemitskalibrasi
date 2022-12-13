@@ -1,29 +1,45 @@
-<!-- Deskripsi Kemenkoan-->
-<header class="warnapaletijotua py-5">
-    <div class="container px-5">
-        <div class="row gx-5 align-items-center justify-content-center">
-            <div class="row justify-content-center">
-                <div class="col-lg-12 col-xxl-6">
-                    <div class="text-center">
-                        <h2 class="fontnavbar  fw-bolder ">Kementerian Koordinasi Pergerakan Sosial Politik</h2>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-xl-2 col-xxl-4 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/gersospol/gersospol.png" alt="..." /></div>
-            <div class="col-lg-8 col-xl-7 col-xxl-6">
-                <p class="lead fw-normal fontnavbar mb-4">Kemenkoan Pergerakan Sosial Politik (Gersospol) merupakan Kemenkoan yang bertanggung jawab dalam menciptakan iklim Sosial Politik di KM ITS serta menjadi garda terdepan dalam menanggapi isu-isu sosial politik yang terjadi di Tanah Air.</p>
-
-            </div>
+<!--Deskripsi Kemenkoan-->
+<div class="container-fluid backgroundKemenkoan">
+  <div class="container py-5">
+    <div class="row align-items-center py-5">
+      <div class="row col text-center">
+        <h1 class="h1homewarnapaletungu fw-bolder">Kementerian Koordinasi Pergerakan Sosial Politik</h1>
+        <div class="col-2 align-items-center d-flex">
         </div>
+        <div class="col-8 align-items-center d-flex pb-3">
+        <img class="img-fluid" src="<?= base_url(); ?>assets/img/gersospol/ornamentgersospol.png" alt="">
+        
+        </div>
+        <div class="col-2 align-items-center d-flex">
+        </div>
+        <div class="col-4 align-items-center d-flex">
+        <img class="img-fluid py-5" src="<?= base_url(); ?>assets/img/gersospol/gersospolicon.png" alt="">  
+        </div>
+        <div class="col-4 align-items-center d-flex">
+        </div>
+        <div class="col-4 align-items-center d-flex">
+        </div>
+      </div>
+      <div class="col-6 d-none d-sm-block pb-5">
+        <div class="col-12 p-5 pt-0">
+        <img class="img-fluid p-5  bgmaskot" style="border-radius:80px;" src="<?= base_url(); ?>assets/img/gersospol/MaskotGersospol.png" alt="">
+        </div>
+        <div class="col-12">
+          <h5 class="warnapaletungu text-end text-justify pr-5">
+          Kemenkoan Pergerakan Sosial Politik (Gersospol) merupakan Kemenkoan yang bertanggung jawab dalam menciptakan iklim Sosial Politik di KM ITS serta menjadi garda terdepan dalam menanggapi isu-isu sosial politik yang terjadi di Tanah Air.
+          </h5>
+        </div>
+        
+      </div>
     </div>
-</header>
-<!-- Deskripsi Kemenkoan-->
+  </div>
+</div>
+<!-- Deskripsi Kemenkoan -->
 
 <!-- PH Kemenkoan -->
-<div class="container-fluid py-5 backgroundAll">
+<div class="container-fluid py-5 backgroundKemenkoan2">
     <!-- ======= Portfolio Section ======= -->
-    <div class="container backgroundAll" data-aos="fade-up">
+    <div class="container backgroundKemenkoan2" data-aos="fade-up">
         <header class="section-header">
             <h3 class="section-title warnapaletungu fw-bolder text-center">Meet Our Team</h3>
         </header>
@@ -81,7 +97,7 @@
 <!-- PH Kemenkoan -->
 
 <!-- Kementerian naungan -->
-<div class="container-fluid pt-5 warnapaletoren">
+<div class="container-fluid pt-5 slidekemenbg warnapaletoren">
     <div class="container pb-5">
         <div class="row justify-content-center align-items-center">
             <div class="col mx-auto pb-5">

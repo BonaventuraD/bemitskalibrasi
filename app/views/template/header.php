@@ -94,7 +94,7 @@
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/kabinet') ?>">Unjuk Asa </a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/kominrel') ?>">Kominrel</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/inpus') ?>">Intra Kampus</a></li>
-                                <li><a class="dropdown-item" href="<?php echo site_url('profil/akarinovasi') ?>">Akar Inovasi</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/akarinovasi') ?>">Kemasyarakatan</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/kemahasiswaan') ?>">Kemahasiswaan</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/gersospol') ?>">Gersospol</a></li>
 

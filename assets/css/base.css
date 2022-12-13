@@ -41,6 +41,10 @@ a:hover {
     background-color: #28183D;
 }
 
+.bgkabardaribem{
+    background-color: #FCF9F5;
+}
+
 .bglogokalibrasi {
     background-image: url("../img/bglogokabinet.png");
     background-size: cover;
