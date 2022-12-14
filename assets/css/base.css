@@ -45,6 +45,11 @@ a:hover {
     background-color: #FCF9F5;
 }
 
+.bgpostkabar{
+    background-color: #FFFFFF;
+    border-radius: 12px;
+}
+
 .bglogokalibrasi {
     background-image: url("../img/bglogokabinet.png");
     background-size: cover;

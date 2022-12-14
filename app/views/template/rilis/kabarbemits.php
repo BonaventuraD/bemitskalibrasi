@@ -18,9 +18,47 @@
         </div>
     </div>
     <div class="row p-5">
-        <div class="container col-1pr-5">
+        <div class="container col-1 pr-5">
         </div>
-        <div class="container col-7 pl-5 ">
+        <div class="container col-7 pl-5 bgpostkabar">
+            <div class="container">
+                <div class="col-3">
+                    tes
+                </div>
+                <div class="col-8">
+                    <div class="col-4">
+                    tes
+                    </div>
+                    <div class="col-8">
+                    </div>
+                </div>
+                <div class="col-1"></div>
+            </div>
+        </div>
+        <div class="container col-3 pr-5 bgpostkabar">
+            tes
+        </div>
+        <div class="container col-1 pl-5">
+        </div>
+    </div>
+
+    <div class="row p-5">
+        <div class="container col-1 pr-5">
+        </div>
+        <div class="container col-7 pl-5 bgpostkabar">
+
+        </div>
+        <div class="container col-3 pr-5 bgpostkabar">
+        </div>
+        <div class="container col-1 pl-5">
+        </div>
+    </div>
+
+    <div class="row p-5">
+        <div class="container col-1 pr-5">
+        </div>
+        <div class="container col-7 pl-5 bgpostkabar">
+
         </div>
         <div class="container col-3 pr-5">
         </div>
