@@ -47,7 +47,6 @@ a:hover {
 
 .bgpostkabar{
     background-color: #FFFFFF;
-    border-radius: 12px;
 }
 
 .bglogokalibrasi {
@@ -74,10 +73,6 @@ a:hover {
 
 .bgmaskot{
     background-color: #f4fffd5c ;
-}
-
-.content-tentang-kami{
-    padding-bottom: 200px;
 }
 
 .slidekmhs {
@@ -163,6 +158,9 @@ a:hover {
     opacity: 0.9;
 }
 
+.roundedimg{
+    border-radius: 50px;
+}
 
 .slidekemenbg {
     padding: auto;
@@ -251,11 +249,6 @@ a:hover {
     background-color: #7A66FD
 }
 
-.warnabgpost {
-    background-color: #FFEB78;
-}
-
-
 .warnabgfooter {
     background: #393999;
 }
@@ -282,8 +275,6 @@ a:hover {
         font-size: 10px;
     }
 }
-
-
 
 .portfolio-section .portfolio-btn-wrapper {
     margin-bottom: 50px;

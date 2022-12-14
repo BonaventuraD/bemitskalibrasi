@@ -74,7 +74,7 @@ class Profil extends CI_Controller
         $this->load->view('template/footer');
     }
 
-    public function akarinovasi()
+    public function inka()
     {
         $this->load->view('template/header');
         $this->load->view('template/profil/karinov/akarinovasi');
@@ -99,6 +99,13 @@ class Profil extends CI_Controller
     {
         $this->load->view('template/header');
         $this->load->view('template/profil/karinov/ekraf');
+        $this->load->view('template/footer');
+    }
+
+    public function kemasyarakatan()
+    {
+        $this->load->view('template/header');
+        $this->load->view('template/profil/kemasyarakatan/kemasyarakatan');
         $this->load->view('template/footer');
     }
 

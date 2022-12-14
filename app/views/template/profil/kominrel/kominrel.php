@@ -1,9 +1,9 @@
 <!--Deskripsi Kemenkoan-->
 <div class="container-fluid backgroundKemenkoan">
   <div class="container py-5">
-    <div class="row align-items-center py-5">
-      <div class="row col text-center">
-        <h1 class="h1homewarnapaletungu fw-bolder">Kementerian Koordinasi Komunikasi, Informasi, dan Relasi</h1>
+    <div class="row justify-content-center py-5">
+      <div class="row col py-5 text-center">
+        <h1 class="h1homewarnapaletungu fw-bolder pt-5">Kementerian Koordinasi Komunikasi, Informasi, dan Relasi</h1>
         <div class="col-2 align-items-center d-flex">
         </div>
         <div class="col-8 align-items-center d-flex pb-3">

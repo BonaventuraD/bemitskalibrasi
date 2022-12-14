@@ -1,18 +1,18 @@
 <!--Deskripsi Kemenkoan-->
 <div class="container-fluid backgroundKemenkoan">
   <div class="container py-5">
-    <div class="row align-items-center py-5">
-      <div class="row col text-center">
-        <h1 class="h1homewarnapaletungu fw-bolder">Kementerian Koordinasi Kemasyarakatan</h1>
+    <div class="row justify-content-center py-5">
+      <div class="row col py-5 text-center">
+        <h1 class="h1homewarnapaletungu fw-bolder pt-5">Kementerian Koordinasi INKA</h1>
         <div class="col-2 align-items-center d-flex">
         </div>
         <div class="col-8 align-items-center d-flex pb-3">
-        <img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/ornamentkemasyarakatan.png" alt="">
+        <img class="img-fluid" src="<?= base_url(); ?>assets/img/inka/ornamentinka.png" alt="">
         </div>
         <div class="col-2 align-items-center d-flex">
         </div>
         <div class="col-4 align-items-center d-flex">
-        <img class="img-fluid py-5" src="<?= base_url(); ?>assets/img/kemasyarakatan/kemasyarakatanicon.png" alt="">  
+        <img class="img-fluid py-5" src="<?= base_url(); ?>assets/img/inka/inkaicon.png" alt="">  
         </div>
         <div class="col-4 align-items-center d-flex">
         </div>
@@ -21,7 +21,7 @@
       </div>
       <div class="col-6 d-none d-sm-block pb-5">
         <div class="col-12 p-5 pt-0">
-        <img class="img-fluid p-5  bgmaskot" style="border-radius:80px;" src="<?= base_url(); ?>assets/img/kemasyarakatan/MaskotKemasyarakatan.png" alt="">
+        <img class="img-fluid p-5  bgmaskot" style="border-radius:80px;" src="<?= base_url(); ?>assets/img/inka/MaskotInka.png" alt="">
         </div>
         <div class="col-12">
           <h5 class="warnapaletungu text-end text-justify pr-5">

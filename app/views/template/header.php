@@ -91,10 +91,11 @@
                                 Profil
                             </a>
                             <ul class="dropdown-menu warnabgnav fontnavbar" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="<?php echo site_url('profil/kabinet') ?>">Unjuk Asa </a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/kabinet') ?>">Kalibrasi</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/kominrel') ?>">Kominrel</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/inpus') ?>">Intra Kampus</a></li>
-                                <li><a class="dropdown-item" href="<?php echo site_url('profil/akarinovasi') ?>">Kemasyarakatan</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/inka') ?>">Inovasi Karya</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/kemasyarakatan') ?>">Kemasyarakatan</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/kemahasiswaan') ?>">Kemahasiswaan</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/gersospol') ?>">Gersospol</a></li>
 

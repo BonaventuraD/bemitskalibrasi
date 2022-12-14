@@ -32,17 +32,16 @@
 <div class="container-fluid slide2Homebg">
   <div class="container pb-2">
     <div class="row justify-content-center align-items-center content-tentang-kami">
-      <!-- <div class="container"> -->
+    <h2 class="warnapaletungu fw-bold text-center d-block d-sm-none py-3">Tentang Kami</h2>
+          <p class="warnapaletungu text-center d-block d-sm-none py-2">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
+          </p>
+     
         <div class="col-6 d-none d-sm-block bgtentangkami p-5">
           <h2 class="warnapaletungu fw-bold text-center d-none d-sm-block py-3">Tentang Kami</h2>
           <p class="warnapaletungu text-justify d-none d-sm-block py-3">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
-          <h2 class="warnapaletungu fw-bold text-center d-block d-sm-none py-2">Tentang Kami</h2>
-          <p class="warnapaletungu text-justify d-block d-sm-none py-2">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
-          </p>
           <p class="warnapaletungu text-justify d-none d-sm-block pb-5">Adapun BEM ITS bertugas untuk mengoordinasikan seluruh kegiatan organisasi kemahasiswaan di lingkup KM ITS dan juga kegiatan kemahasiswaan di bidang sosial politik. Selain itu, BEM ITS berwenang dalam melakukan koordinasi dan instruksi terhadap HMD dan BEM Fakultas serta mewakili KM ITS keluar atas persetujuan BLM ITS dalam bidang sosial politik.</p>
           <p class="pt-5 pb-5"></p>
-          <p class="pt-1 pb-1"></p>
-          
+          <p class="pt-1 pb-2"></p>
           
         </div>
         <div class="col text-center d-none d-sm-block pl-5 pt-3 pb-5 content-tentang-kami">
@@ -58,15 +57,9 @@
            
           </div>
         </div>
-      <!-- </div> -->
+      
     </div>
   </div>
-  <!-- <div class="position-relative" style="margin-right: -15px;">
-    <div class="position-absolute bottom-0 end-0">
-      <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide2home.png" class="img-fluid " alt="...">
-    </div>
-  </div> -->
-</div>
 <!-- Slide 2 lilabout -->
 
 <!-- Slide 3 quicklink  -->
@@ -318,7 +311,6 @@
   <header class="section-header">
     <h3 class="fw-bolder fontheader">Kabar dari BEM ITS</h3>
   </header>
-  
     <div class="container justify-content-center align-items-center text-center">
       <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
@@ -328,21 +320,21 @@
         </div>
         <div class="carousel-inner pt-5 pb-5">
           <div class="carousel-item active">
-            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/1.jpg" class="d-block w-100" alt="...">
+            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/1.jpg" class="d-block w-100 rounded-3" alt="...">
             <div class="carousel-caption d-none d-md-block">
               <h5>First slide label</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/2.jpg" class="d-block w-100" alt="...">
+            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/2.jpg" class="d-block w-100 rounded-3" alt="...">
             <div class="carousel-caption d-none d-md-block">
               <h5>Second slide label</h5>
               <p>Some representative placeholder content for the second slide.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/3.jpg" class="d-block w-100" alt="...">
+            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/3.jpg" class="d-block w-100 rounded-3" alt="...">
             <div class="carousel-caption d-none d-md-block">
               <h5>Third slide label</h5>
               <p>Some representative placeholder content for the third slide.</p>
