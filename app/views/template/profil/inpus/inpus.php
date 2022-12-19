@@ -54,7 +54,7 @@
                                             <div class="card">
                                                 <img class="img-fluid rounded-3 bgourteam" alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/INPUS_-_MENKO_-_HAYKAL_HANIF-removebg-preview.png">
                                                 <div class="card-body">
-                                                    <h4 class="card-title text-center">Haykal Hanif</h4>
+                                                    <h4 class="card-title text-center">Haykal<br>Hanif</h4>
                                                     <p class="card-text text-center">Menko Intra Kampus</p>
                                                     <div class="text-center">
                                                         <!-- Linkedin -->
