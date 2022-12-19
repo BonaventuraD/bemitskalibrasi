@@ -25,8 +25,8 @@
         <img class="img-fluid p-5  bgmaskot" style="border-radius:80px;" src="<?= base_url(); ?>assets/img/kemahasiswaan/MaskotKemahasiswaan.png" alt="">
         </div>
         <div class="col-12">
-          <h5 class="warnapaletungu text-end text-justify pr-5">
-          Kemenkoan yang bergerak dan bertanggung jawab dalam membentuk pelayanan kesejahteraan mahasiswa yang responsif dan terintegrasi serta inklusif bagi seluruh mahasiswa ITS.
+          <h5 class="warnapaletungu text-center text-justify">
+          Kemenkoan yang membidangi koordinasi, sinkronisasi, serta pengendalian urusan Kementerian dalam pelayanan kesejahteraan mahasiswa yang responsif dan terintegrasi serta inklusif bagi seluruh mahasiswa ITS.
           </h5>
         </div>
         
@@ -53,15 +53,15 @@
                                     <div class="row justify-content-center">
                                         <div class="col-md-3 mb-3 rounded-3">
                                             <div class="card">
-                                                <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/mega_pltmenkoadkesma.png">
+                                                <img class="img-fluid rounded-3 bgourteam" alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/DavidChristman_MenteriKoordinator.png">
                                                 <div class="card-body">
-                                                    <h4 class="card-title text-center">Mega Sally</h4>
+                                                    <h4 class="card-title text-center">David Christman Pakpahan</h4>
                                                     <p class="card-text text-center">PLT Menko Kemahasiswaan</p>
                                                     <div class="text-center">
                                                         <!-- Linkedin -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/mega-s-670181119" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/d-christman" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
                                                         <!-- Instagram -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/megasallyy/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/yay.dapid/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
                                                     </div>
 
                                                 </div>
@@ -70,15 +70,15 @@
                                         </div>
                                         <div class="col-md-3 mb-3 mx-5 rounded-3">
                                             <div class="card">
-                                                <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/nadia_sekmenkoadkesma.png">
+                                                <img class="img-fluid rounded-3 bgourteam" alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/AdindaDika_SekretarisMenko.png">
                                                 <div class="card-body">
-                                                    <h4 class="card-title text-center">Nadia Azhaar</h4>
+                                                    <h4 class="card-title text-center">Adinda Dika<br>Kameswara</h4>
                                                     <p class="card-text text-center">Sekmenko Kemahasiswaan</p>
                                                     <div class="text-center">
                                                         <!-- Linkedin -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="http://linkedin.com/in/nadia-azhaar-3368451b4" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/adindadika" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
                                                         <!-- Instagram -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="instagram.com/nadiazhaar" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/diinda06/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
                                                     </div>
 
                                                 </div>

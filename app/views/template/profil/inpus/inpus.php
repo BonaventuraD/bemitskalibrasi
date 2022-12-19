@@ -24,8 +24,8 @@
         <img class="img-fluid p-5  bgmaskot" style="border-radius:80px;" src="<?= base_url(); ?>assets/img/inpus/MaskotInpus.png" alt="">
         </div>
         <div class="col-12">
-          <h5 class="warnapaletungu text-end text-justify pr-5">
-          Kemenkoan yang bertugas untuk meningkatkan relasi Intra Kampus dengan koordinasi yang kolaboratif serta mengoptimalkan potensi mahasiswa yang mengedepankan aspek pengembangan sumber daya mahasiswa berlandaskan HDPSDM ITS.
+          <h5 class="warnapaletungu text-center text-justify">
+          Kemenkoan yang bergerak dalam aspek pengembangan sumberdaya mahasiswa di KM ITS serta  menjaga harmonisasi internal KM dan kampus ITS sesuai dengan Amanah MUBES V. 
           </h5>
         </div>
         
@@ -52,15 +52,15 @@
                                     <div class="row justify-content-center">
                                         <div class="col-md-3 mb-3 rounded-3">
                                             <div class="card">
-                                                <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/raja_menkoinpus.png">
+                                                <img class="img-fluid rounded-3 bgourteam" alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/INPUS_-_MENKO_-_HAYKAL_HANIF-removebg-preview.png">
                                                 <div class="card-body">
-                                                    <h4 class="card-title text-center">Muhammad Mangaraja</h4>
+                                                    <h4 class="card-title text-center">Haykal Hanif</h4>
                                                     <p class="card-text text-center">Menko Intra Kampus</p>
                                                     <div class="text-center">
                                                         <!-- Linkedin -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/muhammadmangaraja" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/haykal-hanif-97a28818a/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
                                                         <!-- Instagram -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/rajahamid" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/haykal_hanif/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
                                                     </div>
 
                                                 </div>
@@ -69,13 +69,15 @@
                                         </div>
                                         <div class="col-md-3 mb-3 mx-5 rounded-3">
                                             <div class="card">
-                                                <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/rivan_sekmenkoinpus.png">
+                                                <img class="img-fluid rounded-3 bgourteam" alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/Ahmad_Ramadhani_Sekmenko-removebg-preview.png">
                                                 <div class="card-body">
-                                                    <h4 class="card-title text-center">Rivan<br>Arifian</h4>
+                                                    <h4 class="card-title text-center">Ahmad<br>Ramadhani Zr</h4>
                                                     <p class="card-text text-center">Sekmenko Intra Kampus</p>
                                                     <div class="text-center">
+                                                        <!-- Linkedin -->
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/ahmad-ramadhani/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
                                                         <!-- Instagram -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/ra.aristo" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/_rmdhnnii?igshid=YmMyMTA2M2Y=" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
                                                     </div>
 
                                                 </div>

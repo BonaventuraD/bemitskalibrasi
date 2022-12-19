@@ -5,7 +5,7 @@
 
 
 a:hover {
-  color: #57ce77 !important;
+  color: #7A66FD !important;
 }
 
 /* .kepala {
@@ -73,6 +73,10 @@ a:hover {
 
 .bgmaskot{
     background-color: #f4fffd5c ;
+}
+
+.bgourteam{
+    background-color: #7A66FD;
 }
 
 .slidekmhs {
@@ -174,9 +178,6 @@ a:hover {
 .slidekemeninpusbg {
     background-color: #42eaea;
 }
-
-
-
 
 .slide4Homebg {
     
@@ -396,7 +397,7 @@ ol.carousel-indicators {
 }
 
 .float-button:hover {
-    background-color: #096E5D;
+    background-color: #12DBB9;
     color: white;
 }
 

@@ -81,13 +81,6 @@ class Profil extends CI_Controller
         $this->load->view('template/footer');
     }
 
-    public function sosmas()
-    {
-        $this->load->view('template/header');
-        $this->load->view('template/profil/karinov/sosmas');
-        $this->load->view('template/footer');
-    }
-
     public function ristek()
     {
         $this->load->view('template/header');
@@ -106,6 +99,20 @@ class Profil extends CI_Controller
     {
         $this->load->view('template/header');
         $this->load->view('template/profil/kemasyarakatan/kemasyarakatan');
+        $this->load->view('template/footer');
+    }
+
+    public function sosmas()
+    {
+        $this->load->view('template/header');
+        $this->load->view('template/profil/kemasyarakatan/sosmas');
+        $this->load->view('template/footer');
+    }
+
+    public function lhk()
+    {
+        $this->load->view('template/header');
+        $this->load->view('template/profil/kemasyarakatan/lhk');
         $this->load->view('template/footer');
     }
 

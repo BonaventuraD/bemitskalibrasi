@@ -3,7 +3,7 @@
   <div class="container py-5">
     <div class="row justify-content-center py-5">
       <div class="row col py-5 text-center">
-        <h1 class="h1homewarnapaletungu fw-bolder pt-5">Kementerian Koordinasi INKA</h1>
+        <h1 class="h1homewarnapaletungu fw-bolder pt-5">Kementerian Koordinasi Inovasi Karya</h1>
         <div class="col-2 align-items-center d-flex">
         </div>
         <div class="col-8 align-items-center d-flex pb-3">
@@ -24,8 +24,8 @@
         <img class="img-fluid p-5  bgmaskot" style="border-radius:80px;" src="<?= base_url(); ?>assets/img/inka/MaskotInka.png" alt="">
         </div>
         <div class="col-12">
-          <h5 class="warnapaletungu text-end text-justify pr-5">
-          Kemenkoan yang bertanggung jawab untuk meningkatkan atmosfer keilmiahan di lingkup KM ITS dalam bentuk minat terhadap riset keilmiahan, pengembangan bisnis, dan ekonomi kreatif serta bertanggung jawab untuk menjaga kepekaan KM ITS terhadap kondisi sosial masyarakat di Indonesia.
+          <h5 class="warnapaletungu text-center text-justify">
+          Kemenkoan Inovasi Karya merupakan kemenkoan yang berfokus pada sinergitas akselerasi karya KM ITS dalam bentuk wadah dan inkubator terhadap karya dalam bidang riset keilmiahan, pengembangan bisnis, dan ekonomi kreatif yang efektif dan berdampak jangka panjang serta mampu menciptakan resolusi dari permasalahan yang ada di masyarakat dan lingkungan sekitar.			
           </h5>
         </div>
         
@@ -52,15 +52,15 @@
                                     <div class="row justify-content-center">
                                         <div class="col-md-3 mb-3 rounded-3">
                                             <div class="card">
-                                                <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemasyarakatan/rojak_menkokarinov.png">
+                                                <img class="img-fluid rounded-3 bgourteam" alt="100%x280" src="<?= base_url(); ?>assets/img/inka/AuliaMarta_Menkobnw.png">
                                                 <div class="card-body">
-                                                    <h4 class="card-title text-center">M. ABD. Rozzaq</h4>
-                                                    <p class="card-text text-center">Menko Akar Inovasi</p>
+                                                    <h4 class="card-title text-center">Aulia Marta<br>Lestari</h4>
+                                                    <p class="card-text text-center">Menko Inovasi Karya</p>
                                                     <div class="text-center">
                                                         <!-- Linkedin -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/muhammad-abdul-rozzaq-khaidhor-025a91204/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/auliamartalestari" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
                                                         <!-- Instagram -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/roz_zaq/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="http://instagram.com/auliamartalsr" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
                                                     </div>
 
                                                 </div>
@@ -69,15 +69,15 @@
                                         </div>
                                         <div class="col-md-3 mb-3 mx-5 rounded-3">
                                             <div class="card">
-                                                <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemasyarakatan/aisyah_sekmenkokarinov.png">
+                                                <img class="img-fluid rounded-3 bgourteam" alt="100%x280" src="<?= base_url(); ?>assets/img/inka/AisyiahAnjelicaNurrulIzza'_Sekmenkobnw.png">
                                                 <div class="card-body">
-                                                    <h4 class="card-title text-center">Aisyah Hanifah</h4>
-                                                    <p class="card-text text-center">Sekmenko Akar Inovasi</p>
+                                                    <h4 class="card-title text-center">Aisyiah Anjellica Nurrul Izza'</h4>
+                                                    <p class="card-text text-center">Sekmenko Inovasi Karya</p>
                                                     <div class="text-center">
                                                         <!-- Linkedin -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/aisyahhanf/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="http://linkedin.com/in/aisyanjellica" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
                                                         <!-- Instagram -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/aisyahhanf" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="http://instagram.com/aisyanjellica" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
                                                     </div>
 
                                                 </div>
@@ -106,14 +106,6 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-md-3 mb-3 rounded-3">
-                <div class="card bg-transparent border-0">
-                    <a class="text-center" href="<?= base_url(); ?>profil/sosmas">Kementerian Sosmas
-                        <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas.png">
-                    </a>
-                </div>
-            </div>
-
             <div class="col-md-3 mb-3 rounded-3">
                 <div class="card bg-transparent border-0">
                     <a class="text-center" href="<?= base_url(); ?>profil/ristek">Kementerian Ristek
