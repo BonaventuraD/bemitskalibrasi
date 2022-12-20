@@ -240,3 +240,36 @@ a:hover {
   margin-left: auto;
 }
 
+.definisi-kementerian {
+  /*max-width: 85%;*/
+  margin-right: auto;
+  margin-left: auto;
+  /*border: 32.4px solid #7A66FD;*/
+}
+
+.blank-space {
+  height: 32px;
+}
+
+.logo-psdm {
+  margin-left: 20%;
+  margin-right: 40%;
+  max-width: 50%;
+}
+
+.div-definisi-kementrian {
+  max-width: 70%;
+  margin-right: 0px;
+  margin-left: auto;
+}
+
+.blank-space1 {
+  height: 16px;
+}
+
+.akordion-kedirjenan {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+

@@ -31,9 +31,13 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Gantari&amp;display=swap">
     <link rel="stylesheet" href="<?= base_url(); ?>assets/css/Gilroy.css">
     <link rel="stylesheet" href="<?= base_url(); ?>assets/css/Montserrat.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/css/Simple-Slider-Simple-Slider.css">
     <link rel="stylesheet" href="<?= base_url(); ?>assets/css/styles.css">
     <link rel="stylesheet" href="<?= base_url(); ?>assets/css/animate.min.css">
     <link href="<?= base_url(); ?>assets/css/base.css" rel="stylesheet">
+    
 
 
     <!-- NewBiz Template -->
@@ -58,7 +62,8 @@
 	<!-- script -->
     <script type='text/javascript' src='https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js'></script>
     <script type='text/javascript' src='https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js'></script>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.js"></script>
+    <script src="<?= base_url(); ?>assets/js/Simple-Slider.js"></script>
 
 	<!-- google analytics -->
 	<?=google_analytics();?>
