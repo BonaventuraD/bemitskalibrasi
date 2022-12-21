@@ -1,274 +1,347 @@
-<!-- Deskripsi Kemenkoan-->
-<header class="warnabgkominrel py-5">
-  <div class="container px-5">
-    <div class="row gx-5 align-items-center justify-content-center">
-      <div class="row justify-content-center">
-        <div class="col-lg-8 col-xxl-6">
-          <div class="text-center my-2">
-            <h1 class="warnapaletputih  fw-bolder mb-2 ">Kementerian Multimedia dan Informasi</h1>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid  my-5" src="<?= base_url(); ?>assets/img/kominrel/medsi/medsiimc.jpg" style="border-radius: 20px 20px 20px 20px;" alt="Foto Kegiatan Kementerian Multimedia dan Informasi BEM ITS" /></div>
-      <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <p class="lead fw-normal text-white mb-4">Kementerian Multimedia dan Informasi bertugas mengoptimalkan penyebaran informasi, mengintegrasikan serta mengelola seluruh platform media yang dimiliki oleh BEM ITS, dan mengharmonisasikan seluruh bidang media informasi KM ITS tingkat eksekutif.</p>
-        <div class="my-5 text-center text-xl-start">
-          <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-            <a class="btn btn-primary btn-lg px-4 me-sm-3" style="background-color: #ff7b17;" href="https://line.me/ti/p/~trixiemarsya" target="_blank">Hubungi Kami</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</header>
-<!-- Deskripsi Kemenkoan-->
-
-<!-- PH Kementerian -->
-<div class="container-fluid py-5 slide3Homebg">
-  <!-- ======= Portfolio Section ======= -->
-  <div class="container " data-aos="fade-up">
-    <header class="section-header">
-      <h1 class="section-title warnapaletungu fw-bolder text-center">Meet Our Team</h1>
-    </header>
-    <section class="pt-5 pb-5">
-      <div class="container">
-        <div class="row">
-          <div class="col-6">
-
-          </div>
-          <div class="col-6 text-right">
-            <a class="btn btn-primary mb-3 mr-1" href="#carouselExampleIndicators2" role="button" data-slide="prev">
-              <i class="fa fa-arrow-left"></i>
-            </a>
-            <a class="btn btn-primary mb-3 " href="#carouselExampleIndicators2" role="button" data-slide="next">
-              <i class="fa fa-arrow-right"></i>
-            </a>
-          </div>
-          <div class="col-12">
-            <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel">
-
-              <div class="carousel-inner">
-                <div class="carousel-item active">
-                  <div class="row justify-content-center">
-
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/trixie.png">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya</h4>
-                          <p class="card-text text-center">Menteri Medsi</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="http://linkedin.com/in/trixiemarsya" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="http://instagram.com/trixiemarsya" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
+<section style="background: #FCF9F5;">
+        <div class="blank-space"></div>
+        <h1 class="text-center" style="text-shadow: 2px 2px var(--bs-border-color-translucent);font-weight: bold;font-family: Gilroy;color: var(--bs-black);">Kementerian Multimedia dan Informasi</h1>
+        <div class="blank-space"></div>
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div style="background: var(--bs-border-color-translucent);/*max-width: 50%;*/margin: 17px;border-bottom-right-radius: 50px;border-top-right-radius: 24px;border: 2.4px solid var(--bs-border-color-translucent);"><img class="img-fluid logo-psdm" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/medsi.png" style="transform: scale(0.65);"></div>
+                        <div style="position: absolute;height: 17px;width: 427px;margin: 12px;"></div>
                     </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/danu.png">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Danu Risqi</h4>
-                          <p class="card-text text-center">Wakil Menteri Medsi</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/danurisqi" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/danurisqi/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
-                          </div>
-
+                    <div class="col-md-6">
+                        <div class="definisi-kementerian" style="margin: 16px;">
+                            <p class="text-center" style="color: var(--bs-white);font-family: Gilroy;font-size: 24px;border-radius: 20px;padding: 32px;background: #7A66FD;border-style: solid;border-color: var(--bs-border-color-translucent);box-shadow: 7px 7px var(--bs-border-color-translucent);">Kementerian Multimedia dan Informasi bertugas mengoptimalkan penyebaran informasi, mengintegrasikan serta mengelola seluruh platform media yang dimiliki oleh BEM ITS, dan mengharmonisasikan seluruh bidang media informasi KM ITS tingkat eksekutif.</p>
                         </div>
-
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/zul.png">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Zulfahmi Hawali</h4>
-                          <p class="card-text text-center">Sekertaris Menteri Medsi</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/zulfahmi-hawali/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/zulfh_/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
-                          </div>
-
+                        <div style="margin: 17px;">
+                            <div class="accordion akordion-kedirjenan" role="tablist" id="accordion-2" style="border: 18.4px solid #7A66FD;box-shadow: 7px 7px 7px 0px var(--bs-border-color-translucent);">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" role="tab"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-2 .item-1" aria-expanded="true" aria-controls="accordion-2 .item-1" style="font-size: 13px;">Kedirjenan Yang Ada Pada Kementerian Ini</button></h2>
+                                    <div class="accordion-collapse collapse show item-1" role="tabpanel" data-bs-parent="#accordion-2">
+                                        <div class="accordion-body">
+                                            <ul>
+                                                <li>Kedirjenan Pengembangan Informasi<br></li>
+                                                <li>Kedirjenan Media Sosial</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-
-                      </div>
                     </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/hilmi.png">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Muhammad Hilmi</h4>
-                          <p class="card-text text-center">Staff Medsi</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/mhilmi999" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/hilmi_rmdhnn/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-
-                  </div>
-
                 </div>
-                <div class="carousel-item">
-                  <div class="row justify-content-center">
-
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/dina.png">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Dina Rika</h4>
-                          <p class="card-text text-center">Staff Medsi</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="www.linkedin.com/in/dinarika" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/dinarikasilviana?r=nametag" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/kaleb.png">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Abraham Kaleb</h4>
-                          <p class="card-text text-center">Staff Medsi</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/abramkaleb" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/abramkaleb/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/rara.png">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Shervind Maharani</h4>
-                          <p class="card-text text-center">Staff Medsi</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="http://www.linkedin.com/in/shervindmaharani" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/shervindrr/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/wahib.png">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Wahib Muhibi Nur</h4>
-                          <p class="card-text text-center">Staff Medsi</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/wahib-muhibi-nur/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/wahibmuhibi/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-
-                  </div>
-                </div>
-                <div class="carousel-item">
-                  <div class="row justify-content-center">
-
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/alissa.png">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Alissa Novitasari</h4>
-                          <p class="card-text text-center">Staff Medsi</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/alissa-n-08b326129" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/alissansr/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/indra.png">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Indra Afna</h4>
-                          <p class="card-text text-center">Staff Medsi</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/indraafna/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/indraafna/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/ocim.png">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Mico Nawa</h4>
-                          <p class="card-text text-center">Staff Medsi</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/mico-maulana-76597b1a0/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/micomaulana/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-
-                  </div>
-                </div>
-              </div>
             </div>
-          </div>
+        </div>
+        <div class="blank-space"></div>
+        <div class="blank-space"></div>
+        <div>
+            <div class="container">
+                <div class="div-definisi-kementrian">
+                    <div class="blank-space1"></div>
+                </div>
+                <div class="blank-space"></div>
+            </div>
         </div>
     </section>
-  </div>
-
-
-</div>
+    <section style="background: url(&quot;<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/meet-ourteam.png&quot;), #F9D873;background-size: cover, auto;">
+        <div>
+            <h1 class="text-center" style="padding: 32px;font-family: Gilroy;color: var(--bs-black);font-weight: bold;">Meet Our Team</h1>
+            <div class="container">
+                <div class="carousel slide carousel-dark" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="false" id="carousel-1">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div>
+                                <div class="container">
+                                    <div class="row gx-4 justify-content-center">
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;padding: 20px;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body card-height-limit">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/mico_menteri.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Mico Nawa Maulana<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Menteri</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/la-ode-muhammad-illyin-abdul-rahman-8a66b7220/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/illyin.ar/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="padding: 20px;background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/rara_wamen.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Shervind Maharani<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Wakil Menteri</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/irfan-nur-hanif-khoirullah/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/irfannur27/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div>
+                                <div class="container">
+                                    <div class="row gx-4 justify-content-center">
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="padding: 20px;background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/AINI_DIRJEN%20PI.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Aini Nur Hamidah<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Dirjen Pengembangan Informasi</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="padding: 20px;background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/kaleb_sekmen.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;" width="358" height="447"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Abraham Kaleb<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Sekretaris Menteri</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div>
+                                <div class="container">
+                                    <div class="row gx-4 justify-content-center">
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;padding: 20px;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body card-height-limit">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/saka_DIRJEN%20SOSMED.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Saka Bimantara<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Dirjen Media Sosial </p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="padding: 20px;background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/FIA_STAFF.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Annisa' Luthfia Ramadhani<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Staff</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div>
+                                <div class="container">
+                                    <div class="row gx-4 justify-content-center">
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;padding: 20px;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body card-height-limit">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/CHAY_STAFF.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Firdha Chaylia Ayu Rachmandika<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Staff </p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="padding: 20px;background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/Ayu_staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Andi Fitri Ayu Lestari <br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Staff</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div>
+                                <div class="container">
+                                    <div class="row gx-4 justify-content-center">
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;padding: 20px;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body card-height-limit">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/rafif_staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Athallah Rafif<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Staff</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="padding: 20px;background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/manindri_staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Manindri Auresa Palindria<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Staff</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div>
+                                <div class="container">
+                                    <div class="row gx-4 justify-content-center">
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;padding: 20px;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body card-height-limit">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/kemal_staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Kemal Aulia Rachman<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Staff</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="padding: 20px;background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/deva_staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;" width="358" height="444"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Bonaventura Daiva Putra<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Staff</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div>
+                                <div class="container">
+                                    <div class="row gx-4 justify-content-center">
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;padding: 20px;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body card-height-limit">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/GARDA_STAFF.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Garda Maulana<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Staff</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="padding: 20px;background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;">
+                                            <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
+                                                <div class="card-body">
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/TUHFA_STAFF.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
+                                                    <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Ulya<br></h6>
+                                                    <p class="text-center" style="font-family: Gilroy;">Staff</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div><a class="carousel-control-prev" href="#carousel-1" role="button" data-bs-slide="prev"><span class="carousel-control-prev-icon"></span><span class="visually-hidden">Previous</span></a><a class="carousel-control-next" href="#carousel-1" role="button" data-bs-slide="next"><span class="carousel-control-next-icon"></span><span class="visually-hidden">Next</span></a></div>
+                </div>
+            </div>
+        </div>
+        <div class="blank-space"></div>
+        <div class="blank-space"></div>
+    </section>
+    <section style="background: #12DBB9;">
+        <div>
+            <h2 class="text-center" style="padding: 32px;font-family: Gilroy;font-weight: bold;">Proker Agenda</h2>
+        </div>
+        <div class="container">
+            <div class="accordion" role="tablist" id="accordion-1" style="font-family: Gilroy;">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">PROMINEN</button></h2>
+                    <div class="accordion-collapse collapse item-1" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">Program kerja yang melakukan pencerdasan terkait HDPSDM, kemudian melakukan pemetaan terhadap PPSDM yang ada di HMD dan BEM Fakultas yang nantinya akan diberikan treatment sesuai hasil pemetaan pada PPSDM.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">Accordion Item</button></h2>
+                    <div class="accordion-collapse collapse item-2" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">Accordion Item</button></h2>
+                    <div class="accordion-collapse collapse item-3" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0" style="font-family: Gilroy;">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">Accordion Item</button></h2>
+                    <div class="accordion-collapse collapse item-4" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">Accordion Item</button></h2>
+                    <div class="accordion-collapse collapse item-5" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-6" aria-expanded="false" aria-controls="accordion-1 .item-6">Accordion Item</button></h2>
+                    <div class="accordion-collapse collapse item-6" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="false" aria-controls="accordion-1 .item-7">Accordion Item</button></h2>
+                    <div class="accordion-collapse collapse item-7" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-8" aria-expanded="false" aria-controls="accordion-1 .item-8">Accordion Item</button></h2>
+                    <div class="accordion-collapse collapse item-8" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-9" aria-expanded="false" aria-controls="accordion-1 .item-9">Accordion Item</button></h2>
+                    <div class="accordion-collapse collapse item-9" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="blank-space"></div>
+            <div class="blank-space"></div>
+        </div>
+    </section>
 <!-- PH Kementerian -->
 
-<!-- Proker Agenda -->
+<!--
 <div class="container-fluid py-5 slideprogress">
-  <!-- ======= Portfolio Section ======= -->
   <div class="container">
     <h1 class=" text-center warnapaletputih fw-bolder">Proker Agenda</h1>
     <br>
@@ -386,7 +459,7 @@
     </div>
   </div>
 </div>
-<!-- Proker Agenda -->
+ -->
 
 <!-- Highlight Proker -->
 <div class="container-fluid pt-5 slidekemenbg">
