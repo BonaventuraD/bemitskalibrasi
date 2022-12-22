@@ -1,4 +1,4 @@
-<section style="background: url(&quot;<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/bg-inpus.svg&quot;) center / cover no-repeat, #12DBB9;">
+    <section style="background: url(&quot;<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/bg-inpus.svg&quot;) center / cover no-repeat, #12DBB9;">
         <div class="blank-space"></div>
         <h1 class="text-center" style="text-shadow: 2px 2px var(--bs-border-color-translucent);font-weight: bold;font-family: Gilroy;color: var(--bs-white);">Kementerian Pengembangan Sumber Daya Manusia</h1>
         <div class="blank-space"></div>
@@ -343,66 +343,58 @@
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">Accordion Item</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">BLUSUKAN</button></h2>
                     <div class="accordion-collapse collapse item-2" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                            <p class="mb-0">Program kerja yang memberikan rekomendasi terkait PPSDM pada HMD dan BEM Fakultas baru, beriringan dengan Kementerian Dagri.</p>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">Accordion Item</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">DALANG P3K</button></h2>
                     <div class="accordion-collapse collapse item-3" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0" style="font-family: Gilroy;">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                            <p class="mb-0" style="font-family: Gilroy;">Program kerja yang melakukan peninjauan terkait isi buku P3K, kemudian akan diberikan pencerdasan kepada HMD dan LMB terkait isi buku P3K.</p>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">Accordion Item</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">SEKAI</button></h2>
                     <div class="accordion-collapse collapse item-4" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                            <p class="mb-0">Program kerja yang melakukan pencerdasan kepada Elemen Pengkader (Elder) KM ITS.</p>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">Accordion Item</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">CSC</button></h2>
                     <div class="accordion-collapse collapse item-5" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                            <p class="mb-0">Program kerja yang melakukan diskusi antar HMD mengenai kaderisasi kepada Elemen Pengkader KM ITS.</p>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-6" aria-expanded="false" aria-controls="accordion-1 .item-6">Accordion Item</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-6" aria-expanded="false" aria-controls="accordion-1 .item-6">GERIGI ITS</button></h2>
                     <div class="accordion-collapse collapse item-6" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                            <p class="mb-0">Program kerja berupa pelaksanaan Masa Orientasi Awal yang diikuti oleh seluruh Mahasiswa Baru ITS, dimana dalam kegiatannya dilakukan dalam lingkup ruang dan waktu secara bersama-sama.</p>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="false" aria-controls="accordion-1 .item-7">Accordion Item</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="false" aria-controls="accordion-1 .item-7">RUU GERIGI ITS</button></h2>
                     <div class="accordion-collapse collapse item-7" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                            <p class="mb-0">Program kerja penyusunan Rancangan Undang-Undang GERIGI ITS yang berguna sebagai landasan dan mekanisme pelaksanaan kegiatan.</p>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-8" aria-expanded="false" aria-controls="accordion-1 .item-8">Accordion Item</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-8" aria-expanded="false" aria-controls="accordion-1 .item-8">KT-PSDM</button></h2>
                     <div class="accordion-collapse collapse item-8" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-9" aria-expanded="false" aria-controls="accordion-1 .item-9">Accordion Item</button></h2>
-                    <div class="accordion-collapse collapse item-9" role="tabpanel" data-bs-parent="#accordion-1">
-                        <div class="accordion-body">
-                            <p class="mb-0">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                            <p class="mb-0">Program kerja yang meliputi diskusi, koordinasi dan jaring aspirasi dengan melibatkan keseluruhan elemen PSDM di KM ITS.</p>
                         </div>
                     </div>
                 </div>
@@ -410,6 +402,48 @@
         </div>
         <div class="container">
             <div class="blank-space"></div>
+            <div>
+                <div class="progress" style="max-width: 50%; margin-left: auto; margin-right: auto;">
+                    <div class="progress-bar bg-primary progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">50%</div>
+                </div>
+            </div>
             <div class="blank-space"></div>
+        </div>
+        <!-- Highlight Proker -->
+        <div style = "background: #12DBB9;" class="container-fluid pt-5 warnapaletijotua">
+        <div class="container pb-5">
+            <div class="row justify-content-center align-items-center">
+            <div class="col mx-auto pb-5">
+                <h1 class="fontnavbar fw-bold text-center">Frequently Searched</h1>
+            </div>
+            </div>
+            <div class="row justify-content-center">
+
+            <div class="col-md-3 mb-3 rounded-3">
+                <div class="card bg-transparent border-0 shadow-none">
+                <a href="https://www.instagram.com/gerigiits/" target="_blank">
+                    <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/GERIGI.png">
+                </a>
+                <div class="card-body">
+                    <h5 class="card-title text-center fw-bold">GERIGI ITS</h5>
+                </div>
+                </div>
+            </div>
+
+            <div class="col-md-3 mb-3 rounded-3">
+                <div class="card bg-transparent border-0 shadow-none">
+                <a href="https://bit.ly/BukuP3K" target="_blank">
+                    <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/P3K.png">
+                </a>
+                <div class="card-body">
+                    <h5 class="card-title text-center fw-bold">Pedoman Pemetaan dan Pemantauan KM ITS</h5>
+                </div>
+                <div class="container">
+                    <div class="blank-space"></div>
+                    <div class="blank-space"></div>
+                </div>
+            </div>
+                                                        
+            </div>
         </div>
     </section>
