@@ -1,7 +1,7 @@
 <!-- Slide makna logo -->
 <div class="div-hero-head">
         <div style="height: 24px;"></div>
-        <div class="container"><img class="img-fluid" data-bss-hover-animate="tada" id="kalibrasi-svg" src="<?= base_url(); ?>assets/img/kalibrasi-jumbo.svg">
+        <div class="container"><img class="img-fluid" data-aos="zoom-in" id="kalibrasi-svg" src="<?= base_url(); ?>assets/img/kalibrasi-jumbo.svg">
             <div>
                 <p class="text-center kalibrasi-paragraph"><img class="float-start" src="<?= base_url(); ?>assets/img/tanda%20kutip.svg" style="height: 30px;"><img class="float-start" src="<?= base_url(); ?>assets/img/tanda%20kutip.svg" style="height: 30px;"><br>BEM ITS bergerak menuju batas yang merupakan sebuah garis akhir, dimana garis akhir yang dituju ditetapkan berdasarkan standar-standar yang juga menjadi cita-cita di awal. Kalibrasi hadir untuk menjadi wadah berkumpul, bergerak, dan merangkai cita-cita KM ITS tanpa adanya sekat ruang dan waktu.&nbsp;<img class="d-inline float-end tanda-kutip" src="<?= base_url(); ?>assets/img/tanda%20kutip%203.svg" style="height: 30px;"><img class="float-end" src="<?= base_url(); ?>assets/img/tanda%20kutip%203.svg" style="height: 30px;"><br><br></p>
                 <div style="height: 45px;margin: -32px;"></div>
@@ -44,12 +44,12 @@
 <!-- Slide Visi misi -->
 
 <!-- Slide Progres dan kabinet -->
-<div style="background: url(&quot;<?= base_url(); ?>assets/img/kalibrasi-hiasan.svg&quot;) center / cover no-repeat, #12DBB9;">
+<div style="background: url(&quot;<?= base_url(); ?>assets/img/kalibrasi-hiasan.svg&quot;) center / cover no-repeat, #12DBB9;" >
         <div class="container">
             <div style="height: 32px;"></div>
             <h1 style="text-align: center;font-family: Gilroy;height: 45.225px;font-weight: bold;color: var(--bs-white);">KABINET KALIBRASI</h1>
         </div>
-        <div class="container">
+        <div class="container" data-aos="fade-up">
             <div class="carousel slide carousel-dark" data-bs-ride="carousel" data-bs-pause="false" id="carousel-1">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
