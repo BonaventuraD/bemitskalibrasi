@@ -6,7 +6,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <div style="background: var(--bs-border-color-translucent);/*max-width: 50%;*/margin: 17px;border-bottom-right-radius: 50px;border-top-right-radius: 24px;border: 2.4px solid var(--bs-border-color-translucent);"><img class="img-fluid logo-psdm" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/psdm.png" style="transform: scale(0.65);"></div>
+                        <div style="background: var(--bs-border-color-translucent);/*max-width: 50%;*/margin: 17px;border-bottom-right-radius: 50px;border-top-right-radius: 24px;border: 2.4px solid var(--bs-border-color-translucent);"><img class="img-fluid logo-psdm" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/psdml.png" style="transform: scale(1);"></div>
                         <div style="position: absolute;height: 17px;width: 427px;margin: 12px;"></div>
                     </div>
                     <div class="col-md-6">
@@ -48,7 +48,7 @@
         <div>
             <h1 class="text-center" style="padding: 32px;font-family: Gilroy;color: var(--bs-black);font-weight: bold;">Meet Our Team</h1>
             <div class="container">
-                <div class="carousel slide carousel-dark" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="false" id="carousel-1">
+                <div class="carousel slide carousel-dark" data-bs-ride="carousel" data-bs-interval="5000" data-bs-pause="false" id="carousel-1">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <div>
@@ -116,7 +116,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Ramadhani%20Dwi%20Aulia_Dirjen%20Eskalasi%20Karakter.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Ramadhani Dwi Aulia<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Dirjen Eskalasi Karakter </p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/ramadhanidwia/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/ramadhanidwia_/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -126,7 +126,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Safira_Azizah_Asdir_Eskalasi_Karakter-.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Safira Azizah<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Asisten Dirjen Eskalasi Karakter</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/safiraazz/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/safiraazz_/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -144,7 +144,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Dion_Haffiz_Hendriarto_Asdir_Dinamisasi_Pengembangan.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Dion Haffiz Hendriarto<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Asisten Dirjen Dinamisasi Pengembangan </p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/dionhaffiz/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/dionhaffiz/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -154,7 +154,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/M._Izzul_Haq_Staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">M.Izzul Haq<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff PSDM</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/m-izzul-haq-626587222/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="http://instagram.com/Iz_zulhaq" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -172,7 +172,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Nabila_Safitri_Staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Nabila Safitri<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff PSDM</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/nabilasafitri29/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/bilaaasaftr_/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -182,7 +182,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Syania_Fadhillah_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Syania Fadhillah<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff PSDM</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/syania-fadhillah-20010122100" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://instagram.com/arch_sa21" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -200,7 +200,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Fatahillah_Ramadhan_Staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Fatahillah Ramadhan<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff PSDM</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="http://www.linkedin.com/in/fatahillah-e60-its" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://instagram.com/al.fath_r" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -210,7 +210,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Yasmin_Fakhira_Ichsan_Staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Yasmin Fakhira Ichsan<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff PSDM</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/yasminfakhira" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://instagram.com/yasminfkhra" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -228,7 +228,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Silvi_PSDM-removebg-preview).png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Silvy Cefriana<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff PSDM</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/silvy-cefriana-3a3125184/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="http://instagram.com/slvyce_" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -238,7 +238,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Muhammad_Aulia_Ryansyah_Staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Muhammad Aulia Ryansyah<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff PSDM</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/mhdaryansyah" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/mhd.a.ryansyah/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -256,7 +256,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Zahra_Amari_Amjad_Staff_PSDM-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Zahra Amari Amjad<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff PSDM</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/zahra-amari-amjad-b9a911236/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/ara_amari/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -266,7 +266,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Siti%20Lutfiah.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Siti Lutfiah Vijayanti<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff PSDM</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/siti-lutfiah-vijayanti-15ba74208" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="http://instagram.com/vvijayanti31" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -284,7 +284,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Dimas_Bagus_Rachmadani_Staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Dimas Bagus Rachmadani<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff PSDM</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/dimasbagus-r" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="http://instagram.com/dimasbagus.r" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -294,7 +294,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Wildan_Ainun_Firdausi_Staff_PSDM-removebg-previewpng.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Wildan Ainun Firdausi<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff PSDM</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/wildan-ainun-674129206" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://instagram.com/dan_wil.dan" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -312,7 +312,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Elvira%20Putri%20Calista_Staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Elvira Putri Calista<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff PSDM</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="http://instagram.com/elviraaputrii" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -330,7 +330,16 @@
     </section>
     <section style="background: #12DBB9;">
         <div>
-            <h2 class="text-center" style="padding: 32px;font-family: Gilroy;font-weight: bold;">Proker Agenda</h2>
+            <h1 class="text-center" style="padding: 32px; margin-bottom: 0px; font-family: Gilroy;font-weight: bold; color: var(--bs-white);">Proker Agenda</h1>
+            <h3 class="text-center" style="padding: 16px;font-family: Gilroy;color: var(--bs-white);font-weight: bold;">Progress</h3>
+        </div>
+        <div class="container">
+            <div>
+                <div class="progress">
+                    <div class="progress-bar progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">50%</div>
+                </div>
+            </div>
+            <div class="blank-space"></div>
         </div>
         <div class="container">
             <div class="accordion" role="tablist" id="accordion-1" style="font-family: Gilroy;">
@@ -402,11 +411,6 @@
         </div>
         <div class="container">
             <div class="blank-space"></div>
-            <div>
-                <div class="progress" style="max-width: 50%; margin-left: auto; margin-right: auto;">
-                    <div class="progress-bar bg-primary progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">50%</div>
-                </div>
-            </div>
             <div class="blank-space"></div>
         </div>
         <!-- Highlight Proker -->
