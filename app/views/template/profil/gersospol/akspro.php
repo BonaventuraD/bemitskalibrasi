@@ -7,7 +7,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <div style="background: var(--bs-border-color-translucent);/*max-width: 50%;*/margin: 17px;border-bottom-right-radius: 50px;border-top-right-radius: 24px;border: 2.4px solid var(--bs-border-color-translucent);"><img class="img-fluid logo-psdm" src="<?= base_url(); ?>assets/img/akspro.png" style="transform: scale(0.65);"></div>
+                        <div style="background: var(--bs-border-color-translucent);/*max-width: 50%;*/margin: 17px;border-bottom-right-radius: 50px;border-top-right-radius: 24px;border: 2.4px solid var(--bs-border-color-translucent);"><img class="img-fluid logo-psdm" src="<?= base_url(); ?>assets/img/gersospol/TERIAK.png" style="transform: scale(1);"></div>
                         <div style="position: absolute;height: 17px;width: 427px;margin: 12px;"></div>
                     </div>
                     <div class="col-md-6">
@@ -311,7 +311,7 @@
                                         <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;padding: 20px;">
                                             <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
                                                 <div class="card-body card-height-limit">
-                                                    <div><img class="img-fluid" src="a<?= base_url(); ?>ssets/img/gersospol/akspro/kalibrasi/m%20faris.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #D92A51;"></div>
+                                                    <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/gersospol/akspro/kalibrasi/mfaris.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #D92A51;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Muhammad Faris Hilmy Syauqi<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
                                                     <div class="text-center"><a href="http://linkedin.com/in/farishilmy/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="http://instagram.com/faris_hilmy" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>

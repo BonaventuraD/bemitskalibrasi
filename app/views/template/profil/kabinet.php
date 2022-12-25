@@ -198,7 +198,7 @@
                         <div style="height: 33px;"></div>
                     </div>
                     <div class="col-6 col-md-5 col-xl-5 col-block-style" style="height: 80px;">
-                        <p class="text-start" style="font-family: Gilroy;font-weight: bold;margin: 5px;">AKAR INOVASI</p>
+                        <p class="text-start" style="font-family: Gilroy;font-weight: bold;margin: 5px;">INOVASI KARYA</p>
                         <div class="progress" style="font-family: Gantari, sans-serif;">
                             <div class="progress-bar progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">50%</div>
                         </div>
@@ -219,6 +219,15 @@
                         <p class="text-start" style="font-family: Gilroy;font-weight: bold;margin: 5px;">GERSOSPOL</p>
                         <div class="progress" style="font-family: Gantari, sans-serif;">
                             <div class="progress-bar progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">50%</div>
+                        </div>
+                    </div>
+                </div>
+                <div style="height: 45px;"></div>
+                <div class="row justify-content-center justify-content-sm-center">
+                    <div class="col-6 col-md-5 col-lg-6 col-xl-5 col-xxl-5 col-block-style">
+                        <p class="text-start" style="font-family: Gilroy;font-weight: bold;margin: 5px;">KEMASYARAKATAN</p>
+                        <div class="progress" style="font-family: Gantari, sans-serif;">
+                            <div class="progress-bar bg-primary progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">50%</div>
                         </div>
                     </div>
                 </div>
