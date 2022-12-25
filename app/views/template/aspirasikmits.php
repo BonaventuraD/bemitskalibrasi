@@ -3,7 +3,8 @@
   
         <div class="container col-lg-5 col-sm-12 pt-5">
             <h2 class="fw-bold text-start">Sampaikan Aspirasimu!</h2>
-            <p class="text-justify">Ut eu, sit aliquam mi tellus ac. Porttitor nunc mauris id elementum molestie blandit faucibus ac. Facilisis tortor, tristique senectus volutpat fermentum sem et pharetra enim. Amet lorem porta viverra odio malesuada fermentum consequat. Ornare hendrerit quisque arcu, venenatis magnis sed congue. Tempor tincidunt tortor id cursus sagittis laoreet orci dolor. Tempor pharetra lorem vivamus id faucibus quam. Morbi pellentesque at libero, augue sed netus sit. Vitae pretium mi bibendum aenean orci, pretium tellus elementum. Nec mattis neque adipiscing vel turpis euismod senectus
+            <p class="text-justify">Perjuangan aspirasi mahasiswa bukan sekedar proses penderitaan demi sebuah tujuan, apalagi menuai pujian. Akan tetapi, adalah suatu proses untuk memantaskan diri demi meraih tujuan mulia.
+            <br>"we not talk about a change, but we can make a change"
             </p>
            
         </div>
