@@ -6,7 +6,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <div style="background: var(--bs-border-color-translucent);/*max-width: 50%;*/margin: 17px;border-bottom-right-radius: 50px;border-top-right-radius: 24px;border: 2.4px solid var(--bs-border-color-translucent);"><img class="img-fluid logo-psdm" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/sosmas.png" style="transform: scale(0.65);"></div>
+                        <div style="background: var(--bs-border-color-translucent);/*max-width: 50%;*/margin: 17px;border-bottom-right-radius: 50px;border-top-right-radius: 24px;border: 2.4px solid var(--bs-border-color-translucent);"><img class="img-fluid logo-psdm" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/GOYANG.png" style="transform: scale(1);"></div>
                         <div style="position: absolute;height: 17px;width: 427px;margin: 12px;"></div>
                     </div>
                     <div class="col-md-6">
@@ -20,8 +20,9 @@
                                     <div class="accordion-collapse collapse show item-1" role="tabpanel" data-bs-parent="#accordion-2">
                                         <div class="accordion-body">
                                             <ul>
-                                                <li>Kedirjenan Pengembangan Informasi<br></li>
-                                                <li>Kedirjenan Media Sosial</li>
+                                                <li>Dirjen Pengabdian Masyarakat<br></li>
+                                                <li>Dirjen ITS Mengajar</li>
+                                                <li>Dirjen Ruang Publik</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -47,7 +48,7 @@
         <div>
             <h1 class="text-center" style="padding: 32px;font-family: Gilroy;color: var(--bs-black);font-weight: bold;">Meet Our Team</h1>
             <div class="container">
-                <div class="carousel slide carousel-dark" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="false" id="carousel-1">
+                <div class="carousel slide carousel-dark" data-bs-ride="carousel" data-bs-interval="5000" data-bs-pause="false" id="carousel-1">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <div>
@@ -59,7 +60,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Muhammad_Amin_Nurdin_Menteri-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Muhammad Amin Nurdin<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Menteri</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/la-ode-muhammad-illyin-abdul-rahman-8a66b7220/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/illyin.ar/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/muhamamd-amin-nurdin-1a11551b2" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/aminurdin01" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -69,7 +70,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Yuniar_Aulia_Hanifah__Wakil_Menteri_1-removebg-preview%201.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Yuniar Aulia Hanifah<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Wakil Menteri</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/irfan-nur-hanif-khoirullah/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/irfannur27/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/yuniar-aulia-hanifah-33a097219" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/aulia_1161" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -87,7 +88,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Maulidiah_Andini_Sekmen-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;" width="358" height="447"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Maulidiah Andini<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Sekertaris Menteri </p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/andin.aff" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -97,7 +98,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Novi_Saumi_Putri_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Novi Saumi Putri<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/novi-saumi-putri-0713b0250" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/novishaumi" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -114,8 +115,8 @@
                                                 <div class="card-body card-height-limit">
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Achmad_Saiful_Rizal_Dirjen_Pengabdian_Masyarakat-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Achmad Saiful Rizal<br></h6>
-                                                    <p class="text-center" style="font-family: Gilroy;">Staff </p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <p class="text-center" style="font-family: Gilroy;">Dirjen Pengabdian Masyarakat</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/achmad-saiful-rizal-1b8096250" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/ahmadrizalllll" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -125,7 +126,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Salinan%20Jinan%20Elvaretta_STAFF.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Jinan Elvaretta<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/jinanelvaretta" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="http://instagram.com/jinanelvaretta" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -143,7 +144,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Abiyyu_Jahfalu_Rahman_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Abiyyu Jahfalu Rahman<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff </p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/abiyyu-jahfalu-rahman-179b89222" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://instagram.com/abiyyu.jr098" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -153,7 +154,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Galuh_Dwi_Giri_Putra_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Galuh Dwi Giri Putra <br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/galuhdwigiriputra" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/galuhdwigp_" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -171,7 +172,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Kiki_Eka_Dwintasari_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Kiki Eka Dwintasari <br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/kiki-eka-dwintasari-32090124b" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://instagram.com/allokik_" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -181,7 +182,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Ayu_Anggraeni_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Ayu Anggraeni<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/ayuanggraeni" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/anggraennnn" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -199,7 +200,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Muhammad_Gilang_Ramadhan_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Muhammad Gilang Ramadhan <br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/muh-gilang-ramadhan" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://instagram.com/mg.ilang" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -209,7 +210,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Turfah_Latifah_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;border-bottom-right-radius: 0px;" width="358" height="444"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Turfah Latifah<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/turfahlatifah/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://instagram.com/turfahlaih" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -227,7 +228,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Ferry_Ath_Thaariq_Mudhofir_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Ferry Ath Thaariq Mudhofir<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/ferry-ath-thaariq-mudhofir" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://instagram.com/ferryatm_" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -237,7 +238,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Maisa_Haifa_Lestarie_Staff__1_-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Maisa Haifa Lestarie <br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://instagram.com/maisahaifaa" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -254,8 +255,8 @@
                                                 <div class="card-body card-height-limit">
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Nur_Annisa_Kusumawardani_Dirjen_ITS_Mengajar-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Nur Annisa Kusumawardani<br></h6>
-                                                    <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <p class="text-center" style="font-family: Gilroy;">Dirjen ITS Mengajar</p>
+                                                    <div class="text-center"><a href="//linkedin.com/in/nrannisak" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/nrannisak" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -265,7 +266,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Selri_Caprins_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Selri Caprins <br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/selri-caprins-44551b246/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://instagram.com/selricaprins" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -283,7 +284,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Jiwangga_Ridhwan_Nur_Ramadhan_Staff-removebg-preview%20(1).png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Jiwangga Ridhwan Nur Ramadhan<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/jiwangga-ridhwan-nur-ramadhan-388b0a1a1/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/jiwanggarnr/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -293,7 +294,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Hosea_Hariputera_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Hosea Hariputera <br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/hoseahariputera/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/hoseahariputera/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -311,7 +312,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Fathor_Rohim_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Fathor Rohim<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/fathor-rohim-0a5027222" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/fatho.rr/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -321,7 +322,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Muhammad_Thomi_Bastiyan_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Muhammad Thomi Bastiyan <br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/thomibastonyek" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/thomibastiyan/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -338,8 +339,8 @@
                                                 <div class="card-body card-height-limit">
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Ogi_Hadicahyo_DIRJEN_Ruang_Publik-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Ogi Hadicahyo<br></h6>
-                                                    <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nurlaiilis/?hl=en" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <p class="text-center" style="font-family: Gilroy;">Dirjen Ruang Publik</p>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/ogi-hadicahyo-585382229" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/ogihadicahyoo" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -349,7 +350,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/Najwa_Alyani_Imannina_Dirjen_Harmonisasi_Sosial-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #F3AE2A;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Najwa Alyani Imannina <br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Dirjen Ruang Publik</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/haris-yafie/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/harisyafie/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/najwa-alyani-imannina" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://instagram.com/najwalya_" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -367,8 +368,16 @@
     </section>
     <section style="background: #12DBB9;">
         <div>
-            <h2 class="text-center" style="padding: 32px;font-family: Gilroy;font-weight: bold;">Proker Agenda</h2>
+            <h1 class="text-center" style="padding: 32px; margin-bottom: 0px; font-family: Gilroy;font-weight: bold; color: var(--bs-white);">Proker Agenda</h1>
+            <h3 class="text-center" style="padding: 16px;font-family: Gilroy;color: var(--bs-white);font-weight: bold;">Progress</h3>
         </div>
+        <div class="container">
+            <div>
+                <div class="progress">
+                    <div class="progress-bar progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">50%</div>
+                </div>
+            </div>
+      <div class="blank-space"></div>
         <div class="container">
             <div class="accordion" role="tablist" id="accordion-1" style="font-family: Gilroy;">
                 <div class="accordion-item">
@@ -447,11 +456,6 @@
         </div>
         <div class="container">
             <div class="blank-space"></div>
-            <div>
-                <div class="progress" style="max-width: 50%; margin-left: auto; margin-right: auto;">
-                    <div class="progress-bar bg-primary progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">50%</div>
-                </div>
-            </div>
             <div class="blank-space"></div>
         </div>
     </section>
@@ -612,11 +616,6 @@
         </div>
       </div>
 
-    </div>
-  </div>
-  <div class="position-relative" style="margin-right: -15px;">
-    <div class="position-absolute bottom-0 end-0">
-      <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide2home.png" class="img-fluid " alt="...">
     </div>
   </div>
 </div>
