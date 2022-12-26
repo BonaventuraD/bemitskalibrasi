@@ -191,5 +191,16 @@
         </div>
     </div> -->
 </footer>
+<!-- script -->
+    <script src="<?=content_url('plugins/popper/popper.js');?>"></script>
+	<script src="<?=content_url('plugins/bootstrap/js/bootstrap.min.js');?>"></script>
+	<script src="<?=content_url('plugins/sticky/jquery.sticky.js');?>"></script>
+	<script src="<?=content_url('plugins/prism/prism.js');?>"></script>
+	<script src="<?=content_url('plugins/photoswipe/photoswipe.min.js');?>"></script>
+	<script src="<?=content_url('plugins/photoswipe/photoswipe-ui-default.min.js');?>"></script>
+	<?php if (get_setting('recaptcha')=="Y"): ?>
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+	<?php endif ?>
+	<script src="<?=$this->CI->theme_asset('js/javascript.js');?>"></script>
 </body>
 </html>
