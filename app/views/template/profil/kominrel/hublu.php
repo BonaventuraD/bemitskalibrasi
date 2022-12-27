@@ -238,7 +238,7 @@
                                               <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/hublu/kalibrasi/Hublu_Nanda_Fredicia_I_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
                                               <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Nanda Fredicia Infrastuti<br></h6>
                                               <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                              <div class="text-center"><a href="https://www.linkedin.com/in/nanda-fredicia-infrastuti-a2a6aa220" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/nandafrediciaa" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                              <div class="text-center"><a href="https://www.linkedin.com/in/nanda-fredicia-infrastuti-a2a6aa220" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/nandafrediciaa" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                           </div>
                                       </div>
                                   </div>
@@ -256,7 +256,7 @@
                                               <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/hublu/kalibrasi/Hublu_Ashar_Prastowo_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
                                               <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Ashar Prastowo<br></h6>
                                               <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                              <div class="text-center"><a href="https://www.linkedin.com/in/ashar-prastowo-804356242" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/asharprast_" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                              <div class="text-center"><a href="https://www.linkedin.com/in/ashar-prastowo-804356242" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/asharprast_" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                           </div>
                                       </div>
                                   </div>
@@ -266,7 +266,7 @@
                                               <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/hublu/kalibrasi/Hublu_Dinda_Satya_Pratiwi_Narhadi_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
                                               <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Dinda Satya Pratiwi Narhadi<br></h6>
                                               <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                              <div class="text-center"><a href="linkedin.com/in/dinda-satya-pratiwi-narhadi-b6bb2b158" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/dindaspn/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                              <div class="text-center"><a href="//linkedin.com/in/dinda-satya-pratiwi-narhadi-b6bb2b158" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/dindaspn/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                           </div>
                                       </div>
                                   </div>
@@ -284,7 +284,7 @@
                                               <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/hublu/kalibrasi/Hublu_Yun_Ridhwan_Ramadhan_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
                                               <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Yun Ridhwan Ramadhan<br></h6>
                                               <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                              <div class="text-center"><a href="https://www.linkedin.com/in/yun-ridhwan-ramadhan-86997624b/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/yvnrr/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                              <div class="text-center"><a href="https://www.linkedin.com/in/yun-ridhwan-ramadhan-86997624b/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/yvnrr/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                           </div>
                                       </div>
                                   </div>
@@ -294,7 +294,7 @@
                                               <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/hublu/kalibrasi/Hublu_Marceliananda_Prayogi_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
                                               <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Marceliananda Prayogi <br></h6>
                                               <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                              <div class="text-center"><a href="www.linkedin.com/in/marceliananda-prayogi-354174222/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/marceliandn" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                              <div class="text-center"><a href="//www.linkedin.com/in/marceliananda-prayogi-354174222/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/marceliandn" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                           </div>
                                       </div>
                                   </div>
