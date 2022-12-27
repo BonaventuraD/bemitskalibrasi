@@ -343,10 +343,10 @@
         <div class="container">
             <div class="accordion" role="tablist" id="accordion-1" style="font-family: Gilroy;">
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">GUYUB KM ITS</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">HARMONIKA</button></h2>
                     <div class="accordion-collapse collapse item-1" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Program kerja dengan membentuk acara di KM ITS berupa E-Sport yang melibatkan KM ITS sebagai partisipan dan perkenalan kehidupan mahasiswa di ITS</p>
+                            <p class="mb-0">Acara yang dilakukan berupa mengundang tiap elemen KM ITS untuk berkumpul menjalin hubungan baik dan juga sebagai bentuk penyambutan Ormawa Eksekutif  baru yang ada di KM ITS</p>
                         </div>
                     </div>
                 </div>
@@ -359,10 +359,10 @@
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">DISKO (Diskusi Kontemporer)</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">Sekolah MUBES KM ITS</button></h2>
                     <div class="accordion-collapse collapse item-3" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0" style="font-family: Gilroy;">Suatu kegiatan formal ataupun non-formal dalam rangka mengakomodasi permasalahan antar ormawa ataupun dengan birokrasi</p>
+                            <p class="mb-0" style="font-family: Gilroy;">Kegiatan berbentuk pelatihan dimana peserta merupakan mahasiswa ITS. Materi yang disampaikan saat pelatihan meliputi: Hakikat MUBES V, ranah eksekutif, ranah yudikatif, ranah legislative, LMB, dan MWA-WM.</p>
                         </div>
                     </div>
                 </div>
@@ -387,22 +387,6 @@
                     <div class="accordion-collapse collapse item-6" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
                             <p class="mb-0">Agenda yang dilakukan dalam rangka kunjungan BEM ITS ke lembaga eksekutif untuk mengawal pembentukan HMD dan BEM F baru bersama kementerian PSDM, serta kunjungan yang lain dengan agenda yang dianggap perlu</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="false" aria-controls="accordion-1 .item-7">Penyusunan Draft RUU Akademik LSM</button></h2>
-                    <div class="accordion-collapse collapse item-7" role="tabpanel" data-bs-parent="#accordion-1">
-                        <div class="accordion-body">
-                            <p class="mb-0">Agenda dengan melakukan penyusunan naskah akademik LSM dengan menyempurnakan kondisi empiris dan menambahkan pasal-pasal yang sekiranya dianggap penting yang dapat digunakan sebagai landasan pembuatan RUU LSM</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-8" aria-expanded="false" aria-controls="accordion-1 .item-8">Penyusunan Implementasi MUBES v 2.0</button></h2>
-                    <div class="accordion-collapse collapse item-8" role="tabpanel" data-bs-parent="#accordion-1">
-                        <div class="accordion-body">
-                            <p class="mb-0">Agenda dengan melakukan penyusunan draft dalam rangka pengidentifikasian Implementasi MUBES V yang menghasilkan kuadran pemetaan bagi BEM Fakultas dan HMD di KM ITS</p>
                         </div>
                     </div>
                 </div>

@@ -344,42 +344,46 @@
         <div class="container">
             <div class="accordion" role="tablist" id="accordion-1" style="font-family: Gilroy;">
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">PROMINEN</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">CORE PSDM</button></h2>
                     <div class="accordion-collapse collapse item-1" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Program kerja yang melakukan pencerdasan terkait HDPSDM, kemudian melakukan pemetaan terhadap PPSDM yang ada di HMD dan BEM Fakultas yang nantinya akan diberikan treatment sesuai hasil pemetaan pada PPSDM.</p>
+                            <p class="mb-0">(Coordination Center PSDM) CORE PSDM merupakan sebuah kegiatan yang meliputi diskusi, koordinasi, dan
+jaring aspirasi yang melibatkan keseluruhan elemen PSDM di KM ITS.</p>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">BLUSUKAN</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">MOTION</button></h2>
                     <div class="accordion-collapse collapse item-2" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Program kerja yang memberikan rekomendasi terkait PPSDM pada HMD dan BEM Fakultas baru, beriringan dengan Kementerian Dagri.</p>
+                            <p class="mb-0">(Monitoring Implementation HDPSDM) MOTION merupakan sebuah kegiatan pencerdasan terkait implementasi
+HDPSDM dan pengawalan implementasi tersebut kepada HMD dan BEM F.</p>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">DALANG P3K</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">BACTERIA</button></h2>
                     <div class="accordion-collapse collapse item-3" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0" style="font-family: Gilroy;">Program kerja yang melakukan peninjauan terkait isi buku P3K, kemudian akan diberikan pencerdasan kepada HMD dan LMB terkait isi buku P3K.</p>
+                            <p class="mb-0" style="font-family: Gilroy;">(Basic Training Caderization) BACTERIA merupakan sebuah kegiatan pencerdasan terkait konsep kaderisasiyang relevan dengan perkembangan zaman dengan sifat yang konstruktif dan kolaboratif kepada HMD.</p>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">SEKAI</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">HRIS-MOREEN SYSTEM</button></h2>
                     <div class="accordion-collapse collapse item-4" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Program kerja yang melakukan pencerdasan kepada Elemen Pengkader (Elder) KM ITS.</p>
+                            <p class="mb-0">HRIS-MOREEN SYSTEM merupakan sebuah program kerja pembuatan konsep sistem pemetaan dan
+pemantauan terintegrasi untuk KM ITS.</p>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">CSC</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">RESOLUSI</button></h2>
                     <div class="accordion-collapse collapse item-5" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Program kerja yang melakukan diskusi antar HMD mengenai kaderisasi kepada Elemen Pengkader KM ITS.</p>
+                            <p class="mb-0">(Rekomendasi Solusi Kaderisasi ITS) RESOLUSI merupakan sebuah kegiatan pemberian rekomendasi terkait
+permasalahan mengenai kaderisasi yang dihadapi tiap HMD.</p>
                         </div>
                     </div>
                 </div>
@@ -392,18 +396,10 @@
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="false" aria-controls="accordion-1 .item-7">RUU GERIGI ITS</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="false" aria-controls="accordion-1 .item-7">MMT</button></h2>
                     <div class="accordion-collapse collapse item-7" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Program kerja penyusunan Rancangan Undang-Undang GERIGI ITS yang berguna sebagai landasan dan mekanisme pelaksanaan kegiatan.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-8" aria-expanded="false" aria-controls="accordion-1 .item-8">KT-PSDM</button></h2>
-                    <div class="accordion-collapse collapse item-8" role="tabpanel" data-bs-parent="#accordion-1">
-                        <div class="accordion-body">
-                            <p class="mb-0">Program kerja yang meliputi diskusi, koordinasi dan jaring aspirasi dengan melibatkan keseluruhan elemen PSDM di KM ITS.</p>
+                            <p class="mb-0">(Mapping & Monitoring Training) MMT merupakan kegiatan peninjauan isi buku P3K kemudian diberikan pencerdasan kepada HMD terkait isi buku. Dilanjutkan dengan pengawalan terkait penyesuaian sistem pemetaan dan pemantauan dengan buku P3K.</p>
                         </div>
                     </div>
                 </div>
