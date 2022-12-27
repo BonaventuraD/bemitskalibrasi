@@ -1,4 +1,4 @@
-<div class="container-fluid py-5  backgroundAll">
+<div class="container-fluid py-5 slide6Homebg">
     <div class="container">
         <h2 class="fw-bold text-center fontnavbar">Kalender Agenda BEM ITS</h2>
         <div class="card border-light card-border-radius" style="border-radius: 50px 50px 50px 50px;">
