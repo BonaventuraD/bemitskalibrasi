@@ -5,7 +5,7 @@
 
                     <div class="col-lg-8 col-md-12 col-sm-12">
                         <div id="section-title" class="section-title p-1 pt-3 pb-3 ">
-                        <h2 class="fs-1 fw-bold warnapaletungu text-black">KABAR DARI BEM ITS</h2>
+                        <h2 class="fs-1 fw-bold text-black">KABAR DARI BEM ITS</h2>
                         <p>Kabar terkini serta artikel menarik dari BEM ITS</p>
                         </div>
                         <div class="rounded-3 mb-5 bgpostkabar shadow">
@@ -172,7 +172,7 @@
                             <div class="pt-5">
                                 <div class="pt-2">
                                     <div class="bgpostkabar rounded-3 mb-3">
-                                        <div class="card-header warnapaletungu fw-bold fs-5 text-black p-3 pb-0">
+                                        <div class="card-header fw-bold fs-5 text-black p-3 pb-0">
                                             Categories
                                         </div>
                                         <div class="overflow-auto" style="max-height: 42vh">
@@ -186,8 +186,8 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="bgpostkabar rounded-3 mb-3 ">
-                                        <div class="card-header warnapaletungu fw-bold fs-5 text-black p-3 pb-0">
+                                    <div class="bgpostkabar rounded-3 mb-3">
+                                        <div class="card-header fw-bold fs-5 text-black p-3 pb-0">
                                             Most Reads
                                         </div>
                                         <ul class="list-group list-group-flush mb-2 warnapaletungu p-1">
