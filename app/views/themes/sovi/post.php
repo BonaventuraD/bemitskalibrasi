@@ -1,13 +1,13 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 
-<main class="warnapaletungu">
-    <div class="container-fluid py-5 warnabgpost">
+<main class="bgkabardaribem">
+    <div class="container-fluid py-5">
         <div class="container">
                 <div class="row">
-                    <div class="col-md-6 mobile-space">
-                        <div class="rounded-3 mb-5 backgroundAll">
+                    <div class="col-md-8 mobile-space">
+                        <div class="rounded-3 mb-5 bgpostkabar">
                             <div class="card-body">
-                                <h1 class="card-title mb-2"><?=$result_post['post_title'];?></h1>
+                                <h1 class="card-title mb-2 fw-bold"><?=$result_post['post_title'];?></h1>
 								<small class="pt-2 pb-2 me-2">
 									<!-- meta -->
 									<ul class="entry-meta clearfix">
@@ -24,7 +24,7 @@
 									<!--/ meta -->
                                     </small>
                                 <!-- post image -->
-								<div class="card center col-md-10 mb-4">
+								<div class="center col-md-10 mb-4">
 								<?php if ( post_images($result_post['picture']) ):?>
 								<div class="entry-image">
 									<img src="<?=post_images($result_post['picture']);?>" alt="<?=$result_post['image_caption'];?>" class="card-img"/>
@@ -92,7 +92,7 @@
                                 <!-- rencana diisi sharer content ke social media -->
                             </div>
                         </div>
-                        <div class="rounded-3 mb-5 backgroundAll ">
+                        <div class="rounded-3 mb-5 bgpostkabar">
                             <div class="card-body">
 							<?php if ( get_setting('post_comment')=='Y' && $result_post['post_comment']=='Y' ): ?>
 							<!-- comments list -->
@@ -227,8 +227,8 @@
                     </div>
                     <div class="col-lg-3 col-md-12 col-sm-12">
                         <div>
-                            <div class="backgroundAll rounded-3 mb-3">
-                                <div class="card-header warnapaletungu fw-bold fs-5">
+                            <div class="bgpostkabar rounded-3 mb-3">
+                                <div class="card-header text-black fw-bold fs-5">
                                     Categories
                                 </div>
                                 <div class="overflow-auto" style="max-height: 42vh">
@@ -269,8 +269,8 @@
 								<!--Category-->
                                 </div>
                             </div>
-                            <div class="backgroundAll rounded-3 mb-3">
-                                <div class="card-header warnapaletungu fw-bold fs-5">
+                            <div class="bgpostkabar rounded-3 mb-3">
+                                <div class="card-header text-black fw-bold fs-5">
                                     Most Reads
                                 </div>
                                 <ul class="list-group list-group-flush mb-2 warnapaletungu">

@@ -78,99 +78,101 @@
                     <div class="col-lg-3 col-md-12 col-sm-12 pt-5">
                         <div class="pt-5">
 							<div class="pt-5">
-								<div class="pt-2">
-									<div class="bgpostkabar rounded-3 mb-3">
-										<div class="card-header fw-bold fs-5 text-black p-3 pb-0 rounded-3">
-											Findout
-										</div>
-										<div class="overflow-auto" style="max-height: 42vh">
-										<!-- form search -->
-											<div class="top-search-warper">
-												<div class="container py-2 border-0">
-													<?=form_open(site_url('search'),'class="search-form"');?>
-													<input type="text" name="kata" class="input-search border-0" placeholder="Cari disini..."/>
-													<?=form_close();?>
-												</div>
+								<div class="pt-5">
+									<div class="pt-2">
+										<div class="bgpostkabar rounded-3 mb-3 shadow">
+											<div class="card-header fw-bold fs-5 text-black p-3 pb-0 rounded-3">
+												Findout
 											</div>
-											<!--/ form search -->
-										
+											<div class="overflow-auto" style="max-height: 42vh">
+											<!-- form search -->
+												<div class="top-search-warper">
+													<div class="container py-2 border-0">
+														<?=form_open(site_url('search'),'class="search-form"');?>
+														<input type="text" name="kata" class="input-search border-0" placeholder="Cari disini..."/>
+														<?=form_close();?>
+													</div>
+												</div>
+												<!--/ form search -->
+											
+											</div>
 										</div>
-									</div>
 
-									<div class="bgpostkabar rounded-3 mb-3">
-										<div class="card-header fw-bold fs-5 text-black p-3 pb-0 rounded-3">
-											Categories
+										<div class="bgpostkabar rounded-3 mb-3 shadow">
+											<div class="card-header fw-bold fs-5 text-black p-3 pb-0 rounded-3">
+												Categories
+											</div>
+											<div class="overflow-auto" style="max-height: 42vh">
+											<!--Category-->
+												<ul class="nav nav-pills flex-column">
+													<?php
+														$sidebar_category = $this->CI->db
+															->select('id_category,COUNT(*)')
+															->from('t_post')
+															->where('active','Y')
+															->group_by('id_category')
+															->order_by('COUNT(*)','DESC')
+															->get()
+															->result_array();
+														foreach ($sidebar_category as $rescount):
+															$row_scategory = $this->CI->db
+																->select('id,title,seotitle')
+																->where('id',$rescount['id_category'])
+																->where('id >','1')
+																->where('active','Y')
+																->get('t_category')
+																->row_array();
+
+															$num_spost = $this->CI->db
+																->select('id')
+																->where('id_category',$rescount['id_category'])
+																->where('active','Y')
+																->get('t_post')
+																->num_rows();
+															
+															if (!$row_scategory || $num_spost == 0) continue;
+													?>
+													<li class="nav-item">
+														<a href="<?=site_url('category/'.$row_scategory['seotitle']);?>" class="nav-link"><?=$row_scategory['title'];?> <small class="pull-right"><?=$num_spost;?></small></a>
+													</li>
+													<?php endforeach ?>
+												</ul>
+											<!--Category-->
+											</div>
 										</div>
-										<div class="overflow-auto" style="max-height: 42vh">
-										<!--Category-->
-											<ul class="nav nav-pills flex-column">
-												<?php
-													$sidebar_category = $this->CI->db
-														->select('id_category,COUNT(*)')
-														->from('t_post')
-														->where('active','Y')
-														->group_by('id_category')
-														->order_by('COUNT(*)','DESC')
-														->get()
-														->result_array();
-													foreach ($sidebar_category as $rescount):
-														$row_scategory = $this->CI->db
-															->select('id,title,seotitle')
-															->where('id',$rescount['id_category'])
-															->where('id >','1')
-															->where('active','Y')
-															->get('t_category')
-															->row_array();
-
-														$num_spost = $this->CI->db
-															->select('id')
-															->where('id_category',$rescount['id_category'])
-															->where('active','Y')
-															->get('t_post')
-															->num_rows();
-														
-														if (!$row_scategory || $num_spost == 0) continue;
+										<div class="bgpostkabar rounded-3 mb-3 shadow">
+											<div class="card-header fw-bold fs-5 text-black p-3 pb-0 rounded-3">
+												Most Reads
+											</div>
+											<ul class="list-group list-group-flush mt-2 warnapaletungu">
+												<?php 
+													$popular_posts = $this->CI->index_model->popular_post('all','5');
+													foreach ( $popular_posts as $popular_post):
 												?>
-												<li class="nav-item">
-													<a href="<?=site_url('category/'.$row_scategory['seotitle']);?>" class="nav-link"><?=$row_scategory['title'];?> <small class="pull-right"><?=$num_spost;?></small></a>
-												</li>
-												<?php endforeach ?>
-											</ul>
-										<!--Category-->
-										</div>
-									</div>
-									<div class="bgpostkabar rounded-3 mb-3">
-										<div class="card-header fw-bold fs-5 text-black p-3 pb-0 rounded-3">
-											Most Reads
-										</div>
-										<ul class="list-group list-group-flush mt-2 warnapaletungu">
-											<?php 
-												$popular_posts = $this->CI->index_model->popular_post('all','5');
-												foreach ( $popular_posts as $popular_post):
-											?>
-											<li class="list-group-item">
-													<div class="post-lists">
-														<div class="media">
-															<div class="image-warper">
-																<a href="<?=post_url($popular_post['post_seotitle']);?>" title="<?=$popular_post['post_title'];?>">
-																</a>
-															</div>
-															<div class="media-body post-info-2">
-																<h5>
-																	<a href="<?=post_url($popular_post['post_seotitle']);?>" title="<?=$popular_post['post_title'];?>"><?=$popular_post['post_title'];?></a>
-																</h5>
-															<!-- meta -->
-															<ul class="entry-meta clearfix">
-																<li><i class="cificon licon-folder"></i> <a href="<?=site_url('category/'.$popular_post['category_seotitle']);?>"><?=$popular_post['category_title'];?></a></li>
-																<li><?=ci_timeago($popular_post['post_datepost'].$popular_post['post_timepost']);?></li>
-															</ul>
-															<!--/ meta -->
+												<li class="list-group-item">
+														<div class="post-lists">
+															<div class="media">
+																<div class="image-warper">
+																	<a href="<?=post_url($popular_post['post_seotitle']);?>" title="<?=$popular_post['post_title'];?>">
+																	</a>
+																</div>
+																<div class="media-body post-info-2">
+																	<h5>
+																		<a href="<?=post_url($popular_post['post_seotitle']);?>" title="<?=$popular_post['post_title'];?>"><?=$popular_post['post_title'];?></a>
+																	</h5>
+																<!-- meta -->
+																<ul class="entry-meta clearfix">
+																	<li><i class="cificon licon-folder"></i> <a href="<?=site_url('category/'.$popular_post['category_seotitle']);?>"><?=$popular_post['category_title'];?></a></li>
+																	<li><?=ci_timeago($popular_post['post_datepost'].$popular_post['post_timepost']);?></li>
+																</ul>
+																<!--/ meta -->
+																</div>
 															</div>
 														</div>
-													</div>
-												</li>
-												<?php endforeach ?>
-										</ul>
+													</li>
+													<?php endforeach ?>
+											</ul>
+										</div>
 									</div>
 								</div>
 							</div>	

@@ -126,7 +126,7 @@
       <div class="col-md-3 mb-3  rounded-3">
         <div class="card bg-transparent border-0">
           <a class="text-center" href="<?= base_url(); ?>profil/hublu">Kementerian Hublu
-            <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/hublu/kalibrasi/hubluter.png">
+            <img class="shadow-none img-fluid rounded-3 py-3" alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/hublu/kalibrasi/hubluter.png">
           </a>
 
         </div>

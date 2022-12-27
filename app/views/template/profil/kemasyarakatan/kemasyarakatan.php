@@ -124,7 +124,7 @@
             <div class="col-md-3 mb-3 rounded-3">
                 <div class="card bg-transparent border-0">
                     <a class="text-center" href="<?= base_url(); ?>profil/sosmas">Kementerian Sosmas
-                        <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/GOYANG.png">
+                        <img class="shadow-none img-fluid rounded-3 pt-5 pb-4" alt="100%x280" src="<?= base_url(); ?>assets/img/kemasyarakatan/sosmas/kalibrasi/GOYANG.png">
                     </a>
                 </div>
             </div>
@@ -132,7 +132,7 @@
             <div class="col-md-3 mb-3 rounded-3">
                 <div class="card bg-transparent border-0">
                     <a class="text-center" href="<?= base_url(); ?>profil/lhk">Kementerian LHK
-                        <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemasyarakatan/lhk/kalibrasi/SAPA.png">
+                        <img class="shadow-none img-fluid rounded-3 pt-3 pb-2" alt="100%x280" src="<?= base_url(); ?>assets/img/kemasyarakatan/lhk/kalibrasi/SAPA.png">
                     </a>
 
                 </div>

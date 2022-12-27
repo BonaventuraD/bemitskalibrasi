@@ -320,19 +320,19 @@
         </div>
         <div class="carousel-inner pt-5 pb-5">
           <div class="carousel-item active">
-          <img href="https://arek.its.ac.id/bem-its/detailpost/demi-mencerdaskan-km-its-terkait-kebijakan-publik-bem-its-gelar-diskusi-publik" title="Demi Mencerdaskan KM ITS Terkait Kebijakan Publik, BEM ITS Gelar Diskusi Publik" class="d-block w-100 rounded-3" alt="Demi Mencerdaskan KM ITS Terkait Kebijakan Publik, BEM ITS Gelar Diskusi Publik" src="https://arek.its.ac.id/bem-its/content/thumbs/kabardaribemits/Sesi_foto_bersama_peserta_dan_pemateri_Diskusi_Publik_I_yang_membahas_urgensi_dan_dampak_pemindahan_Ibu_Kota_Negara.jpg?1672124877">
+          <img src="<?= base_url(); ?>content/uploads/sport-2.jpg?1672144511" title="Demi Mencerdaskan KM ITS Terkait Kebijakan Publik, BEM ITS Gelar Diskusi Publik" class="d-block w-100 rounded-3" alt="Demi Mencerdaskan KM ITS Terkait Kebijakan Publik, BEM ITS Gelar Diskusi Publik">
             <div class="carousel-caption text-center d-none d-md-block">
             <a href="https://arek.its.ac.id/bem-its/detailpost/demi-mencerdaskan-km-its-terkait-kebijakan-publik-bem-its-gelar-diskusi-publik" title="Demi Mencerdaskan KM ITS Terkait Kebijakan Publik, BEM ITS Gelar Diskusi Publik"><h4 class="fw-bold">Demi Mencerdaskan KM ITS Terkait Kebijakan Publik, BEM ITS Gelar Diskusi Publik</h4></a>
             </div>
           </div>
           <div class="carousel-item">
-          <img href="https://arek.its.ac.id/bem-its/detailpost/lewat-ini-lho-its-2022-mahasiswa-kenalkan-its-lewat-acara-acara-menarik" title="Lewat Ini Lho ITS! 2022, Mahasiswa Kenalkan ITS Lewat Acara-Acara Menarik"  class="d-block w-100 rounded-3" alt="Lewat Ini Lho ITS! 2022, Mahasiswa Kenalkan ITS Lewat Acara-Acara Menarik" src="https://arek.its.ac.id/bem-its/content/thumbs/kabardaribemits/Salah_satu_pemaparan_dari_Fakultas_Sains_dan_Analitika_Data_FSAD_dalam_rangkaiam_acara_Faculty_and_Department_Day_FND_hari_Ke-1.jpg?1672124877">
+          <img src="<?= base_url(); ?>content/uploads/sport-2.jpg?1672144511" title="Lewat Ini Lho ITS! 2022, Mahasiswa Kenalkan ITS Lewat Acara-Acara Menarik"  class="d-block w-100 rounded-3" alt="Lewat Ini Lho ITS! 2022, Mahasiswa Kenalkan ITS Lewat Acara-Acara Menarik" src="https://arek.its.ac.id/bem-its/content/thumbs/kabardaribemits/Salah_satu_pemaparan_dari_Fakultas_Sains_dan_Analitika_Data_FSAD_dalam_rangkaiam_acara_Faculty_and_Department_Day_FND_hari_Ke-1.jpg?1672124877">
             <div class="carousel-caption text-center d-none d-md-block">
             <a href="https://arek.its.ac.id/bem-its/detailpost/lewat-ini-lho-its-2022-mahasiswa-kenalkan-its-lewat-acara-acara-menarik" title="Lewat Ini Lho ITS! 2022, Mahasiswa Kenalkan ITS Lewat Acara-Acara Menarik"><h4 class="fw-bold">Lewat Ini Lho ITS! 2022, Mahasiswa Kenalkan ITS Lewat Acara-Acara Menarik</h4></a>
             </div>
           </div>
           <div class="carousel-item">
-          <img href="https://arek.its.ac.id/bem-its/detailpost/kulik-isu-menarik-bem-its-suguhkan-tayangan-informatif-lewat-suara-km" title="Kulik Isu Menarik, BEM ITS Suguhkan Tayangan Informatif Lewat Suara KM" class="d-block w-100 rounded-3" alt="Kulik Isu Menarik, BEM ITS Suguhkan Tayangan Informatif Lewat Suara KM" src="https://arek.its.ac.id/bem-its/content/thumbs/kabardaribemits/Cuplikan_suara_KM_episode_7_di_kanal_Youtube_BEM_ITS.jpg?1672124877">
+          <img src="<?= base_url(); ?>content/uploads/sport-2.jpg?1672144511" class="d-block w-100 rounded-3" alt="Kulik Isu Menarik, BEM ITS Suguhkan Tayangan Informatif Lewat Suara KM" src="https://arek.its.ac.id/bem-its/content/thumbs/kabardaribemits/Cuplikan_suara_KM_episode_7_di_kanal_Youtube_BEM_ITS.jpg?1672124877">
             <div class="carousel-caption text-center d-none d-md-block">
             <a href="https://arek.its.ac.id/bem-its/detailpost/kulik-isu-menarik-bem-its-suguhkan-tayangan-informatif-lewat-suara-km" title="Kulik Isu Menarik, BEM ITS Suguhkan Tayangan Informatif Lewat Suara KM"><h4 class="fw-bold">Kulik Isu Menarik, BEM ITS Suguhkan Tayangan Informatif Lewat Suara KM</h4></a>
             </div>

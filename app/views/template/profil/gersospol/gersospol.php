@@ -110,7 +110,7 @@
             <div class="col-md-3 mb-3 rounded-3">
                 <div class="card bg-transparent border-0">
                     <a class="text-center" href="<?= base_url(); ?>profil/kp">Kementerian KP
-                        <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/gersospol/kp/kalibrasi/GOYANG.png">
+                        <img class="shadow-none img-fluid rounded-3" alt="100%x280" src="<?= base_url(); ?>assets/img/gersospol/kp/kalibrasi/GOYANG.png">
                     </a>
                 </div>
             </div>
@@ -118,7 +118,9 @@
             <div class="col-md-3 mb-3  rounded-3">
                 <div class="card bg-transparent border-0">
                     <a class="text-center" href="<?= base_url(); ?>profil/akspro">Kementerian Akspro
-                        <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/gersospol/TERIAK.png">
+                        <div class="pt-4 pb-3">
+                        <img class="shadow-none img-fluid rounded-3 py-5" alt="100%x280" src="<?= base_url(); ?>assets/img/gersospol/TERIAK.png">
+                        </div>
                     </a>
 
                 </div>
@@ -127,7 +129,7 @@
             <div class="col-md-3 mb-3 rounded-3">
                 <div class="card bg-transparent border-0">
                     <a class="text-center" href="<?= base_url(); ?>profil/diskoan">Kementerian DKK
-                        <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/gersospol/dkk/kalibrasi/SAPA22.png">
+                        <img class="shadow-none img-fluid rounded-3" alt="100%x280" src="<?= base_url(); ?>assets/img/gersospol/dkk/kalibrasi/SAPA22.png">
                     </a>
 
                 </div>
