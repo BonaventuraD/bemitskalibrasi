@@ -362,34 +362,34 @@
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">Adkesma Mendengar</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">ADKESMA ON TRACK FINANSIAL</button></h2>
               <div class="accordion-collapse collapse item-2" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0">Kegiatan untuk menjawab pertanyaan mahasiswa yang diajukan melalui form seputar permasalahan finansial dan akademik.<br></p>
+                      <p class="mb-0">Merupakan kegiatan yang memberikan sarana bagi mahasiswa ITS untuk menyampaikan segala pertanyaan seputar kebutuhan finansial. Juga bentuk bantuan advokasi secara insidental. dan berupa pembuatan penyebaran materi mengenai solusi dari pertanyaan mahasiswa ITS dalam lingkup permasalahan finansial yang dipublikasikan melalui sosial media. Dimana pertanyaan tersebut didapatkan dari formulir elektronik yang dibagikan secara online.<br></p>
                   </div>
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">Kesma Sharing Center</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">ADKESMA ON TRACK AKADEMIK</button></h2>
               <div class="accordion-collapse collapse item-3" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0" style="font-family: Gilroy;">Diskusi antar elemen Kesma di KM ITS yang membahas mengenai isu-isu terkait kesejahteraan mahasiswa<br></p>
+                      <p class="mb-0" style="font-family: Gilroy;">Merupakan kegiatan yang memberikan sarana bagi mahasiswa ITS untuk menyampaikan segala pertanyaan seputar kebutuhan akademik. Juga bentuk bantuan advokasi secara insidental dan berupa pembuatan penyebaran materi mengenai solusi dari pertanyaan mahasiswa ITS dalam lingkup permasalahan akademik yang dipublikasikan melalui sosial media. Dimana pertanyaan tersebut didapatkan dari formulir elektronik yang dibagikan secara online.<br></p>
                   </div>
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">Kesmapedia</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">SEKOLAH ADVOKASI ITS</button></h2>
               <div class="accordion-collapse collapse item-4" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0">Agenda publikasi seputar akademik dan finansial. Publikasi dilakukan melalui sosial media BEM ITS.</p>
+                      <p class="mb-0">Sekolah Advokasi ITS merupakan wadah pencerdasan seluruh elemen Kesejahteraan Mahasiswa di KM ITS seputar pengetahuan dasar advokasi dan kesejahteraan mahasiswa. Bentuk dari kegiatan ini berupa pelatihan terhadap beberapa delegasi Departemen Kesejahteraan Mahasiswa di HMD dan BEM F juga mahasiswa. Dalam pelatihan tersebut akan diberikan materi-materi terkait pengetahuan dasar advokasi dan kesejahteraan mahasiswa meliputi bidang akademik dan finansial serta pengenalan stakeholder yang ada di ITS.</p>
                   </div>
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">Kesma Advocacy School</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">LINGKAR KESMA</button></h2>
               <div class="accordion-collapse collapse item-5" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0">Pelatihan seputar pengetahuan dasar advokasi dan kesejahteraan mahasiswa.<br></p>
+                      <p class="mb-0">Lingkar Kesma merupakan diskusi antar elemen Kesma di KM ITS yang membahas mengenai isu-isu terkait kesejahteraan mahasiswa. Kegiatan ini dihadiri oleh seluruh elemen Departemen Kesejahteraan Mahasiswa baik di BEM Fakultas maupun Himpunan Mahasiswa Departemen di ITS.<br></p>
                   </div>
               </div>
           </div>
@@ -406,6 +406,22 @@
               <div class="accordion-collapse collapse show item-7" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
                       <p class="mb-0">Penyediaan SOP dalam hal advokasi bagi KM ITS.</p>
+                  </div>
+              </div>
+          </div>
+          <div class="accordion-item">
+              <h2 class="accordion-header" role="tab"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-8" aria-expanded="true" aria-controls="accordion-1 .item-8">KESMA NEWS</button></h2>
+              <div class="accordion-collapse collapse show item-8" role="tabpanel" data-bs-parent="#accordion-1">
+                  <div class="accordion-body">
+                      <p class="mb-0">Kesma News merupakan agenda publikasi seputar akademik dan finansial. Bentuk dari kegiatan ini yaitu penginfoan mengenai informasi akademik dan finansial yang didapatkan dari stakeholder internal BEM ITS dan dari luar ITS melalui sosial media Agenda ini dilakukan sepanjang kepengurusan.</p>
+                  </div>
+              </div>
+          </div>
+          <div class="accordion-item">
+              <h2 class="accordion-header" role="tab"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-9" aria-expanded="true" aria-controls="accordion-1 .item-9">INSTAGRAM ADKESMA</button></h2>
+              <div class="accordion-collapse collapse show item-9" role="tabpanel" data-bs-parent="#accordion-1">
+                  <div class="accordion-body">
+                      <p class="mb-0"> Instagram Adkesma merupakan sebuah fasilitas layanan bagi mahasiswa ITS menggunakan sosial media berupa official account instagram. Pada official account ini menyampaikan informasi kepada KM ITS sehingga informasi disebarluaskan secara cepat.</p>
                   </div>
               </div>
           </div>

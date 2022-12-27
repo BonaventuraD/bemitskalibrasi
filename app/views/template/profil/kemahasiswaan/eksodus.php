@@ -326,74 +326,58 @@
   <div class="container">
       <div class="accordion" role="tablist" id="accordion-1" style="font-family: Gilroy;">
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="true" aria-controls="accordion-1 .item-1">Information and Education Content for Surviving post - campus life</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="true" aria-controls="accordion-1 .item-1">CONNECT WITH EXPERT</button></h2>
               <div class="accordion-collapse collapse show item-1" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0">Penyediaan informasi edukasi seputar persiapan pasca kampus serta informasi seputar beasiswa studi lanjut dan sertifikasi</p>
+                      <p class="mb-0">Pengadaan acara untuk memberikan pandangan bagi mahasiswa ITS terkait dunia pasca kampus dengan menghadirkan narasumber dari berbagai macam profesi dan perusahaan.</p>
                   </div>
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">WEBINAR SERIES: CAREER PREPARATION</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">DAILY EDUCATION CONTENT DPK.ITS</button></h2>
               <div class="accordion-collapse collapse item-2" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0">Penyediaan ruang diskusi bersama alumni dan non alumni ITS seputar persiapan karir<br></p>
+                      <p class="mb-0">Daily Education Content dihadirkan untuk menyediakan konten edukasi visual yang memuat informasi dan wawasan tentang dunia pasca kampus, dalam desain grafis dan video edukasi. Wadah edukasi dan informasi seputar dunia pasca kampus dikemas dalam bentuk akun instagram dpk.its.<br></p>
                   </div>
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">PROFESIONAL TRAINING AND CERTIFICATION</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">MENTORSHIP PROGRAM</button></h2>
               <div class="accordion-collapse collapse item-3" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0" style="font-family: Gilroy;">Penyediaan wadah pelatihan bersertifikasi untuk mahasiswa ITS<br></p>
+                      <p class="mb-0" style="font-family: Gilroy;">Pengadaan acara untuk memberikan pandangan bagi mahasiswa ITS terkait dunia pasca kampus dengan menghadirkan narasumber dari berbagai macam profesi dan perusahaan<br></p>
                   </div>
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">MENTALCARE.ITS</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">DAILY EDUCATION CONTENT MENTALCARE.ITS</button></h2>
               <div class="accordion-collapse collapse item-4" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0">Penyediaan wadah edukasi dan informasi seputar kesehatan mental dalam bentuk akun instagram</p>
+                      <p class="mb-0">Daily Education Content dihadirkan untuk menyediakan konten edukasi visual yang memuat informasi dan wawasan tentang kesehatan mental, dalam desain grafis dan video edukasi. Wadah edukasi dan informasi seputar kesehatan mental dikemas dalam bentuk akun instagram mentalcare.its.</p>
                   </div>
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">STRESS AND MENTAL HEALTH TEST AND MAPPING</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">SHORT MOVIE</button></h2>
               <div class="accordion-collapse collapse item-5" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0">Pembuatan database tingkat stress dan kesehatan mental mahasiswa ITS melalui kuisioner dan tes uji yang disebarkan ke seluruh mahasiswa ITS sehingga kemudian dapat diberi saran treatment lebih lanjut<br></p>
+                      <p class="mb-0">Produksi film yang mengisahkan kondisi dan gangguan kesehatan mental mahasiswa. Tema yang akan diangkat adalah permasalahan kesehatan mental yang rekat dengan kehidupan mahasiswa dan sedang marak dibahas. Kemungkinan besar akan membahas mengenai hal-hal tabu yang harus dinormalisasi, terutama di dalam kehidupan kampus.<br></p>
                   </div>
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-6" aria-expanded="false" aria-controls="accordion-1 .item-6">HOTLINE MENTALCARE.ITS</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-6" aria-expanded="false" aria-controls="accordion-1 .item-6">MENTAL HEALTH FESTIVAL</button></h2>
               <div class="accordion-collapse collapse item-6" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0">Penyediaan sarana pengaduan atau pelaporan kasus kesehatan mental mahasiswa ITS serta menghubungkan mahasiswa tersebut dengan pihak ketiga<br></p>
+                      <p class="mb-0">Kegiatan yang berisi berisi talk show, konsultasi, dan puncak acara berupa konser untuk memberikan awareness dan memberikan wadah untuk mahasiswa berani untuk mengenal kesehatan mental, mendapat fasilitas untuk mengetahui tentang kesehatan mentalnya, dan memberikan konser sebagai puncak acara yang mengundang penyanyi-penyanyi yang membahas mengenai kesehatan mental untuk memberikan pendekatan melalui seni.<br></p>
                   </div>
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="false" aria-controls="accordion-1 .item-7">DAILY EDUCATION CONTENT OF MENTAL HEALTH</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="false" aria-controls="accordion-1 .item-7">HOTLINE MENTALCARE.ITS</button></h2>
               <div class="accordion-collapse collapse item-7" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0">Penyediaan konten edukasi visual yang memuat informasi dan wawasan tentang kesehatan mental, dalam desain grafis dan video edukasi</p>
-                  </div>
-              </div>
-          </div>
-          <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-8" aria-expanded="false" aria-controls="accordion-1 .item-8">MOVIE SERIES: A Journey To Get Out of Mental Disorder</button></h2>
-              <div class="accordion-collapse collapse item-8" role="tabpanel" data-bs-parent="#accordion-1">
-                  <div class="accordion-body">
-                      <p class="mb-0">Produksi film yang mengisahkan kondisi dan gangguan kesehatan mental mahasiswa serta bagaimana ia bisa lolos dari permasalahan mentalnya, yang dikemas dalam bentuk beberapa episode</p>
-                  </div>
-              </div>
-          </div>
-          <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-9" aria-expanded="false" aria-controls="accordion-1 .item-9">MENTAL HEALTH WEBINAR AND SONG COVER COMPETITION</button></h2>
-              <div class="accordion-collapse collapse item-9" role="tabpanel" data-bs-parent="#accordion-1">
-                  <div class="accordion-body">
-                      <p class="mb-0">Webinar yang bertemakan self-healing yang mengundang psikolog dan praktisi mindfulness (self-healing therapy). Sebelum webinar, dimeriahkan oleh lomba cover lagu self-healing yang diikuti oleh KM ITS</p>
+                      <p class="mb-0">Penyediaan sarana pengaduan atau pelaporan kasus kesehatan mental mahasiswa ITS serta menghubungkan mahasiswa tersebut dengan pihak ketiga. Memungkinkan untuk bekerja sama dengan lembaga yang terkualifikasi untuk pendekatan ke mahasiswa menjadi pendengar dan merujukkan jika dianggap dibutuhkan pertolongan.</p>
                   </div>
               </div>
           </div>
@@ -463,9 +447,6 @@
             <h5 class="card-title text-center fw-bold warnapaletputih pt-3">Movie Series</h5>
         </div>
       </div>
-      
-      
-
     </div>
   </div>
 </div>

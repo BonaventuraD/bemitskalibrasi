@@ -428,6 +428,22 @@
                         </div>
                     </div>
                 </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="false" aria-controls="accordion-1 .item-7">ITS MENGAJAR FOR SURABAYA</button></h2>
+                    <div class="accordion-collapse collapse item-7" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">ITS Mengajar for Surabaya merupakan kegiatan pengabdian masyarakat yang berfokus pada penanganan masalah pendidikan di Surabaya, Jawa Timur. Kegiatan ini dilaksanakan di daerah yang memiliki kualitas pendidikan rendah di Surabaya. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-8" aria-expanded="false" aria-controls="accordion-1 .item-8">GERAKAN ITS MENGAJAR</button></h2>
+                    <div class="accordion-collapse collapse item-8" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">Kegiatan koordinasi gerakan mengajar di ITS berupa forum diskusi yang memfasilitasi gerakan mengajar di ormawa yang merupakan wadah bertukar pikiran, sharing, dan menjalin silaturahmi antar anggota.</p>
+                        </div>
+                    </div>
+                </div>
         </div>
         <div class="container">
             <div class="blank-space"></div>

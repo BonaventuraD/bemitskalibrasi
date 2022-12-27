@@ -288,10 +288,10 @@
   <div class="container">
       <div class="accordion" role="tablist" id="accordion-1" style="font-family: Gilroy;">
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">Database Isu Kampus</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">KM ITS BERSUARA</button></h2>
               <div class="accordion-collapse collapse item-1" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0">Mengidentifikasi dan menginventarisasi isu kampus terkini dalam bentuk database kemudian memetakannya ke dalam kategori isu strategis atau aktual. Selanjutnya, database dan hasil pemetaan digunakan untuk kajian isu strategis yang lebih komprehensif.</p>
+                      <p class="mb-0">KM ITS Bersuara merupakan ruang diskusi yang dihadiri oleh KM ITS dengan membahas isu-isu aktual dan menghimpun asprasi dan/atau tanggapan dari diskusi tersebut untuk mencapai satu mufakat berupa solusi/penyikapan suatu isu (konsolidasi)</p>
                   </div>
               </div>
           </div>
@@ -320,10 +320,10 @@
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">Konsolidasi KM ITS</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">KM ITS SAMBAT</button></h2>
               <div class="accordion-collapse collapse item-5" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0">Memberikan ruang diskusi bagi KM ITS dan/atau perwakilan Presidium KM ITS untuk menyampaikan aspirasinya terkait kebijakan ITS teraktual.</p>
+                      <p class="mb-0">Wadah aspirasi bagi KM ITS terkait kebijakan kampus. Bekerjasama dengan adkesma tiap himpunan, menginventaris dan memetakan isu-isu yang teah terkumpul kemudian diintegrasikan ke dalam bentuk advokasi dan/atau hal lain</p>
                   </div>
               </div>
           </div>
@@ -332,6 +332,14 @@
               <div class="accordion-collapse collapse show item-6" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
                       <p class="mb-0">Mengadakan audiensi, diskusi dengan birokrasi, atau advokasi dalam bentuk lain untuk menyuarakan aspirasi KM ITS terkait kebijakan kampus yang telah dikonsolidasikan</p>
+                  </div>
+              </div>
+          </div>
+          <div class="accordion-item">
+              <h2 class="accordion-header" role="tab"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="true" aria-controls="accordion-1 .item-7">JAKPUS ON THE ROAD</button></h2>
+              <div class="accordion-collapse collapse show item-7" role="tabpanel" data-bs-parent="#accordion-1">
+                  <div class="accordion-body">
+                      <p class="mb-0">Adanya pertemuan rutin ke stakeholder (birokrasi kampus, presidium, BK MWA WM, membangun kolaborasi untuk mencapai suatu hasil yang lebih maksimal.</p>
                   </div>
               </div>
           </div>
