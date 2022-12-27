@@ -381,7 +381,7 @@
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">Economic Creator</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">ITS Creator</button></h2>
               <div class="accordion-collapse collapse item-2" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
                       <p class="mb-0">Kegiatan branding kemetrian dan pengenalan karya kewirausahaan mahasiswa ITS melalui platform digital kepada internal dan eksternal ITS.</p>
@@ -397,7 +397,7 @@
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">Economic Commerce</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">Ekraf Commerce</button></h2>
               <div class="accordion-collapse collapse item-4" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
                       <p class="mb-0">Kegiatan yang dilakukan untuk menunjang keuangan BEM-ITS.</p>
