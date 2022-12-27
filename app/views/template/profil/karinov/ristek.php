@@ -391,7 +391,7 @@
                 </div>
             </div>
             <div class="accordion-item">
-                <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">Penilaian HMDe</button></h2>
+                <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">Penilaian HMD</button></h2>
                 <div class="accordion-collapse collapse item-2" role="tabpanel" data-bs-parent="#accordion-1">
                     <div class="accordion-body">
                         <p class="mb-0">Penilaian dan apresiasi kepada stakeholder keilmiahan (Ristek, Profkil, ilprof, dll) HMD yang memiliki kinerja terbaik dalam kurun waktu tertentu yang dilakukan oleh Ristek BEM ITS</p>
@@ -399,10 +399,10 @@
                 </div>
             </div>
             <div class="accordion-item">
-                <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">Accordion Item</button></h2>
+                <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">Journal Training</button></h2>
                 <div class="accordion-collapse collapse item-3" role="tabpanel" data-bs-parent="#accordion-1">
                     <div class="accordion-body">
-                        <p class="mb-0" style="font-family: Gilroy;">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        <p class="mb-0" style="font-family: Gilroy;">Pelatihan mengenai penulisan jurnal/skripsi beserta cara publikasinya melalui kerja sama dengan platform pendidikan berbasis keilmiahan.</p>
                     </div>
                 </div>
             </div>
@@ -423,26 +423,26 @@
                 </div>
             </div>
             <div class="accordion-item">
-                <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-6" aria-expanded="false" aria-controls="accordion-1 .item-6">Jendela Ilmiah</button></h2>
+                <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-6" aria-expanded="false" aria-controls="accordion-1 .item-6">Webinar Mawapres</button></h2>
                 <div class="accordion-collapse collapse item-6" role="tabpanel" data-bs-parent="#accordion-1">
                     <div class="accordion-body">
-                        <p class="mb-0">Kegiatan pembuatan database keilmiahan dan publikasi lomba kepada KM ITS untuk memaksimalkan prestasi KM ITS dalam kancah nasional dan internasional</p>
+                        <p class="mb-0">Webinar dalam rangka menginspirasi mahasiswa agar selalu menorehkan prestasi selama di perkuliahan.</p>
                     </div>
                 </div>
             </div>
             <div class="accordion-item">
-                <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="false" aria-controls="accordion-1 .item-7">CREATION</button></h2>
+                <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="false" aria-controls="accordion-1 .item-7">Publikasi</button></h2>
                 <div class="accordion-collapse collapse item-7" role="tabpanel" data-bs-parent="#accordion-1">
                     <div class="accordion-body">
-                        <p class="mb-0">Serangkaian kegiatan penginfoan terkait lomba PUSPRESNAS di bidang keilmiahan dan keprofesian guna meingkatkan minat mahasiswa ITS dalam berprestasi melalui kegiatan webinar dan koordinasi dengan stakeholder HMD juga Tim Besar</p>
+                        <p class="mb-0">Publikasi mengenai kegiatan, apresiasi, informasi perlombaan, dan konten kreatif yang berkaitan dengan Riset dan Teknologi serta Keilmiahan.</p>
                     </div>
                 </div>
             </div>
             <div class="accordion-item">
-                <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-8" aria-expanded="false" aria-controls="accordion-1 .item-8">Unjuk Karya</button></h2>
+                <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-8" aria-expanded="false" aria-controls="accordion-1 .item-8">TUN (Teknologi untuk Negeri)</button></h2>
                 <div class="accordion-collapse collapse item-8" role="tabpanel" data-bs-parent="#accordion-1">
                     <div class="accordion-body">
-                        <p class="mb-0">Serangkaian kegiatan yang menginspirasi mahasiswa untuk berkarya dan berinovasi di bidang keilmiahan</p>
+                        <p class="mb-0">Kegiatan yang memfasilitasi pelatihan karya berbasis riset dan teknologi serta keilmiahan dari KM ITS sebagai bentuk pengabdian masyarakat dengan melibatkan stakeholder eksternal.</p>
                     </div>
                 </div>
             </div>
@@ -451,14 +451,6 @@
                 <div class="accordion-collapse collapse item-9" role="tabpanel" data-bs-parent="#accordion-1">
                     <div class="accordion-body">
                         <p class="mb-0">Ajang pengenalan dan publikasi karya tim besar juga student chapter ITS kepada internal KM ITS dan masyarakat luas guna memperluas relasi dengan IKA ITS dan berbagai company nasional</p>
-                    </div>
-                </div>
-            </div>
-            <div class="accordion-item">
-                <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-10" aria-expanded="false" aria-controls="accordion-1 .item-10">Bincang Ristek</button></h2>
-                <div class="accordion-collapse collapse item-10" role="tabpanel" data-bs-parent="#accordion-1">
-                    <div class="accordion-body">
-                        <p class="mb-0">Diskusi terbuka KM ITS yang mengangkat isu kreatif di bidang riset dan teknologi terkini</p>
                     </div>
                 </div>
             </div>

@@ -61,7 +61,7 @@
                                               <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inka/ekraf/kalibrasi/Rizky_Baru_Menteri_Ekraf-removebg-preview%20bnw.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #01B9E5;"></div>
                                               <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Moch Rizki Satria Fitrahansyah<br></h6>
                                               <p class="text-center" style="font-family: Gilroy;">Menteri</p>
-                                              <div class="text-center"><a href="http://linkedin.com/in/mrizkisatria/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/riskisatria19/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                              <div class="text-center"><a href="http://linkedin.com/in/mrizkisatria/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/riskisatria19/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                           </div>
                                       </div>
                                   </div>
@@ -145,7 +145,7 @@
                                               <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inka/ekraf/kalibrasi/Muhammad_Amarudin-removebg-preview%20bnw.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #01B9E5;"></div>
                                               <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Muhammad Amarudin<br></h6>
                                               <p class="text-center" style="font-family: Gilroy;">Staff </p>
-                                              <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/amar.btc" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                              <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/amar.btc" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                           </div>
                                       </div>
                                   </div>
@@ -229,7 +229,7 @@
                                               <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inka/ekraf/kalibrasi/Muhammad_Althaf_Majid_Staff_Ekonomi_Kreatif-removebg-preview%20bnw.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #01B9E5;"></div>
                                               <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Muhammad Althaf Majid<br></h6>
                                               <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                              <div class="text-center"><a href="www.linkedin.com/in/althafmajid" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/althafmajid/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                              <div class="text-center"><a href="//www.linkedin.com/in/althafmajid" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/althafmajid/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                           </div>
                                       </div>
                                   </div>
@@ -313,7 +313,7 @@
                                               <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inka/ekraf/kalibrasi/Nabila_Chairuniza_Rizki_Budiarto_staff-removebg-preview%20bnw.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #01B9E5;"></div>
                                               <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Nabila Chairuniza Rizki Budiarto<br></h6>
                                               <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                              <div class="text-center"><a href="https://www.instagram.com/nabilaacrb/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nabilaacrb/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                              <div class="text-center"><a href="https://www.linkedin.com/in/nabila-chairuniza-rizki-budiarto-6752b8210/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nabilaacrb/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                           </div>
                                       </div>
                                   </div>
