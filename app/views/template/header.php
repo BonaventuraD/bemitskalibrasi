@@ -113,7 +113,7 @@
                             </a>
                             <ul class="dropdown-menu warnabgnav fontnavbar" aria-labelledby="navbarDropdown">
                                 <li><a class="dropdown-item" href="<?php echo site_url('category/dari-km-its-untuk-indonesia') ?>">Dari KM ITS untuk Indonesia </a></li>
-                                <li><a class="dropdown-item" href="<?php echo site_url('rilis/kabardaribemits') ?>">Kabar dari BEM ITS</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('category/kabar-dari-bem-its') ?>">Kabar dari BEM ITS</a></li>
                             </ul>
                         </li>
                         <li class="nav-item px-2">

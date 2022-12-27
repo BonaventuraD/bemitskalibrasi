@@ -60,12 +60,12 @@
     <!-- Template Main CSS File -->
     <link href="<?= base_url(); ?>newbiz/assets/css/style.css" rel="stylesheet">
 </head>
-<body>
-<header class="sticky-top shadow">
-<nav class="warnabgnav navbar navbar-expand-lg navbar-custom ">
+<body style="overflow-x: hidden;">
+    <header class="sticky-top shadow">
+        <nav class="warnabgnav navbar navbar-expand-lg navbar-custom">
             <div class="container-fluid">
                 <a class="navbar-brand" href="<?php echo site_url('') ?>">
-                    <img src="<?= base_url(); ?>assets/img/logounjukasa.png" alt="Kabinet Unjuk Asa" height="45" class="d-inline-block align-text-top">
+                    <img src="<?= base_url(); ?>assets/img/logokalibrasi.png" alt="Kabinet Kalibrasi" height="55" class="d-inline-block align-text-top">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#hambergernavbar" aria-controls="hambergernavbar" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -74,17 +74,19 @@
                     <!-- Buat ganti warna di navbar Collapse di dalam css bootstrap -->
                     <ul class="ms-auto navbar-nav  mb-2 mb-lg-0">
                         <li class="nav-item px-2">
-                            <a class="nav-link active" aria-current="page" href="<?php echo site_url('') ?>">Beranda</a>
+                            <!-- <a class="nav-link active" aria-current="page" href="<?php //echo site_url('') ?>">Beranda</a> -->
+                            <a class="nav-link active" aria-current="page" href="<?= base_url();?>">Beranda</a>
                         </li>
                         <li class="nav-item dropdown px-2">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Profil
                             </a>
                             <ul class="dropdown-menu warnabgnav fontnavbar" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="<?php echo site_url('profil/kabinet') ?>">Unjuk Asa </a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/kabinet') ?>">Kalibrasi</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/kominrel') ?>">Kominrel</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/inpus') ?>">Intra Kampus</a></li>
-                                <li><a class="dropdown-item" href="<?php echo site_url('profil/akarinovasi') ?>">Akar Inovasi</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/inka') ?>">Inovasi Karya</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/kemasyarakatan') ?>">Kemasyarakatan</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/kemahasiswaan') ?>">Kemahasiswaan</a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('profil/gersospol') ?>">Gersospol</a></li>
 
@@ -115,12 +117,12 @@
 		</div>
 	</section>
 
-    <footer class="text-center text-white slide4Homebg">
-    <div class="position-relative d-none d-lg-block">
+    <footer class="text-center text-black slide4Homebg">
+    <!-- <div class="position-relative d-none d-lg-block">
         <div class="position-absolute top-0 start-0">
             <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenfooterataskiri.png" class="img-fluid " alt="...">
         </div>
-    </div>
+    </div> -->
 
 
     <div class="container py-5">
@@ -129,8 +131,8 @@
             <div class="col-lg-7 col-md-15 col-sm-9 ms-5">
                 <div class="col d-none d-sm-none d-md-block d-lg-block d-xl-block d-xxl-block">
                     <div class="ps-5 col-8 fw-normal text-start">
-                        <p class="fs-4">Sekretariat BEM ITS:</p>
-                        <p class="fs-6">SCC ITS, Keputih Sukolilo Kota SBY,<br>Keputih, Mulyorejo, Surabaya City, East Java<br>60115</p>
+                        <p class="fs-4 font-weight-bold">Sekretariat BEM ITS:</p>
+                        <p class="fs-6 font-weight-normal">SCC ITS, Keputih Sukolilo Kota SBY,<br>Keputih, Mulyorejo, Surabaya City, East Java<br>60115</p>
                     </div>
                     <iframe class="ms-5 d-flex rounded  w-75 h-auto" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.6244300710227!2d112.79141761396924!3d-7.283502273602015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fa1344f5802f%3A0x110c1b2a70e34295!2sSekretariat%20BEM%20ITS!5e0!3m2!1sen!2sid!4v1632029136219!5m2!1sen!2sid" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                 </div>
@@ -138,26 +140,27 @@
             <div class="col-lg-3 col-md-12 col-sm-12 ms-n5">
                 <div>
                     <div class="col ps-4 fw-normal text-start d-none d-sm-none d-md-block d-lg-block d-xl-block d-xxl-block">
-                        <p class="fs-6">Email:<br>bem@its.ac.id</p>
-                        <p class="fs-6">Get in touch with us:</p>
+                        <p class="fs-6 font-weight-bold">Email: bem@its.ac.id</p>
+                        <p class="fs-6 font-weight-normal">Get in touch with us:</p>
                     </div>
                     <div class="col-sm-12 d-flex justify-content-start">
 
-                        <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " target="_blank" href="https://liff.line.me/1645278921-kWRPP32q/?accountId=hbj1464h" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-line"></i></a>
+                        <!-- Line
+                        <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " target="_blank" href="https://liff.line.me/1645278921-kWRPP32q/?accountId=hbj1464h" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-line fa-lg"></i></a> -->
 
                         <!-- Twitter -->
-                        <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " target="_blank" href="https://twitter.com/bem_its" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-twitter"></i></a>
+                        <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " target="_blank" href="https://twitter.com/bem_its" role="button" data-mdb-ripple-color="dark"><i style="color: #28183D;" class="fab fa-twitter fa-lg"></i></a>
 
                         <!-- Yt -->
-                        <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " target="_blank" href="https://www.youtube.com/c/BEMITS" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-youtube-square"></i></a>
+                        <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " target="_blank" href="https://www.youtube.com/c/BEMITS" role="button" data-mdb-ripple-color="dark"><i style="color: #28183D;" class="fab fa-youtube fa-lg"></i></a>
 
                         <!-- Instagram -->
-                        <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " target="_blank" href="https://www.instagram.com/bem_its/" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-instagram"></i></a>
+                        <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " target="_blank" href="https://www.instagram.com/bem_its/" role="button" data-mdb-ripple-color="dark"><i style="color: #28183D;" class="fab fa-instagram fa-lg"></i></a>
 
                         <!-- Linkedin -->
-                        <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " target="_blank" href="https://www.linkedin.com/company/bem-its" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-linkedin"></i></a>
+                        <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " target="_blank" href="https://www.linkedin.com/company/bem-its" role="button" data-mdb-ripple-color="dark"><i style="color: #28183D;" class="fab fa-linkedin fa-lg"></i></a>
                     </div>
-                    <!-- Line -->
+                    
 
                     <!-- Section: Social media -->
                 </div>
@@ -166,12 +169,13 @@
     </div>
     </div>
     <!-- Copyright -->
-    <div class="col alignt-self-center text-center text-dark p-3 warnabgnav">
+    <div class="col alignt-self-center text-center text-dark p-3 warnabgfoot">
         <div class="col">
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/footerMerkITS.png" alt="">
+            <img class="img-fluid pt-3 pb-3" src="<?= base_url(); ?>assets/img/footerMerkITS.png" alt="" height="10">
         </div>
         <div class="col fontnavbar">
-            ©2021-From Medsi for KM ITS
+            
+            ©2022-From Medsi for KM ITS
         </div>
     </div>
     <!-- Copyright -->
@@ -181,15 +185,14 @@
         <span>Aspirasi KM ITS<span>
     </a>
 
-    <div class="position-relative d-none d-lg-block" style="margin-right: -15px;">
+    <!-- <div class="position-relative d-none d-lg-block" style="margin-right: -15px;">
         <div class="position-absolute bottom-0 end-0">
             <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenbawahkananfooter.png" class="img-fluid " alt="...">
         </div>
-    </div>
+    </div> -->
 </footer>
-	
-	<!-- script -->
-	<script src="<?=content_url('plugins/popper/popper.js');?>"></script>
+<!-- script -->
+    <script src="<?=content_url('plugins/popper/popper.js');?>"></script>
 	<script src="<?=content_url('plugins/bootstrap/js/bootstrap.min.js');?>"></script>
 	<script src="<?=content_url('plugins/sticky/jquery.sticky.js');?>"></script>
 	<script src="<?=content_url('plugins/prism/prism.js');?>"></script>
