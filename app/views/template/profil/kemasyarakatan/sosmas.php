@@ -381,10 +381,10 @@
         <div class="container">
             <div class="accordion" role="tablist" id="accordion-1" style="font-family: Gilroy;">
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">Social Gathering (Socgath)</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">DATABASE SOSMAS</button></h2>
                     <div class="accordion-collapse collapse item-1" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Social Gathering (Socgath) merupakan kegiatan forum diskusi dan koordinasi di bidang sosial masyarakat  untuk mengetahui kondisi Sosial Masyarakat di masing-masing ormawa KM ITS</p>
+                            <p class="mb-0">Kumpulan data yang dikelola sesuai dengan ketentuan tertentu dan saling berhubungan agar memudahkan pengelolaan terutama di bidang sosmas. Kumpulan data ini nantinya diharapkan bisa menjadi acuan bagi KM ITS yang akan mengadakan kegiatan sosial agar memiliki pandangan aksi dan aksi dapat merata dirasakan oleh seluruh masyarakat sekitar ITS</p>
                         </div>
                     </div>
                 </div>
@@ -413,10 +413,10 @@
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">Lumbung Sosmas</button></h2>
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">BERSUARAKYAT</button></h2>
                     <div class="accordion-collapse collapse item-5" role="tabpanel" data-bs-parent="#accordion-1">
                         <div class="accordion-body">
-                            <p class="mb-0">Menjaring informasi kegiatan sosial masyarakat yang dilakukan oleh sosmas di ormawa KM ITS untuk mengetahui perkembangan sosmas di setiap ormawa KM ITS sehingga dapat dilakukan klastering agar semua sosmas di ormawa KM ITS dapat berada di kondisi ideal</p>
+                            <p class="mb-0">Rangkaian kegiatan BERSUARAKYAT meliputi penyerapan masalah, isu, investigasi lapangan, pembuatan media video serta pempublikasian isu terkait berupa media video.</p>
                         </div>
                     </div>
                 </div>
@@ -428,31 +428,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="false" aria-controls="accordion-1 .item-7">KM ITS Peduli</button></h2>
-                    <div class="accordion-collapse collapse item-7" role="tabpanel" data-bs-parent="#accordion-1">
-                        <div class="accordion-body">
-                            <p class="mb-0">KM ITS Peduli merupakan bentuk koordinasi antara BEM ITS dengan kemanusiaan ITS dan bekerja sama dengan HMD dan Forda di seluruh Indoneia untuk menggalang dana bantuan bencana/ kelompok yang membutuhkan bantuan berdasarkan kajian dampak dari musibah tersebut.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-8" aria-expanded="false" aria-controls="accordion-1 .item-8">ITS Disaster Education</button></h2>
-                    <div class="accordion-collapse collapse item-8" role="tabpanel" data-bs-parent="#accordion-1">
-                        <div class="accordion-body">
-                            <p class="mb-0">ITS Disaster Education merupakan kegiatann pencerdasan berupa pelatihan atau webinar atau infografis mengenai kebencanaan</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-9" aria-expanded="false" aria-controls="accordion-1 .item-9">ITS Green Campaign</button></h2>
-                    <div class="accordion-collapse collapse item-9" role="tabpanel" data-bs-parent="#accordion-1">
-                        <div class="accordion-body">
-                            <p class="mb-0">ITS Green Campaign merupakan kajian internal untuk membahas tentang isu-isu lingkungan yang terjadi di Indonesia</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
         <div class="container">
             <div class="blank-space"></div>

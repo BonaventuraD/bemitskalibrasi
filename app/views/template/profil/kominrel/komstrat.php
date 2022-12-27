@@ -67,7 +67,7 @@
                                     <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4" style="padding: 20px;background: url(&quot;<?= base_url(); ?>assets/img/hiasan-gerigi.svg&quot;) bottom left / 90px no-repeat;">
                                         <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
                                             <div class="card-body">
-                                                <div><img class="img-fluid" src="kominrel/medsi/kalibrasi/rara_wamen.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
+                                                <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/komstrat/kalibrasi/nabilalilia.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
                                                 <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Nabila Lilia Rahmawati<br></h6>
                                                 <p class="text-center" style="font-family: Gilroy;">Wakil Menteri</p>
                                                 <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nabeela.lr/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>

@@ -340,15 +340,66 @@
   <div class="blank-space"></div>
 </section>
 <section style="background: #12DBB9;">
-  <div>
-      <h2 class="text-center" style="padding: 32px;font-family: Gilroy;font-weight: bold;color: var(--bs-white);">Proker Agenda</h2>
-      <h2 class="text-center" style="padding: 32px;font-family: Gilroy;font-weight: bold;color: var(--bs-white);font-size: 38.128px;">COMING SOON</h2>
-  </div>
-  <div class="container">
-      <div></div>
+        <div>
+            <h1 class="text-center" style="padding: 32px; margin-bottom: 0px; font-family: Gilroy;font-weight: bold; color: var(--bs-white);">Proker Agenda</h1>
+            <h3 class="text-center" style="padding: 16px;font-family: Gilroy;color: var(--bs-white);font-weight: bold;">Progress</h3>
+        </div>
+        <div class="container">
+            <div>
+                <div class="progress">
+                    <div class="progress-bar progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">50%</div>
+                </div>
+            </div>
       <div class="blank-space"></div>
-  </div>
-</section>
+        <div class="container">
+            <div class="accordion" role="tablist" id="accordion-1" style="font-family: Gilroy;">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">KM ITS Peduli</button></h2>
+                    <div class="accordion-collapse collapse item-1" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">KM ITS Peduli merupakan bentuk koordinasi antara BEM ITS dengan kemanusiaan ITS dan bekerja sama dengan HMD dan Forda di seluruh Indoneia untuk menggalang dana bantuan bencana/ kelompok yang membutuhkan bantuan berdasarkan kajian dampak dari musibah tersebut.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">ITS Disaster Education</button></h2>
+                    <div class="accordion-collapse collapse item-2" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">ITS Disaster Education merupakan kegiatann pencerdasan berupa pelatihan atau webinar atau infografis mengenai kebencanaan</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">ITS Green Campaign</button></h2>
+                    <div class="accordion-collapse collapse item-3" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">ITS Green Campaign merupakan kajian internal untuk membahas tentang isu-isu lingkungan yang terjadi di Indonesia</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">ITS Green Action</button></h2>
+                    <div class="accordion-collapse collapse item-4" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">Kegiatan restorasi lingkungan sebagai aksi dalam menyikapi kerusakan lingkungan serta krisis iklim</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">RAPIH ITS</button></h2>
+                    <div class="accordion-collapse collapse item-5" role="tabpanel" data-bs-parent="#accordion-1">
+                        <div class="accordion-body">
+                            <p class="mb-0">Kegiatan Rawat, Peduli, Hijaunya ITS (RAPIH ITS) merupakan pengkondisian lingkungan kampus yang bersih dan sehat dengan berkolaborasi bersama eco-campus dan stakeholder terkait</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="blank-space"></div>
+            <div class="blank-space"></div>
+        </div>
+    </section>
 
 <!-- Highlight Proker -->
 <div class="container-fluid pt-5 slidekemenbg">
