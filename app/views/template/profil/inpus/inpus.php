@@ -109,7 +109,7 @@
             <div class="col-md-3 mb-3 rounded-3">
                 <div class="card bg-transparent border-0">
                     <a class="text-center" href="<?= base_url(); ?>profil/psdm">Kementerian PSDM
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm.png">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/psdml.png">
                     </a>
                 </div>
             </div>
@@ -117,7 +117,7 @@
             <div class="col-md-3 mb-3 rounded-3">
                 <div class="card bg-transparent border-0">
                     <a class="text-center" href="<?= base_url(); ?>profil/dagri">Kementerian Dagri
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/dagri.png">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/dagri.png">
                     </a>
 
                 </div>

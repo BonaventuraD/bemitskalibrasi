@@ -110,7 +110,7 @@
             <div class="col-md-3 mb-3 rounded-3">
                 <div class="card bg-transparent border-0">
                     <a class="text-center" href="<?= base_url(); ?>profil/jakpus">Kementerian Jakpus
-                        <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus.png">
+                        <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/kalibrasi/kampus-mendengar.png">
                     </a>
                 </div>
             </div>
@@ -118,7 +118,7 @@
             <div class="col-md-3 mb-3 rounded-3">
                 <div class="card bg-transparent border-0">
                     <a class="text-center" href="<?= base_url(); ?>profil/eksodus">Kementerian Eksodus
-                        <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/eksodus.png">
+                        <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/eksodus/kalibrasi/kampus-goyang.png">
                     </a>
 
                 </div>
@@ -127,7 +127,7 @@
             <div class="col-md-3 mb-3  rounded-3">
                 <div class="card bg-transparent border-0">
                     <a class="text-center" href="<?= base_url(); ?>profil/adkesma">Kementerian Adkesma
-                        <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/adkesma.png">
+                        <img class="shadow-none img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/adkesma/kampus-teriak.png">
                     </a>
 
                 </div>
