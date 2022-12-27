@@ -143,7 +143,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/CHAY_STAFF.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Firdha Chaylia Ayu Rachmandika<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff </p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/firdhachaylia0212" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="www.instagram.com/firdhachaylia" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/firdhachaylia0212" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//www.instagram.com/firdhachaylia" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -171,7 +171,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/rafif_staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Athallah Rafif<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/athallah-rafif" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/athrafif" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/athallah-rafif" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/athrafif" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -199,7 +199,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/kemal_staff.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Kemal Aulia Rachman<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="linkedin.com/in/kemal-aulia-rachman-ba5457231" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/key.mall" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="//linkedin.com/in/kemal-aulia-rachman-ba5457231" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/key.mall" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -227,7 +227,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/medsi/kalibrasi/GARDA_STAFF.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Garda Maulana<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/garda-maulana-0757b2232/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="hhttps://www.instagram.com/garda.ma/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/garda-maulana-0757b2232/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/garda.ma/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>

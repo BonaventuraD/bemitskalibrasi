@@ -62,7 +62,7 @@
                                                 <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/bph/kalibrasi/Agil_Wahyu_R.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #7A66FD;border-bottom-right-radius: 17px;border-bottom-left-radius: 17px;"></div>
                                                 <h6 class="text-center card-title mb-2" style="margin: 4px;color: var(--bs-black);font-size: 24px;font-family: Gilroy;margin-top: 16px;">Agil Wahyu Ramadhan<br></h6>
                                                 <p class="text-center" style="font-family: Gilroy;">Presiden BEM ITS</p>
-                                                <div class="text-center" style="margin-bottom: 16px;"><a href="www.linkedin.com/in/agil-wahyu-ramadhan" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/agilwhy_r" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                <div class="text-center" style="margin-bottom: 16px;"><a href="//www.linkedin.com/in/agil-wahyu-ramadhan" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/agilwhy_r" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                             </div>
                                         </div>
                                     </div>

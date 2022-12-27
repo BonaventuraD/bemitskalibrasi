@@ -288,58 +288,34 @@
   <div class="container">
       <div class="accordion" role="tablist" id="accordion-1" style="font-family: Gilroy;">
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">PMS (Pemetaan Minat Sospol KM ITS)</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">Kastrat Assembled</button></h2>
               <div class="accordion-collapse collapse item-1" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
-                      <p class="mb-0">Kegiatan pemetaan terkait minat anggota KM ITS dalam menanggapi isu sosial politik sebagai dasaran arah gerak sosial politik BEM ITS</p>
+                      <p class="mb-0">Forum kajian yang dilakukan secara rutin untuk mencerdaskann KM ITS mengenai pembuatan kajian</p>
                   </div>
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">SATPOL (Sistem Kaderisasi Terpadu Pergerakan dan Sosial Politik)</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">DISEL (Diskusi Literasi)</button></h2>
               <div class="accordion-collapse collapse item-2" role="tabpanel" data-bs-parent="#accordion-1">
-                  <div class="accordion-body">
-                      <p class="mb-0">Penyusunan kurikulum penunjang bagi jalannya gerakan Garda Aksi, pembuatan standar penilaian, serta mengonsep sistem kaderisasi pergerakan berkelanjutan sebagai wadah pembinaan KM ITS</p>
-                  </div>
-              </div>
-          </div>
-          <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">TEKAN (Team Kajian)</button></h2>
-              <div class="accordion-collapse collapse item-3" role="tabpanel" data-bs-parent="#accordion-1">
-                  <div class="accordion-body">
-                      <p class="mb-0" style="font-family: Gilroy;">Pembentukan tim pengkaji isu strategis untuk meningkatkan keterlibatan KM ITS terhadap aktivitas kastrat di tingkat Institut</p>
-                  </div>
-              </div>
-          </div>
-          <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">DISEL (Diskusi Literasi)</button></h2>
-              <div class="accordion-collapse collapse item-4" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
                       <p class="mb-0">Forum diskusi yang melibatkan UKM dan bertujuan untuk memperkuat kesadaran KM ITS terhadap kajian</p>
                   </div>
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="false" aria-controls="accordion-1 .item-5">Sekolah Kastrat</button></h2>
-              <div class="accordion-collapse collapse item-5" role="tabpanel" data-bs-parent="#accordion-1">
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-3" aria-expanded="false" aria-controls="accordion-1 .item-3">Sekolah Kastrat</button></h2>
+              <div class="accordion-collapse collapse item-3" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
                       <p class="mb-0">Kegiatan pelatihan untuk meningkatkan wawasan sosial politik serta wawasan inisiasi kajian strategis yang ditujukan untuk perwakilan masing-masing ormawa beserta anggota KM ITS yang memiliki keinginan belajar</p>
                   </div>
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-6" aria-expanded="false" aria-controls="accordion-1 .item-6">Safari Kastrat</button></h2>
-              <div class="accordion-collapse collapse item-6" role="tabpanel" data-bs-parent="#accordion-1">
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-4" aria-expanded="false" aria-controls="accordion-1 .item-4">Safari Kastrat</button></h2>
+              <div class="accordion-collapse collapse item-4" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
                       <p class="mb-0">Kegiatan kunjungan yang dilakukan untuk mengetahui kondisi terkini mengenai kajian strategis di ormawa KM ITS sebagai landasan dalam memberikan treatment pengembangan kajian strategis</p>
-                  </div>
-              </div>
-          </div>
-          <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="true" aria-controls="accordion-1 .item-7">Mapping Isu Keprofesian</button></h2>
-              <div class="accordion-collapse collapse show item-7" role="tabpanel" data-bs-parent="#accordion-1">
-                  <div class="accordion-body">
-                      <p class="mb-0">Pemetaan terhadap isu-isu yang akan dibawa oleh ormawa KM ITS sesuai bidang keilmuan masing-masiing</p>
                   </div>
               </div>
           </div>

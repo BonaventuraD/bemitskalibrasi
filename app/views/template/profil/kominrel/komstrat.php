@@ -88,7 +88,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/komstrat/kalibrasi/Fariz_Staff%20kampanye%20kreatif.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Fariz Dwika Kresnaldi<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Dirjen Kampanye Kreatif</p>
-                                                    <div class="text-center"><a href="www.linkedin.com/in/farizkresnaldi" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/farikresnaldi" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="//www.linkedin.com/in/farizkresnaldi" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/farikresnaldi" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -98,7 +98,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/komstrat/kalibrasi/Nadila_Sekmen.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;" width="358" height="447"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Nadila Wulan Cahyani<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Sekretaris Menteri</p>
-                                                    <div class="text-center"><a href="www.linkedin.com/in/nadilawulan" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nadilawulan/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="//www.linkedin.com/in/nadilawulan" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/nadilawulan/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -126,7 +126,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/komstrat/kalibrasi/Nadia_Asisten%20Dirjen%20Kampanye%20kreatif.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Nadia Fadilah Rachmani<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Asisten Dirjen Kampanye Kreatif</p>
-                                                    <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/nadiafrr" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/nadiafrr" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -144,7 +144,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/komstrat/kalibrasi/Kafa_Dirjen%20PK.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Kafa 'Aisyana Ni'mah<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Dirjen Perencanaan Konten </p>
-                                                    <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/kafaisyana" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/kafaisyana" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -154,7 +154,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/komstrat/kalibrasi/Riga_staff%20dirjen%20PK.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Riga Aryadi Pratama <br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="https://www.linkedin.com/in/riga-aryadi-pratama-465077185" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/rigaaryadi" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="https://www.linkedin.com/in/riga-aryadi-pratama-465077185" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/rigaaryadi" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -172,7 +172,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/komstrat/kalibrasi/M%20Zahid_Staff%20dirjen%20PK.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Muhammad Zahid Ramadhan<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                                    <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/hidmaddd" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/hidmaddd" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>

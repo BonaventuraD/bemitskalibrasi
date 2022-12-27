@@ -298,7 +298,7 @@
   <div class="container">
       <div class="accordion" role="tablist" id="accordion-1" style="font-family: Gilroy;">
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">NGOPI (Ngobrol Perkara Politik)</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1" aria-expanded="false" aria-controls="accordion-1 .item-1">Kajian Aktual</button></h2>
               <div class="accordion-collapse collapse item-1" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
                       <p class="mb-0">Kegiatan kajian tentang isu sosial politik yang akan dimuat dalam media BEM ITS</p>
@@ -306,7 +306,7 @@
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">NGOPREK (Ngobrol Perkara Teknologi)</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-2" aria-expanded="false" aria-controls="accordion-1 .item-2">Kajian Strategis</button></h2>
               <div class="accordion-collapse collapse item-2" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
                       <p class="mb-0">Kegiatan kajian tentang isu Infrastruktur dan Teknologi yang akan dimuat dalam media BEM ITS</p>
@@ -330,10 +330,26 @@
               </div>
           </div>
           <div class="accordion-item">
-              <h2 class="accordion-header" role="tab"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="true" aria-controls="accordion-1 .item-5">KADO (Kabar Untuk Indonesia)</button></h2>
+              <h2 class="accordion-header" role="tab"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-5" aria-expanded="true" aria-controls="accordion-1 .item-5">Kabar dari Mahasiswa (KARMA)</button></h2>
               <div class="accordion-collapse collapse show item-5" role="tabpanel" data-bs-parent="#accordion-1">
                   <div class="accordion-body">
                       <p class="mb-0">Program yang memberikan analisis singkat/infografis merespon isu sosial politik yang sedang hangat di masyarakat</p>
+                  </div>
+              </div>
+          </div>
+          <div class="accordion-item">
+              <h2 class="accordion-header" role="tab"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-6" aria-expanded="true" aria-controls="accordion-1 .item-6">Diskusi Live IG</button></h2>
+              <div class="accordion-collapse collapse show item-6" role="tabpanel" data-bs-parent="#accordion-1">
+                  <div class="accordion-body">
+                      <p class="mb-0">Program kerja yang mewadahi masyarakat Indonesia untuk dapat membahas isu terkin dengan teman teman dari ormawa yang terkait.</p>
+                  </div>
+              </div>
+          </div>
+          <div class="accordion-item">
+              <h2 class="accordion-header" role="tab"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-7" aria-expanded="true" aria-controls="accordion-1 .item-7">PUKAT</button></h2>
+              <div class="accordion-collapse collapse show item-7" role="tabpanel" data-bs-parent="#accordion-1">
+                  <div class="accordion-body">
+                      <p class="mb-0">Program kerja yang membahas penyikapan dari KM ITS terkait dengan kajian yang dibahas.</p>
                   </div>
               </div>
           </div>
