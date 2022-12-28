@@ -24,7 +24,7 @@
                         <p class="fs-6 font-weight-bold">Email: bem@its.ac.id</p>
                         <p class="fs-6 font-weight-normal">Get in touch with us:</p>
                     </div>
-                    <div class="col-sm-12 d-flex justify-content-start">
+                    <div class="col-sm-12 d-flex justify-content-center">
 
                         <!-- Line
                         <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " target="_blank" href="https://liff.line.me/1645278921-kWRPP32q/?accountId=hbj1464h" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-line fa-lg"></i></a> -->
