@@ -306,7 +306,7 @@
 <!-- Slide 3 quicklink  -->
 
 <!-- Slide 4 kabardaribemits -->
-<div class="container-fluid pt-5 slide7Homebg">
+<div class="container-fluid py-5 slide7Homebg">
 
   <header class="section-header">
     <h3 class="fw-bolder fontheader">Kabar dari BEM ITS</h3>
