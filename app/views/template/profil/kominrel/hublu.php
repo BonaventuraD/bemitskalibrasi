@@ -98,7 +98,7 @@
                                               <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/hublu/kalibrasi/Hublu_Ananda_Ezra_DIRJEN_HKAL-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;border-bottom-right-radius: 0px;" width="358" height="447"></div>
                                               <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Ananda Ezra Yohanes<br></h6>
                                               <p class="text-center" style="font-family: Gilroy;">Dirjen Hubungan Kerjasama Antar Lembaga</p>
-                                              <div class="text-center"><a href="www.linkedin.com/in/anandaezra" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/anandaezra/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                              <div class="text-center"><a href="//www.linkedin.com/in/anandaezra" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/anandaezra/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                           </div>
                                       </div>
                                   </div>
@@ -200,7 +200,7 @@
                                               <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/hublu/kalibrasi/Hublu_Rizky_Ram_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
                                               <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Rizky Ramadhan<br></h6>
                                               <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                              <div class="text-center"><a href="www.linkedin.com/in/rizkyyramm" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/rizkyyramm" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                              <div class="text-center"><a href="//www.linkedin.com/in/rizkyyramm" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/rizkyyramm" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                           </div>
                                       </div>
                                   </div>
@@ -322,7 +322,7 @@
                                               <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/kominrel/hublu/kalibrasi/Hublu_Rahmih_Nurfaizah_Staff-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #FCF9F5;"></div>
                                               <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Rahmih Nurfaizah <br></h6>
                                               <p class="text-center" style="font-family: Gilroy;">Staff</p>
-                                              <div class="text-center"><a href="https://www.linkedin.com/in/rahmih-nurfaizah-15b301251" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="instagram.com/faizzaahhh" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                              <div class="text-center"><a href="https://www.linkedin.com/in/rahmih-nurfaizah-15b301251" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="//instagram.com/faizzaahhh" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                           </div>
                                       </div>
                                   </div>
