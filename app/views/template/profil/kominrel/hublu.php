@@ -1,5 +1,5 @@
 <!-- Deskripsi Kemenkoan-->
-<section style="background: linear-gradient(-53deg, #7A66FD 10%, #FCF9F5 71%);">
+<section style="background: url(&quot;<?= base_url(); ?>assets/img/kominrel/bg-kominrel1.svg&quot;);">
   <div class="blank-space"></div>
   <h1 class="text-center" style="text-shadow: 2px 2px var(--bs-border-color-translucent);font-weight: bold;font-family: Gilroy;color: var(--bs-black);">Kementerian Hubungan Luar</h1>
   <div class="blank-space"></div>

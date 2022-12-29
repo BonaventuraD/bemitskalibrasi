@@ -59,7 +59,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Faizal%20dian%20pramudhita_Menteri.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Faizal Dian Pramudita<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Menteri</p>
-                                                    <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/agastya.shindu/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/faizaldianpr/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -97,7 +97,7 @@
                                                     <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/inpus/dagri/kalibrasi/Fatikha_Rahma_Pramadya_Putri_Asdir_Polkam_Dagri-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #12DBB9;border-bottom-right-radius: 0px;"></div>
                                                     <h6 class="text-center text-muted card-title mb-2" style="margin: 4px;font-family: Gilroy;font-weight: bold;">Fatikha Rahma Pramadya Putri<br></h6>
                                                     <p class="text-center" style="font-family: Gilroy;">Asisten Dirjen Politik Kampus</p>
-                                                    <div class="text-center"><a href="https://www.instagram.com/agastya.shindu/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/agastya.shindu/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
+                                                    <div class="text-center"><a href="//linkedin.com/in/fatikha-rahma-pramadya-putri" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/tikaptri/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                                 </div>
                                             </div>
                                         </div>
