@@ -58,9 +58,9 @@
                                                     <p class="card-text text-center">Menko Intra Kampus</p>
                                                     <div class="text-center">
                                                         <!-- Linkedin -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/haykal-hanif-97a28818a/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/haykal-hanif-97a28818a/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);;" class="fab fa-linkedin"></i></a>
                                                         <!-- Instagram -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/haykal_hanif/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/haykal_hanif/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);;" class="fab fa-instagram"></i></a>
                                                     </div>
 
                                                 </div>
@@ -75,9 +75,9 @@
                                                     <p class="card-text text-center">Sekmenko Intra Kampus</p>
                                                     <div class="text-center">
                                                         <!-- Linkedin -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/ahmad-ramadhani/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/ahmad-ramadhani/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);;" class="fab fa-linkedin"></i></a>
                                                         <!-- Instagram -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/_rmdhnnii?igshid=YmMyMTA2M2Y=" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/_rmdhnnii?igshid=YmMyMTA2M2Y=" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);;" class="fab fa-instagram"></i></a>
                                                     </div>
 
                                                 </div>

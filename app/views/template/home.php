@@ -32,7 +32,7 @@
 <div class="container-fluid slide2Homebg">
   <div class="container pb-2">
     <div class="row justify-content-center align-items-center content-tentang-kami">
-    <h2 class="warnapaletungu fw-bold text-center d-block d-sm-none py-3">Tentang Kami</h2>
+      <h2 class="warnapaletungu fw-bold text-center d-block d-sm-none py-3">Tentang Kami</h2>
           <p class="warnapaletungu text-center d-block d-sm-none py-2">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
           </p>
      
@@ -46,20 +46,20 @@
         </div>
         <div class="col text-center d-none d-sm-block pl-5 pt-3 pb-5 content-tentang-kami">
           <div class="ratio ratio-16x9">
-            <iframe src="https://www.youtube.com/embed/MyuFr_KZLs0">
+            <iframe class="rounded-3" src="https://www.youtube.com/embed/R-gtLsx14u8">
             </iframe>
           </div>
           <div class="col align-items-end d-flex pt-3">
-              <div class="col-6"></div>
+              <div class="col-6">
+              </div>
               <div class="col-6">
                 <img class="img-fluid pl-5 pb-5" src="<?= base_url(); ?>assets/img/ornament/img/bawahyoutubeslide2.png" alt=""> 
               </div>
-           
           </div>
         </div>
-      
     </div>
   </div>
+</div>
 <!-- Slide 2 lilabout -->
 
 <!-- Slide 3 quicklink  -->
@@ -306,8 +306,7 @@
 <!-- Slide 3 quicklink  -->
 
 <!-- Slide 4 kabardaribemits -->
-<div class="container-fluid py-5 slide7Homebg">
-
+<!-- <div class="container-fluid py-5 slide7Homebg">
   <header class="section-header">
     <h3 class="fw-bolder fontheader">Kabar dari BEM ITS</h3>
   </header>
@@ -320,19 +319,19 @@
         </div>
         <div class="carousel-inner pt-5 pb-5">
           <div class="carousel-item active">
-          <img src="<?= base_url(); ?>content/uploads/sport-2.jpg?1672144511"class="d-block w-100 rounded-3">
+            <img src="<?= base_url(); ?>content/uploads/sport-2.jpg?1672144511"class="d-block w-100 rounded-3">
             <div class="carousel-caption text-center d-none d-md-block">
             <a href="https://arek.its.ac.id/bem-its/detailpost/demi-mencerdaskan-km-its-terkait-kebijakan-publik-bem-its-gelar-diskusi-publik" title="Demi Mencerdaskan KM ITS Terkait Kebijakan Publik, BEM ITS Gelar Diskusi Publik"><h4 class="fw-bold">Demi Mencerdaskan KM ITS Terkait Kebijakan Publik, BEM ITS Gelar Diskusi Publik</h4></a>
             </div>
           </div>
           <div class="carousel-item">
-          <img src="<?= base_url(); ?>content/uploads/sport-4.jpg?1672144511"class="d-block w-100 rounded-3">
+            <img src="<?= base_url(); ?>content/uploads/sport-4.jpg?1672144511"class="d-block w-100 rounded-3">
             <div class="carousel-caption text-center d-none d-md-block">
             <a href="https://arek.its.ac.id/bem-its/detailpost/lewat-ini-lho-its-2022-mahasiswa-kenalkan-its-lewat-acara-acara-menarik" title="Lewat Ini Lho ITS! 2022, Mahasiswa Kenalkan ITS Lewat Acara-Acara Menarik"><h4 class="fw-bold">Lewat Ini Lho ITS! 2022, Mahasiswa Kenalkan ITS Lewat Acara-Acara Menarik</h4></a>
             </div>
           </div>
           <div class="carousel-item">
-          <img src="<?= base_url(); ?>content/uploads/sport-3.jpg?1672144511" class="d-block w-100 rounded-3">
+            <img src="<?= base_url(); ?>content/uploads/sport-3.jpg?1672144511" class="d-block w-100 rounded-3">
             <div class="carousel-caption text-center d-none d-md-block">
             <a href="https://arek.its.ac.id/bem-its/detailpost/kulik-isu-menarik-bem-its-suguhkan-tayangan-informatif-lewat-suara-km" title="Kulik Isu Menarik, BEM ITS Suguhkan Tayangan Informatif Lewat Suara KM"><h4 class="fw-bold">Kulik Isu Menarik, BEM ITS Suguhkan Tayangan Informatif Lewat Suara KM</h4></a>
             </div>
@@ -348,15 +347,7 @@
         </button>
       </div>
     </div>
-  </div>
-    
-    
-  <!-- <div class="position-relative" style="margin-right: -15px;">
-    <div class="position-absolute bottom-0 end-0">
-      <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide2home.png" class="img-fluid " alt="...">
-    </div>
-  </div> -->
-</div>
+</div> -->
 <!-- Slide 4 kabardaribemits -->
 
 
@@ -499,42 +490,3 @@
   </div>
 </div> -->
 <!-- Slide 4 kabardariBemITS -->
-
-<!-- Slide 5 Instagram BEMITS -->
-<!-- <div class="container-fluid py-5 slideHome5bg">
-  <div class="container py-5 col-9">
-    <div class=" card border-light card-border-radius" style="border-radius: 50px 50px 50px 50px;">
-      <div class="py-2">
-        <svg class="ms-3" xmlns="http://www.w3.org/2000/svg" width="54" height="14" viewBox="0 0 54 14">
-          <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
-            <circle cx="6" cy="6" r="6" fill="#FF5F56" stroke="#E0443E" stroke-width=".5"></circle>
-            <circle cx="26" cy="6" r="6" fill="#FFBD2E" stroke="#DEA123" stroke-width=".5"></circle>
-            <circle cx="46" cy="6" r="6" fill="#27C93F" stroke="#1AAB29" stroke-width=".5"></circle>
-          </g>
-        </svg>
-      </div>
-      <div class="card-body">
-        <div class="row align-items-center pb-3">
-          <div class="col ">
-            <img class="img-fluid float-end" src="<?= base_url(); ?>assets/img/igIcon.png" alt="">
-          </div>
-          <div class="col">
-            <a href="https://www.instagram.com/bem_its/" target="_blank" class="fs-5 text-start fw-bold warnapaletungu card-title" style="color: #013c51;">
-              @bem_its
-            </a>
-             <h5 class="text-start fw-bold warnapaletungu card-title">@bem_its</h5> 
-          </div>
-        </div>
-        <div class="row" id="instafeed">
-        </div>
-      </div>
-
-    </div>
-
-  </div>
-
-
-</div> -->
-
-
-<!-- Slide 5 Instagram BEMITS -->

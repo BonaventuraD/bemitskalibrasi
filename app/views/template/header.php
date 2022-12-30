@@ -107,15 +107,18 @@
                             </ul>
 
                         </li>
+
                         <li class="nav-item dropdown px-2">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Rilis
                             </a>
-                            <ul class="dropdown-menu warnabgnav fontnavbar" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="<?php echo site_url('category/dari-km-its-untuk-indonesia') ?>">Dari KM ITS untuk Indonesia </a></li>
-                                <li><a class="dropdown-item" href="<?php echo site_url('category/kabar-dari-bem-its') ?>">Kabar dari BEM ITS</a></li>
+                            
+                            <ul class="dropdown-menu warnabgnav fontnavbar" aria-labelledby="navbarDropdown">   
+                                    <li><a class="dropdown-item" href="<?php echo site_url('category/dari-km-its-untuk-indonesia') ?>">Dari KM ITS untuk Indonesia </a></li>
+                                    <li><a class="dropdown-item" href="<?php echo site_url('category/kabar-dari-bem-its') ?>">Kabar dari BEM ITS</a></li>                            
                             </ul>
                         </li>
+
                         <li class="nav-item px-2">
                             <a class="nav-link" href="<?php echo site_url('kalender') ?>">Kalender</a>
                         </li>

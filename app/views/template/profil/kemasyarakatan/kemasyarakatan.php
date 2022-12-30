@@ -58,9 +58,9 @@
                                                     <p class="card-text text-center">Menko Kemasyarakatan</p>
                                                     <div class="text-center">
                                                         <!-- Linkedin -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/yuda-ramadhan-syahputra-5b61181b8/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/yuda-ramadhan-syahputra-5b61181b8/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);" class="fab fa-linkedin"></i></a>
                                                         <!-- Instagram -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/yudaramadhans/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/yudaramadhans/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);" class="fab fa-instagram"></i></a>
                                                     </div>
 
                                                 </div>
@@ -75,7 +75,7 @@
                                                     <p class="card-text text-center">Wamenko Kemasyarakatan</p>
                                                     <div class="text-center">
                                                         <!-- Instagram -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/aissalmanf/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/aissalmanf/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);" class="fab fa-instagram"></i></a>
                                                     </div>
 
                                                 </div>
@@ -90,9 +90,9 @@
                                                     <p class="card-text text-center">Sekmenko Kemasyarakatan</p>
                                                     <div class="text-center">
                                                         <!-- Linkedin -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/mwlite/in/annisa-rahma-a-a3aa91137" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/mwlite/in/annisa-rahma-a-a3aa91137" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);" class="fab fa-linkedin"></i></a>
                                                         <!-- Instagram -->
-                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/annisara._" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                                                        <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/annisara._" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);" class="fab fa-instagram"></i></a>
                                                     </div>
 
                                                 </div>

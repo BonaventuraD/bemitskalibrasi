@@ -59,9 +59,9 @@
                           <p class="card-text text-center">Menko Kominrel</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="http://linkedin.com/in/viraloverinca" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="http://linkedin.com/in/viraloverinca" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="http://instagram.com/loverinca" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="http://instagram.com/loverinca" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -76,9 +76,9 @@
                           <p class="card-text text-center">Sekmenko Kominrel</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/seli-cynthia-puspitasari-9a8a671b7/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin fa-lg"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/seli-cynthia-puspitasari-9a8a671b7/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/seli.cynthia?igshid=YmMyMTA2M2Y=" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram fa-lg"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/seli.cynthia?igshid=YmMyMTA2M2Y=" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="font-size: 24px;width: 40px;color: var(--bs-black);" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>

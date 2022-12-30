@@ -23,7 +23,7 @@
                             <label for="exampleInputEmail" class="form-label"><h4 class="fw-bold">Aspirasi</h4></label>
                             <textarea class="form-control" id="message" name="entry.1933291428" placeholder="Silahkan sampaikan kritikan, sambatan, dan aspirasimu..." rows="4"></textarea>
                         </div>
-                        <button type="submit" class="btn btn-primary">Sampaikan</button>
+                        <button type="submit" class="btn text-white fw-bold" style="background-color:#7A66FD;">Sampaikan</button>
                     </form>
                 </div>
             </div>
