@@ -78,7 +78,7 @@
                                         <div class="card h-100" style="border-top-left-radius: 17px;border-top-right-radius: 17px;box-shadow: 3px 3px 7px;">
                                             <div class="card-body card-height-limit" style="margin: -17px;">
                                                 <div><img class="img-fluid" src="<?= base_url(); ?>assets/img/bph/kalibrasi/Rizky_Akbar_Ramadhandy_General_Secretary-removebg-preview.png" style="border: 4px solid var(--bs-border-color-translucent);border-top-left-radius: 17px;border-top-right-radius: 17px;background: #7A66FD;border-bottom-right-radius: 17px;border-bottom-left-radius: 17px;"></div>
-                                                <h6 class="text-center card-title mb-2" style="margin: 4px;color: var(--bs-black);font-size: 24px;font-family: Gilroy;margin-top: 16px;">Rizky Akbar Ramadhandy<br></h6>
+                                                <h6 class="text-center card-title mb-2" style="margin: 4px;color: var(--bs-black);font-size: 24px;font-family: Gilroy;margin-top: 16px;">Rizky Akbar<br>Ramadhandy</h6>
                                                 <p class="text-center" style="font-family: Gilroy;">Sekretaris Jenderal</p>
                                                 <div class="text-center" style="margin-bottom: 16px;"><a href="https://www.linkedin.com/in/rizky-akbar-ramadhandy-0279681b6/" target="_blank"><i class="fab fa-linkedin" style="font-size: 24px;width: 40px;color: var(--bs-black);"></i></a><a href="https://www.instagram.com/dhandruf/" target="_blank"><i class="fab fa-instagram" style="width: 40px;font-size: 24px;color: var(--bs-black);"></i></a></div>
                                             </div>
